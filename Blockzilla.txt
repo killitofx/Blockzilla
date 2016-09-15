@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.59
+! Version 2.60
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -7,7 +7,7 @@
 !
 ! ---------- Blockzilla ---------- >>>>>
 !
-! A powerful filter subscription for Adblock Plus.
+! A powerful list for Adblock Plus.
 ! Block ads. Block trackers. Better web.
 !
 ! ---------- Blockzilla ---------- >>>>>
