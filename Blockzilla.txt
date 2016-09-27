@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.61
+! Version 2.62
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -120,6 +120,7 @@
 ##.b_ad
 ##.banner-ad
 ##.bannerAd
+##.block-fusion-ads
 ##.display-ad
 ##.frame_adv
 ##.gooad
