@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.63
+! Version 2.64
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -631,6 +631,5 @@ huffingtonpost.com##.trending
 @@/webtrends/*$domain=thewarehouse.co.nz
 @@||ams.amazon.com^$document
 @@||analytics.google.com^$document
-@@||gigya.com^$domain=3now.co.nz
 @@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
