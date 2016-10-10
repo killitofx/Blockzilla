@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.65
+! Version 2.66
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -564,6 +564,7 @@ youtube.com##.pyv-afc-ads-container
 ||skimlinks.com^
 ||skimresources.com^
 ||snapengage.com^$image,third-party
+||sonobi.com^
 ||specificclick.net^
 ||spylog.ru^
 ||sq2trk2.com^$popup
