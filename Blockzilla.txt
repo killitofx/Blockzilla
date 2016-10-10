@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.66
+! Version 2.67
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -270,7 +270,7 @@
 /tracker.
 /tracking.
 /tracking/*
-/trans_pixel.aspx?
+/trans_pixel.
 /triggertag.js
 /v53nse.js
 /webtrends.
