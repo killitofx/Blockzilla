@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.71
+! Version 2.72
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -298,7 +298,6 @@ images/ads/
 m.au.ign.com###queen
 mail.google.com##.aKB
 mail.google.com##.nH.PS
-sourceforge.net##.ads
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
@@ -310,6 +309,7 @@ yahoo.com###yom-ad-LREC
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
+||asdorka.com^
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -515,9 +515,7 @@ youtube.com##.pyv-afc-ads-container
 ||partnerads.
 ||partnerads1.
 ||peer39.net^
-||perfectaudience.com^
-||performgroup.com^$domain=stuff.co.nz
-||pho.staticswind.club^$domain=pocketnow.com
+||perfectaudience.com^poc
 ||picadmedia.com^
 ||pinterest.com^$third-party
 ||pixel.
