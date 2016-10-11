@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.68
+! Version 2.69
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -42,6 +42,7 @@
 ###advertSection
 ###advertiseLink
 ###alt_ad_1
+###amazon-affiliates
 ###bannerAd_rdr
 ###bannerad
 ###billboard_ad
@@ -65,8 +66,10 @@
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
+###smartBanner
 ###sponsoredLinks
 ###sponsoredlinks
+###tads
 ###tmglBannerAd
 ###topMPU
 ###top_ad
@@ -165,6 +168,7 @@
 ##DIV[class^="box-ad"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
+##IFRAME[name*="ads-center"]
 &ad_size=
 &adunit=
 &aff_id=
@@ -173,6 +177,7 @@
 -300x250.
 -468x60.
 -adsystem.
+-amazon.com/*/shazam/$image
 .1d/Ads/*
 .advertising.com/wrapper/
 .com/ad/
@@ -258,9 +263,9 @@
 /openx_
 /pagestatistics/*
 /piwik.
+/pixel.gif
 /productAds/*
 /ptracking?
-/pixel.gif
 /show_afs_ads.
 /sponsors.
 /st?ad_type=
@@ -285,29 +290,15 @@ _banner.$domain=youtube.com
 _social_tracking.
 _store_analytics?
 _tracker.js?
-amazon.com###DAcrt
-amazon.com###DAr2
-amazon.com###DAr7
-amazon.com###sponsored-products-dp_feature_div
-amazon.com##.amsSparkleAdWrapper
-dailymail.co.uk###smartBanner
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
-filehippo.com###header-above-content-leaderboard
-google.com##.ra
-google.com,google.co.nz###pmocntr2
-google.com,google.co.nz###tads
 i.stuff.co.nz##.iframe-carousel
 images/ads/
-imdb.com###amazon-affiliates
-imdb.com###top_rhs_wrapper
 m.au.ign.com###queen
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 nzherald.co.nz###mrktImg
-nzherald.co.nz###specialOffersCarousel
 nzherald.co.nz##.logoTagContainer
-nzherald.co.nz##.nzh-extendedbanner
 sourceforge.net##.ads
 telegraph.co.uk###disqus_thread
 telegraph.co.uk##.iabUnit
@@ -447,6 +438,8 @@ youtube.com##.pyv-afc-ads-container
 ||eyeota.net^
 ||fastclick.net^
 ||flix360.com^
+||fls-eu.amazon.com^
+||fls-na.amazon.com^
 ||flux.com^
 ||fmpub.net^
 ||foxsnews.net^$popup
