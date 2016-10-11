@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.70
+! Version 2.71
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -175,6 +175,7 @@
 &view=ad&
 -1x1.gif?
 -300x250.
+-300x50.
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
@@ -297,13 +298,7 @@ images/ads/
 m.au.ign.com###queen
 mail.google.com##.aKB
 mail.google.com##.nH.PS
-nzherald.co.nz###mrktImg
-nzherald.co.nz##.logoTagContainer
 sourceforge.net##.ads
-telegraph.co.uk###disqus_thread
-telegraph.co.uk##.iabUnit
-telegraph.co.uk##.innerPlugin
-telegraph.co.uk##.mnIframe
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
@@ -565,7 +560,6 @@ youtube.com##.pyv-afc-ads-container
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
-||stuff.co.nz/images/blocker.png
 ||survicate.com^
 ||swoop.com^
 ||t.paypal.com^
@@ -574,7 +568,6 @@ youtube.com##.pyv-afc-ads-container
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
-||telegraph.co.uk/*/indeed/
 ||trackalyzer.com^
 ||trends.revcontent.com^
 ||tribalfusion.com^
@@ -592,6 +585,7 @@ youtube.com##.pyv-afc-ads-container
 ||visualwebsiteoptimizer.com^
 ||vizury.com^
 ||w55c.net^
+||watchme.co.nz^$third-party
 ||webads.co.nz^
 ||webtrendslive.com^
 ||wikia-beacon.com^
