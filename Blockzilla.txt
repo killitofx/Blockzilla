@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.73
+! Version 2.74
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -189,6 +189,8 @@
 .com/b.gif?
 .com/countserv/
 .com/metrics/
+.com/pixel-
+.com/pixel.
 .eu/ads/
 .net/ads/
 .nz/ads/
@@ -309,7 +311,6 @@ yahoo.com###yom-ad-LREC
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
-||asdorka.com^
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -354,6 +355,7 @@ youtube.com##.pyv-afc-ads-container
 ||anverlindo.info^
 ||apnmarketplace.co.nz^
 ||as.ebz.io^
+||asdorka.com^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
 ||ayboll.com^
@@ -475,7 +477,6 @@ youtube.com##.pyv-afc-ads-container
 ||legolas-media.com^
 ||lijit.com^
 ||linkedin.com^$third-party
-||linkwithin.com/pixel.png
 ||livefyre.com^$xmlhttprequest
 ||log.
 ||lognormal.net^
@@ -586,6 +587,7 @@ youtube.com##.pyv-afc-ads-container
 ||watchme.co.nz^$third-party
 ||webads.co.nz^
 ||webtrendslive.com^
+||whatismyip.win^
 ||wikia-beacon.com^
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
