@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.78
+! Version 2.79
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -181,7 +181,7 @@
 -adsystem.
 -amazon.com/*/shazam/$image
 .1d/Ads/*
-.advertising.com/wrapper/
+.advertising.com/
 .com/ad/
 .com/ads-
 .com/ads/$~xmlhttprequest
