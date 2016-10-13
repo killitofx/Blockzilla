@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.82
+! Version 2.83
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -537,6 +537,7 @@ images/ads/
 ||t.paypal.com^
 ||taboola.com^
 ||taboolasyndication.com^
+||tags.news.com.au^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
