@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.80
+! Version 2.81
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -63,6 +63,7 @@
 ###leftAd_rdr
 ###logoBannerBox
 ###mbEnd
+###mrktImg
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
@@ -176,7 +177,6 @@
 &view=ad&
 -1x1.gif?
 -300x250.
--300x50.
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
