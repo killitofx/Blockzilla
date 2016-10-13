@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.75
+! Version 2.76
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -192,6 +192,7 @@
 .com/metrics/
 .com/pixel-
 .com/pixel.
+.com/tracker/
 .eu/ads/
 .net/ads/
 .nz/ads/
@@ -223,7 +224,6 @@
 /affiliate_
 /afr.php?
 /api/ads/*
-/banner/*$domain=flaticon.com
 /banner/*$popup
 /baynote.js
 /bct?pid=
@@ -290,28 +290,10 @@ AQB=1&ndh=
 _ad_request.
 _ads&
 _ads.html
-_banner.$domain=youtube.com
 _social_tracking.
 _store_analytics?
 _tracker.js?
-facebook.com###pagelet_side_ads
-facebook.com##.ego_unit_container
-i.stuff.co.nz##.iframe-carousel
 images/ads/
-m.au.ign.com###queen
-mail.google.com##.aKB
-mail.google.com##.nH.PS
-twitter.com##.promoted-account
-twitter.com##.promoted-tweet
-wikipedia.org###centralNotice
-yahoo.com###dmRosAdWrapper-After1st-iframe
-yahoo.com###dmRosAdWrapper-MainNorth
-yahoo.com###dmRosAdWrapper-MainSouth
-yahoo.com###my-adsFPAD-base
-yahoo.com###yom-ad-LREC
-yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
-youtube.com###watch-channel-brand-div
-youtube.com##.pyv-afc-ads-container
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -325,7 +307,6 @@ youtube.com##.pyv-afc-ads-container
 ||adblockdetector.com^
 ||adcash.com^
 ||adclick.
-||addnow.com/tracker/
 ||addthis.com^$third-party
 ||adf.ly^
 ||adlog.com.com^
@@ -347,7 +328,6 @@ youtube.com##.pyv-afc-ads-container
 ||aimatch.com^
 ||akamaihd.net/hads-
 ||alexa.com^
-||amazon.com/*/iframeproxy-
 ||amgdgt.com^
 ||amung.us^
 ||analytics.
@@ -407,21 +387,18 @@ youtube.com##.pyv-afc-ads-container
 ||cxense.com^
 ||d8rk54i4mohrb.cloudfront.net^
 ||dailymail.co.uk/*/promoboxes/
-||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
 ||dirt.dennis.co.uk^
 ||disqus.com/api/ping?
 ||disqus.com/count.js
 ||disqus.com/get_
-||disqus.com/thread.js?url=
 ||dl-rms.com^
 ||dmtracker.com^
 ||dnn506yrbagrg.cloudfront.net^
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
-||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
 ||dynamicyield.com^
@@ -536,8 +513,8 @@ youtube.com##.pyv-afc-ads-container
 ||rfihub.
 ||richmedia247.com^
 ||rover.ebay.com^
+||rta.dailymail.co.uk^
 ||sa.bbc.
-||scanalert.com/meter/
 ||scorecardresearch.com^
 ||scribol.com^$third-party
 ||servedbyopenx.com^
@@ -600,11 +577,33 @@ youtube.com##.pyv-afc-ads-container
 ||yandex.ru^
 ||yieldmanager.
 ||yldbt.com^
-||ytimg.com/*_background.jpg
 ||zdbb.net^
 ||zedo.com^
 ||zergnet.com^$third-party
 ||ziccardia.com^
+!
+! ---------- Specific ---------- >>>>>
+!
+/banner/*$domain=flaticon.com
+_banner.$domain=youtube.com
+facebook.com###pagelet_side_ads
+facebook.com##.ego_unit_container
+i.stuff.co.nz##.iframe-carousel
+m.au.ign.com###queen
+mail.google.com##.aKB
+mail.google.com##.nH.PS
+twitter.com##.promoted-account
+twitter.com##.promoted-tweet
+wikipedia.org###centralNotice
+yahoo.com###dmRosAdWrapper-After1st-iframe
+yahoo.com###dmRosAdWrapper-MainNorth
+yahoo.com###dmRosAdWrapper-MainSouth
+yahoo.com###my-adsFPAD-base
+yahoo.com###yom-ad-LREC
+yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
+youtube.com###watch-channel-brand-div
+youtube.com##.pyv-afc-ads-container
+||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 !
 ! ---------- Not Wanted ---------- >>>>>
 ! 
