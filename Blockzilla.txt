@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.81
+! Version 2.82
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -550,7 +550,6 @@ images/ads/
 ||tynt.com^
 ||typekit.net^
 ||v.fwmrm.net/ad/
-||verticalacuity.com/vat/
 ||viglink.com^
 ||virool.com^
 ||visualrevenue.com^
@@ -569,8 +568,6 @@ images/ads/
 ||xiti.com^
 ||xtendmedia.com^
 ||yadro.ru^
-||yahoo.com/contextual-shortcuts
-||yahoo.com/sdarla/
 ||yandex.ru^
 ||yieldmanager.
 ||yldbt.com^
@@ -602,6 +599,8 @@ youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
 ||dailymail.co.uk/s/l?t=
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||yahoo.com/contextual-shortcuts
+||yahoo.com/sdarla/
 !
 ! ---------- Exceptions ---------- >>>>>
 !
