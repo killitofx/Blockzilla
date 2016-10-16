@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.86
+! Version 2.87
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -299,7 +299,6 @@ images/ads/
 ||247realmedia.com^
 ||3lift.com^
 ||4dsply.com^
-||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
 ||adadvisor.net^
@@ -433,7 +432,6 @@ images/ads/
 ||gwallet.com^
 ||histats.com^
 ||iad.liveperson.net^
-||id.google.*/verify/
 ||igodigital.com^
 ||imrworldwide.com^
 ||infinity-tracking.net^
@@ -477,7 +475,6 @@ images/ads/
 ||novately.com^
 ||odesaconflate.com^
 ||omnitagjs.com^
-||omniture.stuff.co.nz^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
@@ -533,10 +530,8 @@ images/ads/
 ||stats.
 ||survicate.com^
 ||swoop.com^
-||t.paypal.com^
 ||taboola.com^
 ||taboolasyndication.com^
-||tags.news.com.au^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
@@ -597,8 +592,12 @@ yahoo.com###yom-ad-LREC
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
+||a.gsmarena.com^
 ||dailymail.co.uk/s/l?t=
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||omniture.stuff.co.nz^
+||t.paypal.com^
+||tags.news.com.au^
 ||yahoo.com/contextual-shortcuts
 ||yahoo.com/sdarla/
 !
