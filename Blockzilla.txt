@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A01
+! Version A02
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -293,12 +293,24 @@ _ads.html
 _social_tracking.
 _store_analytics?
 _tracker.js?
+facebook.com###pagelet_side_ads
+facebook.com##.ego_unit_container
+i.stuff.co.nz##.iframe-carousel
 images/ads/
+m.au.ign.com###queen
+mail.google.com##.aKB
+mail.google.com##.nH.PS
+twitter.com##.promoted-account
+twitter.com##.promoted-tweet
+wikipedia.org###centralNotice
+youtube.com###watch-channel-brand-div
+youtube.com##.pyv-afc-ads-container
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
 ||3lift.com^
 ||4dsply.com^
+||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
 ||adadvisor.net^
@@ -384,6 +396,7 @@ images/ads/
 ||crwdcntrl.net^
 ||cxense.com^
 ||d8rk54i4mohrb.cloudfront.net^
+||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
 ||dirt.dennis.co.uk^
@@ -475,6 +488,7 @@ images/ads/
 ||novately.com^
 ||odesaconflate.com^
 ||omnitagjs.com^
+||omniture.stuff.co.nz^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
@@ -530,8 +544,10 @@ images/ads/
 ||stats.
 ||survicate.com^
 ||swoop.com^
+||t.paypal.com^
 ||taboola.com^
 ||taboolasyndication.com^
+||tags.news.com.au^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
