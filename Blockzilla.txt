@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A03
+! Version A04
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -184,7 +184,7 @@
 .advertising.com/
 .com/ad/
 .com/ads-
-.com/ads/$~xmlhttprequest
+.com/ads/
 .com/advert/
 .com/advertising/
 .com/b.gif?
@@ -410,7 +410,7 @@ youtube.com##.pyv-afc-ads-container
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
-||doubleclick.net^$~object-subrequest
+||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
 ||dw.com.com^
 ||dynamicyield.com^
 ||edigitalsurvey.com^
@@ -497,7 +497,7 @@ youtube.com##.pyv-afc-ads-container
 ||optimost.com^
 ||outbrain.com^$third-party
 ||owneriq.net^
-||pagead2.*/pagead/*.js
+||pagead2.*/pagead/
 ||parsely.com^
 ||partnerads.
 ||partnerads1.
