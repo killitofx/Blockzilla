@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Version 2.88
+! Version A01
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
 ! Homepage: https://zpacman.github.io/Blockzilla/
 !
-! ---------- Blockzilla ---------- >>>>>
+! Blockzilla >>>>>
 !
 ! A powerful list for Adblock Plus.
 ! Block ads. Block trackers. Better web.
 !
-! ---------- Blockzilla ---------- >>>>>
+! Blockzilla >>>>>
 !
 ###A9AdsMiddleBoxTop
 ###AUI_A9AdsMiddleBoxTop
@@ -573,29 +573,13 @@ images/ads/
 ||zergnet.com^$third-party
 ||ziccardia.com^
 !
-! ---------- Specific ---------- >>>>>
+! Add on domains >>>>>
 !
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
-facebook.com###pagelet_side_ads
-facebook.com##.ego_unit_container
-i.stuff.co.nz##.iframe-carousel
-m.au.ign.com###queen
-mail.google.com##.aKB
-mail.google.com##.nH.PS
-twitter.com##.promoted-account
-twitter.com##.promoted-tweet
-wikipedia.org###centralNotice
-youtube.com###watch-channel-brand-div
-youtube.com##.pyv-afc-ads-container
-||a.gsmarena.com^
-||dailymail.co.uk/s/l?t=
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
-||omniture.stuff.co.nz^
-||t.paypal.com^
-||tags.news.com.au^
 !
-! ---------- Exceptions ---------- >>>>>
+! Website exceptions >>>>>
 !
 @@.com/ads/$domain=xojane.com
 @@/beacon.$domain=amazon.com|engadget.com
