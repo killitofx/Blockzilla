@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A05
+! Version A06
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -423,8 +423,7 @@ youtube.com##.pyv-afc-ads-container
 ||eyeota.net^
 ||fastclick.net^
 ||flix360.com^
-||fls-eu.amazon.com^
-||fls-na.amazon.com^
+||fls-*.amazon.com^
 ||flux.com^
 ||fmpub.net^
 ||fng-ads.fox.com^
@@ -599,8 +598,8 @@ _banner.$domain=youtube.com
 ! Website exceptions >>>>>
 !
 @@.com/ads/$domain=xojane.com
-@@/beacon.$domain=amazon.com|engadget.com
 @@.net/ad/$domain=foxsports.com
+@@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
 @@/track/*$domain=bandcamp.com
 @@/tracking/*$domain=ups.com
