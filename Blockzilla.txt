@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A07
+! Version A08
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -99,6 +99,7 @@
 ##.adHolder
 ##.adNoOutline
 ##.adSpace
+##.adStyle
 ##.ad_300_250
 ##.ad_300x250
 ##.ad_728x90
@@ -316,6 +317,7 @@ youtube.com##.pyv-afc-ads-container
 ||ad.linksynergy.com^
 ||adadvisor.net^
 ||adblade.com^
+||adblock-tracking.
 ||adblockdetector.com^
 ||adcash.com^
 ||adclick.
