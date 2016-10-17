@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A04
+! Version A05
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -365,6 +365,7 @@ youtube.com##.pyv-afc-ads-container
 ||bizographics.com^
 ||bkrtx.com^
 ||bluekai.com^
+||bnc.lt^
 ||boomtrain.com^
 ||bounceexchange.com^
 ||bttrack.com^
@@ -409,7 +410,6 @@ youtube.com##.pyv-afc-ads-container
 ||dnn506yrbagrg.cloudfront.net^
 ||domdex.com^
 ||dotomi.com^
-||doubleclick.net/pfadx/
 ||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
 ||dw.com.com^
 ||dynamicyield.com^
@@ -427,6 +427,7 @@ youtube.com##.pyv-afc-ads-container
 ||fls-na.amazon.com^
 ||flux.com^
 ||fmpub.net^
+||fng-ads.fox.com^
 ||foxsnews.net^$popup
 ||fqtag.com^
 ||game-advertising-online.com^
@@ -599,6 +600,7 @@ _banner.$domain=youtube.com
 !
 @@.com/ads/$domain=xojane.com
 @@/beacon.$domain=amazon.com|engadget.com
+@@.net/ad/$domain=foxsports.com
 @@/piwik.js$domain=myuv.com
 @@/track/*$domain=bandcamp.com
 @@/tracking/*$domain=ups.com
