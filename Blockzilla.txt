@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A08
+! Version A09
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -367,6 +367,7 @@ youtube.com##.pyv-afc-ads-container
 ||bizographics.com^
 ||bkrtx.com^
 ||bluekai.com^
+||bluesli.de^
 ||bnc.lt^
 ||boomtrain.com^
 ||bounceexchange.com^
@@ -556,6 +557,7 @@ youtube.com##.pyv-afc-ads-container
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
+||trace.events^
 ||trackalyzer.com^
 ||trends.revcontent.com^
 ||tribalfusion.com^
@@ -573,6 +575,7 @@ youtube.com##.pyv-afc-ads-container
 ||w55c.net^
 ||watchme.co.nz^$third-party
 ||webads.co.nz^
+||webeatyouradblocker.com^
 ||webtrendslive.com^
 ||whatismyip.win^
 ||wikia-beacon.com^
