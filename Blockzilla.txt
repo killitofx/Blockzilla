@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A09
+! Version A10
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -181,7 +181,7 @@
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
-.1d/Ads/*
+.1d/Ads/
 .advertising.com/
 .com/ad/
 .com/ads-
