@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A10
+! Version A11
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -486,6 +486,7 @@ youtube.com##.pyv-afc-ads-container
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
 ||nanigans.com^
+||naver.net^
 ||neighbourly.co.nz^$third-party
 ||netmng.com^
 ||netshelter.net^
@@ -606,6 +607,7 @@ _banner.$domain=youtube.com
 !
 @@.com/ads/$domain=xojane.com
 @@.net/ad/$domain=foxsports.com
+@@/analytics.$domain=twitter.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
 @@/track/*$domain=bandcamp.com
