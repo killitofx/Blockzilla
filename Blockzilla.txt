@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A11
+! Version A12
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -331,7 +331,8 @@ youtube.com##.pyv-afc-ads-container
 ||ads.
 ||ads1.
 ||adsbyisocket.com^
-||adserver.yahoo.com^
+||adserver.
+||adsjudo.com^
 ||adsnative.com^
 ||adsupply.com^
 ||adsymptotic.com^
@@ -447,6 +448,7 @@ youtube.com##.pyv-afc-ads-container
 ||gscounters.
 ||gumgum.com^
 ||gwallet.com^
+||hearst.io^
 ||histats.com^
 ||iad.liveperson.net^
 ||igodigital.com^
@@ -509,6 +511,8 @@ youtube.com##.pyv-afc-ads-container
 ||partnerads1.
 ||peer39.net^
 ||perfectaudience.com^
+||petametrics.com^
+||phantom.nudgespot.com^$third-party
 ||picadmedia.com^
 ||pinterest.com^$third-party
 ||pixel.
@@ -568,6 +572,7 @@ youtube.com##.pyv-afc-ads-container
 ||twitter.com^$third-party
 ||tynt.com^
 ||typekit.net^
+||unrulymedia.com^
 ||viglink.com^
 ||virool.com^
 ||visualrevenue.com^
@@ -590,12 +595,14 @@ youtube.com##.pyv-afc-ads-container
 ||yahoo.com/contextual-shortcuts
 ||yahoo.com/sdarla/
 ||yandex.ru^
+||yavli.com^
 ||yieldmanager.
 ||yldbt.com^
 ||zdbb.net^
 ||zedo.com^
 ||zergnet.com^$third-party
 ||ziccardia.com^
+||zqtk.net^
 !
 ! Add on domains >>>>>
 !
@@ -616,5 +623,6 @@ _banner.$domain=youtube.com
 @@||3now.co.nz^$document
 @@||ams.amazon.com^$document
 @@||analytics.google.com^$document
+@@||gigya.com^$domain=dailystar.co.uk
 @@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
