@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A12
+! Version A13
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -348,7 +348,7 @@ youtube.com##.pyv-afc-ads-container
 ||andomedia.com^
 ||anverlindo.info^
 ||apnmarketplace.co.nz^
-||as.ebz.io^
+||ebz.io^
 ||asdorka.com^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
@@ -396,6 +396,7 @@ youtube.com##.pyv-afc-ads-container
 ||contextweb.com^
 ||conviva.com^
 ||coremetrics.com^
+||cpx.to^
 ||criteo.com^
 ||crowdscience.com^
 ||crsspxl.com^
