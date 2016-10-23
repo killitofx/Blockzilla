@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A15
+! Version A16
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -141,6 +141,7 @@
 ##.headerTextAd
 ##.home-ad-container
 ##.item-container-ad
+##.mapped-ad
 ##.marketing-ad
 ##.masthead-ad
 ##.mobile-ad
@@ -350,7 +351,6 @@ youtube.com##.pyv-afc-ads-container
 ||anverlindo.info^
 ||apnmarketplace.co.nz^
 ||arlime.com^
-||ebz.io^
 ||asdorka.com^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
@@ -420,6 +420,7 @@ youtube.com##.pyv-afc-ads-container
 ||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
 ||dw.com.com^
 ||dynamicyield.com^
+||ebz.io^
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||eventlogger.soundcloud.com^
@@ -505,6 +506,7 @@ youtube.com##.pyv-afc-ads-container
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
+||optimize-stats.
 ||optimizely.com^
 ||optimost.com^
 ||oriel.io^
@@ -577,6 +579,7 @@ youtube.com##.pyv-afc-ads-container
 ||twitter.com^$third-party
 ||tynt.com^
 ||typekit.net^
+||umbel.com^
 ||unrulymedia.com^
 ||viglink.com^
 ||virool.com^
@@ -623,6 +626,7 @@ _banner.$domain=youtube.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
 @@/track/*$domain=bandcamp.com
+@@/tracking.$domain=gamespot.com
 @@/tracking/*$domain=ups.com
 @@/webtrends/*$domain=thewarehouse.co.nz
 @@||3now.co.nz^$document
