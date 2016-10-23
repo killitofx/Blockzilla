@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A16
+! Version A17
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -126,6 +126,7 @@
 ##.b_ad
 ##.banner-ad
 ##.bannerAd
+##.bannerAdContainer
 ##.block-fusion-ads
 ##.display-ad
 ##.frame_adv
@@ -195,6 +196,7 @@
 .com/metrics/
 .com/pixel-
 .com/pixel.
+.com/t.gif?
 .com/tracker/
 .eu/ads/
 .net/ad/
@@ -266,6 +268,7 @@
 /jserver/site
 /log.gif?
 /maxymiser/*
+/monumetric.png
 /ntpagetag.gif?
 /oascentral.
 /openx_
@@ -321,10 +324,13 @@ youtube.com##.pyv-afc-ads-container
 ||adblade.com^
 ||adblock-tracking.
 ||adblockdetector.com^
+||adbrn.com^
 ||adcash.com^
 ||adclick.
 ||addthis.com^$third-party
 ||adf.ly^
+||adform.net^
+||adgrx.com^
 ||adlog.com.com^
 ||admeld.com^
 ||adnxs.com^
@@ -355,6 +361,7 @@ youtube.com##.pyv-afc-ads-container
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
 ||ayboll.com^
+||b.collective-media.net^
 ||banners.itunes.apple.com^
 ||bat.bing.com^$image
 ||bat.r.msn.com^$image
@@ -369,11 +376,14 @@ youtube.com##.pyv-afc-ads-container
 ||bidswitch.net^
 ||bizographics.com^
 ||bkrtx.com^
+||blockertools.net^
 ||bluekai.com^
 ||bluesli.de^
 ||bnc.lt^
+||bnmla.com^
 ||boomtrain.com^
 ||bounceexchange.com^
+||btrll.com^
 ||bttrack.com^
 ||burstnet.com^
 ||buysellads.com^
@@ -381,6 +391,7 @@ youtube.com##.pyv-afc-ads-container
 ||casalemedia.com^
 ||castplatform.com^
 ||cedexis.com^
+||chanalytics.
 ||channelintelligence.com^
 ||chartbeat.
 ||chitika.net^
@@ -391,6 +402,7 @@ youtube.com##.pyv-afc-ads-container
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/atrk.js
 ||cloudfront.net/log.js
+||cogocast.net^
 ||comscore.com^
 ||connatix.com^
 ||connect.facebook.net^$third-party
@@ -403,6 +415,7 @@ youtube.com##.pyv-afc-ads-container
 ||crowdscience.com^
 ||crsspxl.com^
 ||crwdcntrl.net^
+||ctnsnet.com^
 ||cxense.com^
 ||d8rk54i4mohrb.cloudfront.net^
 ||dailymail.co.uk/s/l?t=
@@ -418,6 +431,7 @@ youtube.com##.pyv-afc-ads-container
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
+||dpclk.com^
 ||dw.com.com^
 ||dynamicyield.com^
 ||ebz.io^
@@ -438,8 +452,10 @@ youtube.com##.pyv-afc-ads-container
 ||foxsnews.net^$popup
 ||fqtag.com^
 ||game-advertising-online.com^
+||gcw.mysavings.com^
 ||geo.yahoo.com^
 ||getclicky.com^
+||getrockerbox.com^
 ||gigya.com^
 ||glanceguide.com^
 ||google-analytics.com*/collect?
@@ -463,6 +479,7 @@ youtube.com##.pyv-afc-ads-container
 ||inskinad.com^
 ||intellitxt.com^
 ||iperceptions.com^
+||ipowow.com^$image
 ||isanalyze.com^
 ||jangonetwork.com^
 ||jscount.com^
@@ -473,18 +490,22 @@ youtube.com##.pyv-afc-ads-container
 ||krxd.net^
 ||l.ooyala.com^
 ||legolas-media.com^
+||lifestreet.com^
 ||lijit.com^
 ||linkedin.com^$third-party
 ||livefyre.com^$xmlhttprequest
+||liveramp.
 ||log.
 ||logentries.com^
 ||lognormal.net^
+||marchex.io^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
 ||mathtag.com^
 ||mdadx.com^
 ||media.net^
 ||media6degrees.com^
+||mentad.com^
 ||metrics.
 ||mixpanel.com^
 ||moatads.com^
@@ -506,6 +527,7 @@ youtube.com##.pyv-afc-ads-container
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
+||optimahub.com^
 ||optimize-stats.
 ||optimizely.com^
 ||optimost.com^
@@ -534,14 +556,20 @@ youtube.com##.pyv-afc-ads-container
 ||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
+||reson8.com^
 ||revdepo.com^
 ||revsci.net^
 ||rfihub.
 ||richmedia247.com^
+||rlcdn.com^
 ||rover.ebay.com^
+||ru4.com^
+||rubiconproject.com^
 ||sa.bbc.
+||sbal4kp.com^
 ||scorecardresearch.com^
 ||scribol.com^$third-party
+||sekindo.com^
 ||servedbyopenx.com^
 ||serving-sys.com^
 ||sessioncam.com^
@@ -560,6 +588,7 @@ youtube.com##.pyv-afc-ads-container
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
+||sumome.com^$image
 ||survicate.com^
 ||swoop.com^
 ||t.paypal.com^
@@ -569,20 +598,25 @@ youtube.com##.pyv-afc-ads-container
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
+||thebloggernetwork.com^
 ||trace.events^
 ||trackalyzer.com^
 ||trends.revcontent.com^
 ||tribalfusion.com^
 ||triggit.com^
 ||tritondigital.com^
+||truoptik.com^
 ||turn.com^
 ||twitter.com^$third-party
 ||tynt.com^
 ||typekit.net^
 ||umbel.com^
+||univide.com^
 ||unrulymedia.com^
+||videostat.com^
 ||viglink.com^
 ||virool.com^
+||visiblemeasures.com^
 ||visualrevenue.com^
 ||visualwebsiteoptimizer.com^
 ||vizury.com^
