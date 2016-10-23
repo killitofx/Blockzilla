@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A14
+! Version A15
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -68,6 +68,7 @@
 ###self_serve_ads
 ###skyscraper
 ###smartBanner
+###socialFocusContainer
 ###sponsoredLinks
 ###sponsoredlinks
 ###tads
@@ -464,6 +465,7 @@ youtube.com##.pyv-afc-ads-container
 ||isanalyze.com^
 ||jangonetwork.com^
 ||jscount.com^
+||jsrdn.com^
 ||kissmetrics.com^
 ||kontera.com^
 ||korrelate.net^
