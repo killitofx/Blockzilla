@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A18
+! Version A19
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -78,6 +78,7 @@
 ###yan-sponsored
 ##.Ad
 ##.Ad300x250
+##.ad-article-breaker
 ##.AdUnit
 ##.AdvertisementText
 ##._ap_adpushup_ad
@@ -184,6 +185,7 @@
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
+.amazonaws.com/prod/buzzing/$third-party
 .1d/Ads/
 .advertising.com/
 .com/ad/
@@ -670,5 +672,6 @@ _banner.$domain=youtube.com
 @@||ams.amazon.com^$document
 @@||analytics.google.com^$document
 @@||gigya.com^$domain=dailystar.co.uk
+@@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
