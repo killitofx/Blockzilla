@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A20
+! Version A21
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -199,7 +199,6 @@
 .com/pixel-
 .com/pixel.
 .com/t.gif?
-.com/tracker/
 .eu/ads/
 .net/ad/
 .net/ads/
@@ -286,6 +285,7 @@
 /track.
 /track/*
 /tracker.
+/tracker/*
 /tracking.
 /tracking/*
 /trans_pixel.
