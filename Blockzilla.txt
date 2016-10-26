@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A21
+! Version A22
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -283,6 +283,7 @@
 /st?ad_type=
 /swfbin/ad3-
 /track.
+/trackjs.
 /track/*
 /tracker.
 /tracker/*
@@ -448,7 +449,7 @@ youtube.com##.pyv-afc-ads-container
 ||eyeota.net^
 ||fastclick.net^
 ||flix360.com^
-||fls-*.amazon.com^
+||fls-*.amazon.
 ||flux.com^
 ||flx1.com^
 ||fmpub.net^
