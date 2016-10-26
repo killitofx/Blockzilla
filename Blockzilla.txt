@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A22
+! Version A23
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -78,11 +78,11 @@
 ###yan-sponsored
 ##.Ad
 ##.Ad300x250
-##.ad-article-breaker
 ##.AdUnit
 ##.AdvertisementText
 ##._ap_adpushup_ad
 ##.ad
+##.ad-article-breaker
 ##.ad-banner
 ##.ad-banner-leaderboard
 ##.ad-container
@@ -185,9 +185,9 @@
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
-.amazonaws.com/prod/buzzing/$third-party
 .1d/Ads/
 .advertising.com/
+.amazonaws.com/prod/buzzing/$third-party
 .com/ad/
 .com/ads-
 .com/ads/
@@ -200,6 +200,7 @@
 .com/pixel.
 .com/t.gif?
 .eu/ads/
+.kissinsights.com/
 .net/ad/
 .net/ads/
 .nz/ads/
@@ -283,12 +284,12 @@
 /st?ad_type=
 /swfbin/ad3-
 /track.
-/trackjs.
 /track/*
 /tracker.
 /tracker/*
 /tracking.
 /tracking/*
+/trackjs.
 /trans_pixel.
 /triggertag.js
 /v53nse.js
@@ -424,6 +425,7 @@ youtube.com##.pyv-afc-ads-container
 ||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
+||deployads.com^
 ||dirt.dennis.co.uk^
 ||disqus.com/api/ping?
 ||disqus.com/count.js
@@ -677,3 +679,4 @@ _banner.$domain=youtube.com
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
+@@||use.typekit.net^
