@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A23
+! Version A24
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -236,6 +236,7 @@
 /baynote.js
 /bct?pid=
 /beacon.
+/bvstaging/*
 /c.gif?
 /cc.silktide.
 /cmdatatagutils.js
@@ -371,7 +372,6 @@ youtube.com##.pyv-afc-ads-container
 ||bat.r.msn.com^$image
 ||bats.video.yahoo.com^
 ||bazaarvoice.com/*.gif?
-||bazaarvoice.com/bvstaging/
 ||bc.yahoo.com^
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
@@ -477,6 +477,7 @@ youtube.com##.pyv-afc-ads-container
 ||gwallet.com^
 ||hearst.io^
 ||histats.com^
+||hotjar.com^
 ||iad.liveperson.net^
 ||ifmnwi.club^
 ||igodigital.com^
