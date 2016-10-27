@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A24
+! Version A25
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -403,9 +403,6 @@ youtube.com##.pyv-afc-ads-container
 ||clickfuse.com^
 ||clickiocdnh.com^
 ||clicktale.net^
-||cloudfront.net/*&referrer=
-||cloudfront.net/atrk.js
-||cloudfront.net/log.js
 ||cogocast.net^
 ||comscore.com^
 ||connatix.com^
@@ -421,7 +418,6 @@ youtube.com##.pyv-afc-ads-container
 ||crwdcntrl.net^
 ||ctnsnet.com^
 ||cxense.com^
-||d8rk54i4mohrb.cloudfront.net^
 ||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
@@ -432,7 +428,6 @@ youtube.com##.pyv-afc-ads-container
 ||disqus.com/get_
 ||dl-rms.com^
 ||dmtracker.com^
-||dnn506yrbagrg.cloudfront.net^
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
@@ -443,7 +438,7 @@ youtube.com##.pyv-afc-ads-container
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||envy.net^
-||eventlogger.soundcloud.com^
+||eventlogger.
 ||everesttech.net^
 ||exelator.com^
 ||exponential.com^
@@ -655,6 +650,14 @@ youtube.com##.pyv-afc-ads-container
 ||zergnet.com^$third-party
 ||ziccardia.com^
 ||zqtk.net^
+!
+! Cloudfront >>>>>
+!
+||cloudfront.net/*&referrer=
+||cloudfront.net/atrk.js
+||cloudfront.net/log.js
+||d8rk54i4mohrb.cloudfront.net^
+||dnn506yrbagrg.cloudfront.net^
 !
 ! Add on domains >>>>>
 !
