@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A25
+! Version A26
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -72,6 +72,7 @@
 ###sponsoredLinks
 ###sponsoredlinks
 ###tads
+###tmgAds_mpu
 ###tmglBannerAd
 ###topMPU
 ###top_ad
