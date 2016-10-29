@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A28
+! Version A29
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -205,6 +205,7 @@
 .net/ad/
 .net/ads/
 .nz/ads/
+.netdna-*/analytics.
 .php?bannerid=
 .php?zoneid=
 /1pix.gif?
@@ -673,7 +674,6 @@ _banner.$domain=youtube.com
 !
 @@.com/ads/$domain=xojane.com
 @@.net/ad/$domain=foxsports.com
-@@/analytics.$domain=twitter.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
 @@/track/*$domain=bandcamp.com
