@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A30
+! Version A31
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -11,6 +11,8 @@
 ! Block ads. Block trackers. Better web.
 !
 ! Blockzilla >>>>>
+!
+! Ad Element Hiding >>>>>
 !
 ###A9AdsMiddleBoxTop
 ###AUI_A9AdsMiddleBoxTop
@@ -177,6 +179,21 @@
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
 ##IFRAME[name*="ads-center"]
+facebook.com###pagelet_side_ads
+facebook.com##.ego_unit_container
+i.stuff.co.nz##.iframe-carousel
+m.au.ign.com###queen
+mail.google.com##.aKB
+mail.google.com##.nH.PS
+twitter.com##.promoted-account
+twitter.com##.promoted-tweet
+wikipedia.org###centralNotice
+youtube.com###watch-channel-brand-div
+youtube.com##.pyv-afc-ads-container
+!
+! Ad and Tracker Blocking >>>>>
+!
+images/ads/
 &ad_size=
 &adunit=
 &aff_id=
@@ -307,18 +324,6 @@ _ads.html
 _social_tracking.
 _store_analytics?
 _tracker.js?
-facebook.com###pagelet_side_ads
-facebook.com##.ego_unit_container
-i.stuff.co.nz##.iframe-carousel
-images/ads/
-m.au.ign.com###queen
-mail.google.com##.aKB
-mail.google.com##.nH.PS
-twitter.com##.promoted-account
-twitter.com##.promoted-tweet
-wikipedia.org###centralNotice
-youtube.com###watch-channel-brand-div
-youtube.com##.pyv-afc-ads-container
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -664,13 +669,13 @@ youtube.com##.pyv-afc-ads-container
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 !
-! Add on domains >>>>>
+! Add on Domains >>>>>
 !
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 !
-! Website exceptions >>>>>
+! Website Exceptions >>>>>
 !
 @@.net/ad/$domain=foxsports.com
 @@/beacon.$domain=amazon.com|engadget.com
