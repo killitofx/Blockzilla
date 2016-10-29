@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A29
+! Version A30
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -672,7 +672,6 @@ _banner.$domain=youtube.com
 !
 ! Website exceptions >>>>>
 !
-@@.com/ads/$domain=xojane.com
 @@.net/ad/$domain=foxsports.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
@@ -685,6 +684,5 @@ _banner.$domain=youtube.com
 @@||analytics.google.com^$document
 @@||gigya.com^$domain=dailystar.co.uk
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
-@@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
 @@||use.typekit.net^
