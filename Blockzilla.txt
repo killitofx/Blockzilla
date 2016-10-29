@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A26
+! Version A27
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -548,6 +548,7 @@ youtube.com##.pyv-afc-ads-container
 ||petametrics.com^
 ||phantom.nudgespot.com^$third-party
 ||picadmedia.com^
+||pictela.net^
 ||pinterest.com^$third-party
 ||pixel.
 ||polarmobile.com^
@@ -593,6 +594,7 @@ youtube.com##.pyv-afc-ads-container
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
+||steelhousemedia.com^
 ||sumome.com^$image
 ||survicate.com^
 ||swoop.com^
