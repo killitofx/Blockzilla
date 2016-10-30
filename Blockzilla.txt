@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A32
+! Version A33
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -473,6 +473,7 @@ _tracker.js?
 ||googletagmanager.com^
 ||googletagservices.com^
 ||goroost.com^$third-party
+||grapeshot.co.uk^
 ||graph.facebook.com^$third-party
 ||gravity.com^
 ||gscounters.
@@ -486,6 +487,7 @@ _tracker.js?
 ||igodigital.com^
 ||impactradius.com^
 ||imrworldwide.com^
+||indexww.com^
 ||infinity-tracking.net^
 ||infolinks.com^
 ||inskinad.com^
