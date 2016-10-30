@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A31
+! Version A32
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -205,7 +205,7 @@ images/ads/
 -amazon.com/*/shazam/$image
 .1d/Ads/
 .advertising.com/
-.amazonaws.com/prod/buzzing/$third-party
+.amazonaws.com/*/buzzing/$third-party
 .com/ad/
 .com/ads-
 .com/ads/
