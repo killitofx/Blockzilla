@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A35
+! Version A36
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -196,7 +196,7 @@ _tracker.js?
 ||atdmt.com^
 ||ayboll.com^
 ||b.collective-media.net^
-||banners.itunes.apple.com^
+||banners.
 ||bat.bing.com^$image
 ||bat.r.msn.com^$image
 ||bats.video.yahoo.com^
