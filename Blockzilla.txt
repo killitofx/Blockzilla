@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A34
+! Version A35
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -662,6 +662,7 @@ _banner.$domain=youtube.com
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
+##DIV[class^="commercial-unit-"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
 ##IFRAME[name*="ads-center"]
