@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A38
+! Version A39
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -16,7 +16,6 @@
 !
 ! Ad and Tracker Blocking >>>>>
 !
-images/ads/
 &ad_size=
 &adunit=
 &aff_id=
@@ -44,8 +43,8 @@ images/ads/
 .kissinsights.com/
 .net/ad/
 .net/ads/
-.nz/ads/
 .netdna-*/analytics.
+.nz/ads/
 .php?bannerid=
 .php?zoneid=
 /1pix.gif?
@@ -114,6 +113,7 @@ images/ads/
 /log.gif?
 /maxymiser/*
 /monumetric.png
+/nltracker.js
 /ntpagetag.gif?
 /oascentral.
 /openx_
@@ -132,6 +132,7 @@ images/ads/
 /tracker/*
 /tracking.
 /tracking/*
+/tracking_
 /trackjs.
 /trans_pixel.
 /triggertag.js
@@ -144,9 +145,11 @@ AQB=1&ndh=
 _ad_request.
 _ads&
 _ads.html
+_opt/logging_
 _social_tracking.
 _store_analytics?
 _tracker.js?
+images/ads/
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -179,6 +182,7 @@ _tracker.js?
 ||adsnative.com^
 ||adsupply.com^
 ||adsymptotic.com^
+||adunit.
 ||advertising.
 ||adzerk.net^
 ||affinity.com^
@@ -428,6 +432,7 @@ _tracker.js?
 ||stats.
 ||steelhousemedia.com^
 ||sumome.com^$image
+||supert.ag^
 ||survicate.com^
 ||swoop.com^
 ||t.paypal.com^
@@ -455,6 +460,8 @@ _tracker.js?
 ||unrulymedia.com^
 ||videostat.com^
 ||viglink.com^
+||vimeo.com/*=log_
+||vimeo.com/log/
 ||virool.com^
 ||visiblemeasures.com^
 ||visualrevenue.com^
