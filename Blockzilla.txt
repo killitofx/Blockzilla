@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A39
+! Version A40
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -16,6 +16,7 @@
 !
 ! Ad and Tracker Blocking >>>>>
 !
+##.js-adfliction-standard
 &ad_size=
 &adunit=
 &aff_id=
@@ -25,6 +26,9 @@
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
+-stat/advertising/
+-stat/analytics/
+-tracking.
 .1d/Ads/
 .advertising.com/
 .amazonaws.com/*/buzzing/$third-party
@@ -57,6 +61,7 @@
 /ad.html?
 /ad.php?
 /ad1.
+/adcontrol/*
 /adimages.
 /adloader.
 /adp/adp-
@@ -73,6 +78,7 @@
 /affiliate_
 /afr.php?
 /api/ads/*
+/apnnz/tserver/*=PREROLL
 /banner/*$popup
 /baynote.js
 /bct?pid=
@@ -83,7 +89,9 @@
 /cmdatatagutils.js
 /cookie_backup.php?
 /cookieconsent.
+/count.js
 /count.json?
+/count/*$image
 /counter.php?
 /csi?v=$image
 /customads/*
@@ -146,9 +154,9 @@ _ad_request.
 _ads&
 _ads.html
 _opt/logging_
-_social_tracking.
 _store_analytics?
-_tracker.js?
+_tracker.
+_tracking.
 images/ads/
 ||112.2o7.net^
 ||204st.us^
@@ -160,7 +168,6 @@ images/ads/
 ||ad.linksynergy.com^
 ||adadvisor.net^
 ||adblade.com^
-||adblock-tracking.
 ||adblockdetector.com^
 ||adbrn.com^
 ||adcash.com^
@@ -259,7 +266,6 @@ images/ads/
 ||deployads.com^
 ||dirt.dennis.co.uk^
 ||disqus.com/api/ping?
-||disqus.com/count.js
 ||disqus.com/get_
 ||dl-rms.com^
 ||dmtracker.com^
@@ -315,16 +321,17 @@ images/ads/
 ||impactradius.com^
 ||imrworldwide.com^
 ||indexww.com^
-||infinity-tracking.net^
 ||infolinks.com^
 ||inskinad.com^
 ||intellitxt.com^
 ||iperceptions.com^
 ||ipowow.com^$image
+||iris.tv^
 ||isanalyze.com^
 ||jangonetwork.com^
 ||jscount.com^
 ||jsrdn.com^
+||jwpltx.com^
 ||kissmetrics.com^
 ||kontera.com^
 ||korrelate.net^
@@ -458,7 +465,9 @@ images/ads/
 ||umbel.com^
 ||univide.com^
 ||unrulymedia.com^
+||vacwrite.com^
 ||videostat.com^
+||videotracker.
 ||viglink.com^
 ||vimeo.com/*=log_
 ||vimeo.com/log/
@@ -688,8 +697,9 @@ wikipedia.org###centralNotice
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
 !
-! Website Exceptions >>>>>
+! Exceptions (For Website Functionality) >>>>>
 !
+@@-adsystem.$domain=player.performgroup.com
 @@.net/ad/$domain=foxsports.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
@@ -701,6 +711,8 @@ youtube.com##.pyv-afc-ads-container
 @@||ams.amazon.com^$document
 @@||analytics.google.com^$document
 @@||cdn.gigya.com/JS/gigya.js?$script,domain=dailystar.co.uk|express.co.uk
+@@||connect.facebook.net^$domain=focusfeatures.com
+@@||imrworldwide.com/v60.js$domain=nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||stats.$domain=stats.govt.nz
