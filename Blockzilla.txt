@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A42
+! Version A43
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -252,6 +252,7 @@ images/ads/
 ||conviva.com^
 ||coremetrics.com^
 ||cpx.to^
+||cquotient.com^$third-party
 ||criteo.com^
 ||crowdscience.com^
 ||crsspxl.com^
