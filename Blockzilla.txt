@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A41
+! Version A42
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -89,7 +89,6 @@
 /cookie_backup.php?
 /cookieconsent.
 /count.js
-/count.json?
 /count/*$image
 /counter.php?
 /csi?v=$image
