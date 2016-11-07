@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A45
+! Version A46
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -240,6 +240,7 @@ images/ads/
 ||channelintelligence.com^
 ||chartbeat.
 ||chitika.net^
+||clevergirlscollective.com^
 ||click.status.xbox.com^$image
 ||clickfuse.com^
 ||clickiocdnh.com^
