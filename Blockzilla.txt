@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A44
+! Version A45
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -23,7 +23,7 @@
 -1x1.gif?
 -300x250.
 -468x60.
--adsystem.
+-adsystem.$subdocument
 -amazon.com/*/shazam/$image
 -stat/advertising/
 -stat/analytics/
@@ -177,6 +177,7 @@ images/ads/
 ||adlog.com.com^
 ||admeld.com^
 ||adnxs.com^
+||adpushup.com^
 ||adreadytractions.com^
 ||adroll.com^
 ||ads.
@@ -270,7 +271,7 @@ images/ads/
 ||dmtracker.com^
 ||domdex.com^
 ||dotomi.com^
-||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,xmlhttprequest,popup
+||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,popup
 ||dpclk.com^
 ||dw.com.com^
 ||dynamicyield.com^
@@ -505,6 +506,7 @@ images/ads/
 ! Cloudfront >>>>>
 !
 ||cloudfront.net/*&referrer=
+||cloudfront.net/*&res=
 ||cloudfront.net/?a=
 ||cloudfront.net/atrk.js
 ||cloudfront.net/log.js
@@ -700,7 +702,6 @@ youtube.com##.pyv-afc-ads-container
 !
 ! Exceptions (For Website Functionality) >>>>>
 !
-@@-adsystem.$domain=player.performgroup.com
 @@.net/ad/$domain=foxsports.com
 @@/beacon.$domain=amazon.com|engadget.com
 @@/piwik.js$domain=myuv.com
