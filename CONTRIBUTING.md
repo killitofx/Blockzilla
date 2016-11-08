@@ -1,6 +1,6 @@
 ## Blockzilla Maintenance Support Policy
 
-Maintenance support for Blockzilla will be provided for:
+Maintenance support for Blockzilla may be provided for:
 
 - English websites
 
