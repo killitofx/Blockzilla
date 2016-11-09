@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A48
+! Version A49
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -24,6 +24,7 @@
 -300x250.
 -468x60.
 -adsystem.$subdocument
+-adsystem.*?src=
 -amazon.com/*/shazam/$image
 -stat/advertising/
 -stat/analytics/
@@ -291,6 +292,7 @@ images/ads/
 ||exponential.com^
 ||extreme-dm.com^
 ||eyeota.net^
+||fallingfalcon.com^
 ||fastclick.net^
 ||flix360.com^
 ||fls-*.amazon.
