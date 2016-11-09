@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A47
+! Version A48
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -51,6 +51,7 @@
 .php?bannerid=
 .php?zoneid=
 /1pix.gif?
+/1x1transparent.gif
 /?file=ads&
 /?metric=
 /AdvertisingModule.
@@ -126,6 +127,7 @@
 /pagestatistics/*
 /piwik.
 /pixel.gif
+/popunderlandingpage.
 /productAds/*
 /ptracking?
 /show_afs_ads.
@@ -177,6 +179,8 @@ images/ads/
 ||adgrx.com^
 ||adlog.com.com^
 ||admeld.com^
+||adnetworkperformance.com^
+||adnetworkperformance.com^$popup
 ||adnxs.com^
 ||adpushup.com^
 ||adreadytractions.com^
@@ -519,6 +523,7 @@ images/ads/
 !
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
+||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 !
 ! Ad Element Hiding >>>>>
