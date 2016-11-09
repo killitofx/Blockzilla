@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A49
+! Version A50
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -164,6 +164,7 @@ images/ads/
 ||247realmedia.com^
 ||3lift.com^
 ||4dsply.com^
+||50greyofsha.de^
 ||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
@@ -377,6 +378,7 @@ images/ads/
 ||newrelic.com^
 ||novately.com^
 ||odesaconflate.com^
+||olisade.de^
 ||omarsys.com^
 ||omnitagjs.com^
 ||omniture.stuff.co.nz^
