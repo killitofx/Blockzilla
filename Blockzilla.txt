@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A46
+! Version A47
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -171,6 +171,7 @@ images/ads/
 ||adcash.com^
 ||adclick.
 ||addthis.com^$third-party
+||adexchangeprediction.com^$popup
 ||adf.ly^
 ||adform.net^
 ||adgrx.com^
@@ -316,7 +317,6 @@ images/ads/
 ||hearst.io^
 ||histats.com^
 ||hotjar.com^
-||iad.liveperson.net^
 ||ifmnwi.club^
 ||igodigital.com^
 ||impactradius.com^
@@ -371,6 +371,7 @@ images/ads/
 ||newrelic.com^
 ||novately.com^
 ||odesaconflate.com^
+||omarsys.com^
 ||omnitagjs.com^
 ||omniture.stuff.co.nz^
 ||omtrdc.net^
