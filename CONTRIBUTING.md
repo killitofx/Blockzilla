@@ -8,6 +8,6 @@ Maintenance support for Blockzilla will **NOT** be provided for:
 
 - Porn websites
 
-- P2P file sharing websites
+- P2P (BitTorrent) websites
  
 - Websites containing or related to illegal content
