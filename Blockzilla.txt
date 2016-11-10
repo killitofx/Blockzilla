@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A52
+! Version A53
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -32,6 +32,7 @@
 .1d/Ads/
 .advertising.com/
 .amazonaws.com/*/buzzing/$third-party
+.com/_/tr.ashx?r=*&loc=
 .com/ad/
 .com/ads-
 .com/ads/
@@ -326,6 +327,8 @@ images/ads/
 ||hotjar.com^
 ||ifmnwi.club^
 ||igodigital.com^
+||img.tfd.com/wn/*79
+||img.tfd.com/wn/*32
 ||impactradius.com^
 ||imrworldwide.com^
 ||indexww.com^
