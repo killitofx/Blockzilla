@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A50
+! Version A51
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -592,6 +592,7 @@ _banner.$domain=youtube.com
 ###sponsoredLinks
 ###sponsoredlinks
 ###tads
+###tads.c
 ###tmgAds_mpu
 ###tmglBannerAd
 ###topMPU
