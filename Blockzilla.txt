@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A51
+! Version A52
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -592,7 +592,6 @@ _banner.$domain=youtube.com
 ###sponsoredLinks
 ###sponsoredlinks
 ###tads
-###tads.c
 ###tmgAds_mpu
 ###tmglBannerAd
 ###topMPU
@@ -722,8 +721,6 @@ youtube.com##.pyv-afc-ads-container
 @@/tracking/*$domain=ups.com
 @@/webtrends/*$domain=thewarehouse.co.nz
 @@||3now.co.nz^$document
-@@||ams.amazon.com^$document
-@@||analytics.google.com^$document
 @@||cdn.gigya.com/JS/gigya.js?$script,domain=dailystar.co.uk|express.co.uk
 @@||connect.facebook.net^$domain=focusfeatures.com
 @@||imrworldwide.com/v60.js$domain=nzherald.co.nz
