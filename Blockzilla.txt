@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A53
+! Version A54
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -730,4 +730,5 @@ youtube.com##.pyv-afc-ads-container
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||stats.$domain=stats.govt.nz
+@@||twitter.com^$third-party,domain=nzherald.co.nz
 @@||use.typekit.net^
