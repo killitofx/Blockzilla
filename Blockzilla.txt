@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A54
+! Version A55
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -668,6 +668,7 @@ _banner.$domain=youtube.com
 ##.home-ad-container
 ##.item-container-ad
 ##.js-adfliction-standard
+##.js-sponsored-photos
 ##.mapped-ad
 ##.marketing-ad
 ##.masthead-ad
