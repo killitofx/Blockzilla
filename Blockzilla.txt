@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: A58
-! A58
+! A58 
+! Version: A58 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
