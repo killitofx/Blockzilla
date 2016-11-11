@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
-! A60 
-! Version: A60 
+! Version A61 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -222,6 +221,7 @@ images/ads/
 ||atdmt.com^
 ||ayboll.com^
 ||b.collective-media.net^
+||banner.
 ||banners.
 ||bat.bing.com^$image
 ||bat.r.msn.com^$image
@@ -344,6 +344,7 @@ images/ads/
 ||infolinks.com^
 ||inskinad.com^
 ||intellitxt.com^
+||intergient.com^
 ||iperceptions.com^
 ||ipowow.com^$image
 ||iris.tv^
@@ -670,6 +671,7 @@ _banner.$domain=youtube.com
 ##.bannerAdContainer
 ##.block-fusion-ads
 ##.display-ad
+##.footer_ad
 ##.frame_adv
 ##.gooad
 ##.google-sky
