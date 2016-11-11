@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! A59 
-! Version: A59 
+! A60 
+! Version: A60 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -46,6 +46,7 @@
 .com/pixel-
 .com/pixel.
 .com/t.gif?
+.com/x/collect?t=
 .eu/ads/
 .kissinsights.com/
 .net/ad/
