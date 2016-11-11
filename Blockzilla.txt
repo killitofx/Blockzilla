@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A55
+! Version A56
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -30,6 +30,7 @@
 -stat/analytics/
 -tracking.
 .1d/Ads/
+.ads.*/banner?
 .advertising.com/
 .amazonaws.com/*/buzzing/$third-party
 .com/_/tr.ashx?r=*&loc=
@@ -68,6 +69,7 @@
 /adloader.
 /adp/adp-
 /adpopover.
+/ads/*$image
 /ads?
 /adsense.
 /adsense/*
@@ -270,6 +272,7 @@ images/ads/
 ||ctnsnet.com^
 ||cxense.com^
 ||dailymail.co.uk/s/l?t=
+||dashbida.com^
 ||delivery47.com^
 ||demdex.net^
 ||deployads.com^
@@ -327,8 +330,8 @@ images/ads/
 ||hotjar.com^
 ||ifmnwi.club^
 ||igodigital.com^
-||img.tfd.com/wn/*79
 ||img.tfd.com/wn/*32
+||img.tfd.com/wn/*79
 ||impactradius.com^
 ||imrworldwide.com^
 ||indexww.com^
@@ -446,6 +449,7 @@ images/ads/
 ||snapengage.com^$image,third-party
 ||sonobi.com^
 ||specificclick.net^
+||springserve.com^
 ||spylog.ru^
 ||sq2trk2.com^$popup
 ||stackadapt.com^
@@ -509,6 +513,7 @@ images/ads/
 ||yandex.ru^
 ||yavli.com^
 ||yieldmanager.
+||yimg.com/rq/darla/
 ||yldbt.com^
 ||zdbb.net^
 ||zedo.com^
@@ -703,6 +708,7 @@ _banner.$domain=youtube.com
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
 ##IFRAME[name*="ads-center"]
+##LI[id^="ad-"]
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
 i.stuff.co.nz##.iframe-carousel
