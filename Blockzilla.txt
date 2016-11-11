@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A56
+! Version A57
 ! Expires: 1 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -273,6 +273,7 @@ images/ads/
 ||cxense.com^
 ||dailymail.co.uk/s/l?t=
 ||dashbida.com^
+||dashgreen.online^
 ||delivery47.com^
 ||demdex.net^
 ||deployads.com^
@@ -342,6 +343,7 @@ images/ads/
 ||ipowow.com^$image
 ||iris.tv^
 ||isanalyze.com^
+||itempana.site^
 ||jangonetwork.com^
 ||jscount.com^
 ||jsrdn.com^
@@ -456,6 +458,7 @@ images/ads/
 ||statcounter.com^
 ||stats.
 ||steelhousemedia.com^
+||stirshakead.com^
 ||sumome.com^$image
 ||supert.ag^
 ||survicate.com^
@@ -484,6 +487,7 @@ images/ads/
 ||univide.com^
 ||unrulymedia.com^
 ||vacwrite.com^
+||verymuchad.com^
 ||videostat.com^
 ||videotracker.
 ||viglink.com^
