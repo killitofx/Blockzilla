@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! A58 
-! Version: A58 
+! A59 
+! Version: A59 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -76,6 +76,7 @@
 /adsense/*
 /adsense_
 /adserve.
+/adserve/*
 /adserver.
 /adserver/*
 /adsfac.
@@ -182,6 +183,7 @@ images/ads/
 ||adexchangeprediction.com^$popup
 ||adf.ly^
 ||adform.net^
+||adglare.net^
 ||adgrx.com^
 ||adlog.com.com^
 ||admeld.com^
@@ -373,6 +375,7 @@ images/ads/
 ||media6degrees.com^
 ||mentad.com^
 ||metrics.
+||mgid.com^
 ||mixpanel.com^
 ||moatads.com^
 ||monetate.net^
@@ -416,6 +419,7 @@ images/ads/
 ||pinterest.com^$third-party
 ||pixel.
 ||polarmobile.com^
+||popads.net^
 ||postrelease.com^
 ||pro-market.net^
 ||qualtrics.com^
