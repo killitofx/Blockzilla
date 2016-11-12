@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A61 
+! Version A62 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -464,7 +464,7 @@ images/ads/
 ||sq2trk2.com^$popup
 ||stackadapt.com^
 ||statcounter.com^
-||stats.
+||stats.$third-party
 ||steelhousemedia.com^
 ||stirshakead.com^
 ||sumome.com^$image
@@ -749,6 +749,5 @@ youtube.com##.pyv-afc-ads-container
 @@||imrworldwide.com/v60.js$domain=nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
-@@||stats.$domain=stats.govt.nz
 @@||twitter.com^$third-party,domain=nzherald.co.nz
 @@||use.typekit.net^
