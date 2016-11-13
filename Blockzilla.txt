@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A62 
+! Version A63 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -92,6 +92,7 @@
 /bvstaging/*
 /c.gif?
 /cc.silktide.
+/cedexis/*
 /cmdatatagutils.js
 /cookie_backup.php?
 /cookieconsent.
@@ -100,6 +101,7 @@
 /counter.php?
 /csi?v=$image
 /customads/*
+/dashboard/px.js?ch=
 /dcs.gif?
 /eluminate.js
 /fake-ad-
@@ -118,6 +120,7 @@
 /googleads.
 /hserver/s
 /images/sponsors/*
+/impixu?T=$image
 /impression.php
 /javascript/ads.
 /js/ads/*
@@ -136,6 +139,7 @@
 /popunderlandingpage.
 /productAds/*
 /ptracking?
+/research/pixel?
 /show_afs_ads.
 /sponsors.
 /st?ad_type=
@@ -266,6 +270,7 @@ images/ads/
 ||content.ad^
 ||contextweb.com^
 ||conviva.com^
+||cookiex.*/cexposer/SIG=
 ||coremetrics.com^
 ||cosmicwin.com^
 ||cpx.to^
