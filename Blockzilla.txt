@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A63 
+! Version A64 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -359,6 +359,7 @@ images/ads/
 ||jscount.com^
 ||jsrdn.com^
 ||jwpltx.com^
+||keen.io^
 ||kissmetrics.com^
 ||kontera.com^
 ||korrelate.net^
@@ -689,6 +690,7 @@ _banner.$domain=youtube.com
 ##.headerAd
 ##.headerTextAd
 ##.home-ad-container
+##.inline-ad
 ##.item-container-ad
 ##.js-adfliction-standard
 ##.js-sponsored-photos
