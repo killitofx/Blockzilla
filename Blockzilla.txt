@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A67 
+! Version A68 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -392,7 +392,6 @@ images/ads/
 ||olisade.de^
 ||omarsys.com^
 ||omnitagjs.com^
-||omniture.stuff.co.nz^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
