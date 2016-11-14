@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A68 
+! Version A69 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -91,7 +91,6 @@
 /beacon.
 /bvstaging/*
 /c.gif?
-/cc.silktide.
 /cedexis/*
 /cmdatatagutils.js
 /cookie_backup.php?
@@ -260,6 +259,7 @@ images/ads/
 ||clickiocdnh.com^
 ||clicktale.net^
 ||cogocast.net^
+||columnpop.com^$popup
 ||comscore.com^
 ||connatix.com^
 ||content.ad^
