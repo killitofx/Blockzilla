@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A65 
+! Version A66 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -128,7 +128,6 @@
 /jserver/site
 /log.gif?
 /maxymiser/*
-/monumetric.png
 /nltracker.js
 /ntpagetag.gif?
 /oascentral.
@@ -183,7 +182,6 @@ images/ads/
 ||adbrn.com^
 ||adcash.com^
 ||adclick.
-||addthis.com^$third-party
 ||adexchangeprediction.com^$popup
 ||adf.ly^
 ||adform.net^
@@ -221,7 +219,6 @@ images/ads/
 ||apnmarketplace.co.nz^
 ||arlime.com^
 ||asdorka.com^
-||assoc-amazon.com^$third-party
 ||atdmt.com^
 ||ayboll.com^
 ||b.collective-media.net^
@@ -266,7 +263,6 @@ images/ads/
 ||cogocast.net^
 ||comscore.com^
 ||connatix.com^
-||connect.facebook.net^$third-party
 ||content.ad^
 ||contextweb.com^
 ||conviva.com^
@@ -329,9 +325,7 @@ images/ads/
 ||googleadservices.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-||goroost.com^$third-party
 ||grapeshot.co.uk^
-||graph.facebook.com^$third-party
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
@@ -368,7 +362,6 @@ images/ads/
 ||legolas-media.com^
 ||lifestreet.com^
 ||lijit.com^
-||linkedin.com^$third-party
 ||livefyre.com^$xmlhttprequest
 ||liveramp.
 ||log.
@@ -388,12 +381,10 @@ images/ads/
 ||moatads.com^
 ||monetate.net^
 ||mookie1.com^
-||mozo.com.au^$third-party
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
 ||nanigans.com^
 ||naver.net^
-||neighbourly.co.nz^$third-party
 ||netmng.com^
 ||netshelter.net^
 ||newrelic.com^
@@ -411,7 +402,6 @@ images/ads/
 ||optimizely.com^
 ||optimost.com^
 ||oriel.io^
-||outbrain.com^$third-party
 ||owneriq.net^
 ||pagead2.*/pagead/
 ||pagefair.com^
@@ -421,10 +411,8 @@ images/ads/
 ||peer39.net^
 ||perfectaudience.com^
 ||petametrics.com^
-||phantom.nudgespot.com^$third-party
 ||picadmedia.com^
 ||pictela.net^
-||pinterest.com^$third-party
 ||pixel.
 ||polarmobile.com^
 ||popads.net^
@@ -450,19 +438,15 @@ images/ads/
 ||sa.bbc.
 ||sbal4kp.com^
 ||scorecardresearch.com^
-||scribol.com^$third-party
 ||sekindo.com^
 ||servedbyopenx.com^
 ||serving-sys.com^
 ||sessioncam.com^
 ||shareasale.com^
-||sharethis.com^$third-party
 ||simplereach.com^
-||siteapps.com^$third-party
 ||sitemeter.com^
 ||skimlinks.com^
 ||skimresources.com^
-||snapengage.com^$image,third-party
 ||sonobi.com^
 ||specificclick.net^
 ||springserve.com^
@@ -470,7 +454,6 @@ images/ads/
 ||sq2trk2.com^$popup
 ||stackadapt.com^
 ||statcounter.com^
-||stats.$third-party
 ||steelhousemedia.com^
 ||stirshakead.com^
 ||sumome.com^$image
@@ -494,7 +477,6 @@ images/ads/
 ||tritondigital.com^
 ||truoptik.com^
 ||turn.com^
-||twitter.com^$third-party
 ||tynt.com^
 ||typekit.net^
 ||umbel.com^
@@ -513,14 +495,11 @@ images/ads/
 ||visualwebsiteoptimizer.com^
 ||vizury.com^
 ||w55c.net^
-||watchme.co.nz^$third-party
 ||webads.co.nz^
 ||webeatyouradblocker.com^
 ||webtrendslive.com^
 ||whatismyip.win^
 ||wikia-beacon.com^
-||wordpress.com/remote-login.php?$third-party
-||ws.amazon.*/widgets/$third-party
 ||wunderloop.net^
 ||xg4ken.com^
 ||xiti.com^
@@ -535,7 +514,6 @@ images/ads/
 ||yldbt.com^
 ||zdbb.net^
 ||zedo.com^
-||zergnet.com^$third-party
 ||ziccardia.com^
 ||zqtk.net^
 !
@@ -548,6 +526,30 @@ images/ads/
 ||cloudfront.net/log.js
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
+!
+! $third-party >>>>>
+!
+||addthis.com^$third-party
+||assoc-amazon.com^$third-party
+||connect.facebook.net^$third-party
+||goroost.com^$third-party
+||graph.facebook.com^$third-party
+||linkedin.com^$third-party
+||mozo.com.au^$third-party
+||neighbourly.co.nz^$third-party
+||outbrain.com^$third-party
+||phantom.nudgespot.com^$third-party
+||pinterest.com^$third-party
+||scribol.com^$third-party
+||sharethis.com^$third-party
+||siteapps.com^$third-party
+||snapengage.com^$image,third-party
+||stats.$third-party
+||twitter.com^$third-party
+||watchme.co.nz^$third-party
+||wordpress.com/remote-login.php?$third-party
+||ws.amazon.*/widgets/$third-party
+||zergnet.com^$third-party 
 !
 ! Add on Domains >>>>>
 !
