@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A66 
+! Version A67 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -95,7 +95,6 @@
 /cedexis/*
 /cmdatatagutils.js
 /cookie_backup.php?
-/cookieconsent.
 /count.js
 /count/*$image
 /counter.php?
@@ -540,6 +539,7 @@ images/ads/
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
+||reddit.com^$third-party
 ||scribol.com^$third-party
 ||sharethis.com^$third-party
 ||siteapps.com^$third-party
@@ -759,5 +759,6 @@ youtube.com##.pyv-afc-ads-container
 @@||imrworldwide.com/v60.js$domain=nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
-@@||twitter.com^$third-party,domain=nzherald.co.nz
+@@||reddit.com^$domain=scrolldit.com
+@@||twitter.com^$domain=nzherald.co.nz
 @@||use.typekit.net^
