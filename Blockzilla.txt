@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A69 
+! Version A70 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -186,6 +186,7 @@ images/ads/
 ||adglare.net^
 ||adgrx.com^
 ||adlog.com.com^
+||admantx.com^
 ||admeld.com^
 ||adnetworkperformance.com^
 ||adnetworkperformance.com^$popup
@@ -745,9 +746,14 @@ youtube.com##.pyv-afc-ads-container
 !
 ! Exceptions (For Website Functionality) >>>>>
 !
+@@.demdex.net/$script,domain=foxnews.com
+@@.foxnews.com/$script,domain=foxnews.com
 @@.net/ad/$domain=foxsports.com
 @@/beacon.$domain=amazon.com|engadget.com
+@@/foxnews.$script,domain=foxnews.com
+@@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.js$domain=myuv.com
+@@/pubads_$script,domain=foxnews.com
 @@/track/*$domain=bandcamp.com
 @@/tracking.$domain=gamespot.com
 @@/tracking/*$domain=ups.com
@@ -755,6 +761,8 @@ youtube.com##.pyv-afc-ads-container
 @@||3now.co.nz^$document
 @@||cdn.gigya.com/JS/gigya.js?$script,domain=dailystar.co.uk|express.co.uk
 @@||connect.facebook.net^$domain=focusfeatures.com
+@@||doubleclick.net^$script,domain=foxnews.com
+@@||googletagservices.com^$domain=foxnews.com
 @@||imrworldwide.com/v60.js$domain=nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
