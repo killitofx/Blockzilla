@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A71 
+! Version A72 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -42,6 +42,7 @@
 .com/api/analytics/
 .com/b.gif?
 .com/countserv/
+.com/log/
 .com/metrics/
 .com/pixel-
 .com/pixel.
@@ -488,8 +489,6 @@ images/ads/
 ||videostat.com^
 ||videotracker.
 ||viglink.com^
-||vimeo.com/*=log_
-||vimeo.com/log/
 ||virool.com^
 ||visiblemeasures.com^
 ||visualrevenue.com^
@@ -556,6 +555,7 @@ images/ads/
 ! Add on Domains >>>>>
 !
 /banner/*$domain=flaticon.com
+=log_$domain=vimeo.com
 _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
