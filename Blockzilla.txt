@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A75 
+! Version A76 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -297,6 +297,7 @@ images/ads/
 ||dotomi.com^
 ||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,popup
 ||dpclk.com^
+||dps-reach.com^
 ||dw.com.com^
 ||dynamicyield.com^
 ||ebz.io^
@@ -337,6 +338,7 @@ images/ads/
 ||gscounters.
 ||gumgum.com^
 ||gwallet.com^
+||heapanalytics.com^
 ||hearst.io^
 ||histats.com^
 ||hotjar.com^
@@ -375,7 +377,7 @@ images/ads/
 ||logentries.com^
 ||lognormal.net^
 ||marchex.io^
-||marketingsolutions.yahoo.com^
+||marketingsolutions.
 ||marketo.net^
 ||mathtag.com^
 ||mdadx.com^
@@ -461,6 +463,7 @@ images/ads/
 ||sq2trk2.com^$popup
 ||stackadapt.com^
 ||statcounter.com^
+||statsevent.com^
 ||steelhousemedia.com^
 ||stirshakead.com^
 ||sumome.com^$image
