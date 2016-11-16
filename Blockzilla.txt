@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A73 
+! Version A74 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -92,6 +92,7 @@
 /baynote.js
 /bct?pid=
 /beacon.
+/beacon/*$image
 /bvstaging/*
 /c.gif?
 /cedexis/*
@@ -302,6 +303,7 @@ images/ads/
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||envy.net^
+||esearchvision.com^
 ||eventlogger.
 ||everesttech.net^
 ||exelator.com^
@@ -407,6 +409,7 @@ images/ads/
 ||optimost.com^
 ||oriel.io^
 ||owneriq.net^
+||oztam.com.au^
 ||pagead2.*/pagead/
 ||pagefair.com^
 ||parsely.com^
@@ -491,6 +494,7 @@ images/ads/
 ||videostat.com^
 ||videotracker.
 ||viglink.com^
+||vindicosuite.com^
 ||virool.com^
 ||visiblemeasures.com^
 ||visualrevenue.com^
@@ -508,6 +512,7 @@ images/ads/
 ||xtendmedia.com^
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
+||yahoo.com/fe_err.php?$image
 ||yahoo.com/sdarla/
 ||yandex.ru^
 ||yavli.com^
