@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A74 
+! Version A75 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -465,6 +465,7 @@ images/ads/
 ||stirshakead.com^
 ||sumome.com^$image
 ||supert.ag^
+||surveygifts.win^
 ||survicate.com^
 ||swoop.com^
 ||t.paypal.com^
