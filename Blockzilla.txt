@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A70 
+! Version A71 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -39,6 +39,7 @@
 .com/ads/
 .com/advert/
 .com/advertising/
+.com/api/analytics/
 .com/b.gif?
 .com/countserv/
 .com/metrics/
@@ -321,6 +322,7 @@ images/ads/
 ||getrockerbox.com^
 ||gigya.com^
 ||glanceguide.com^
+||go-mpulse.net^
 ||google-analytics.com*/collect?
 ||googleadservices.com^
 ||googletagmanager.com^
