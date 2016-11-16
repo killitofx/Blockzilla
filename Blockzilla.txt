@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A72 
+! Version A73 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -62,6 +62,7 @@
 /?metric=
 /AdvertisingModule.
 /Count.cgi?
+/NativeAdService;
 /__utm.gif
 /ad-banner-
 /ad.html?
@@ -135,6 +136,7 @@
 /pagestatistics/*
 /piwik.
 /pixel.gif
+/playertracking/*
 /popunderlandingpage.
 /productAds/*
 /ptracking?
@@ -546,7 +548,7 @@ images/ads/
 ||siteapps.com^$third-party
 ||snapengage.com^$image,third-party
 ||stats.$third-party
-||twitter.com^$third-party
+||syndication.twitter.com^$third-party
 ||watchme.co.nz^$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
@@ -732,6 +734,7 @@ _banner.$domain=youtube.com
 ##DIV[class^="commercial-unit-"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
+##DIV[id^="my-ads"]
 ##IFRAME[name*="ads-center"]
 ##LI[id^="ad-"]
 facebook.com###pagelet_side_ads
@@ -769,5 +772,4 @@ youtube.com##.pyv-afc-ads-container
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||reddit.com^$domain=scrolldit.com
-@@||twitter.com^$domain=nzherald.co.nz
 @@||use.typekit.net^
