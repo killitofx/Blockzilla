@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A81 
+! Version A82 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -48,7 +48,7 @@
 .com/pixel.
 .com/t.gif?
 .com/x/collect?t=
-.eroadvertising.com/
+.ero*advertising.com/
 .eu/ads/
 .kissinsights.com/
 .net/ad/
@@ -208,7 +208,6 @@ images/ads/
 ||adserver.
 ||adsjudo.com^
 ||adsnative.com^
-||adspaces.ero-advertising.com^
 ||adspruce.com^
 ||adsupply.com^
 ||adsymptotic.com^
@@ -573,7 +572,7 @@ images/ads/
 ||watchme.co.nz^$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
-||zergnet.com^$third-party 
+||zergnet.com^$third-party
 !
 ! Add on Domains >>>>>
 !
