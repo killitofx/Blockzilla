@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A78 
+! Version A79 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -48,6 +48,7 @@
 .com/pixel.
 .com/t.gif?
 .com/x/collect?t=
+.eroadvertising.com/
 .eu/ads/
 .kissinsights.com/
 .net/ad/
@@ -206,6 +207,7 @@ images/ads/
 ||adserver.
 ||adsjudo.com^
 ||adsnative.com^
+||adspaces.ero-advertising.com^
 ||adspruce.com^
 ||adsupply.com^
 ||adsymptotic.com^
@@ -370,6 +372,7 @@ images/ads/
 ||korrelate.net^
 ||krxd.net^
 ||l.ooyala.com^
+||lancheck.net^
 ||legolas-media.com^
 ||lifestreet.com^
 ||lijit.com^
@@ -383,6 +386,7 @@ images/ads/
 ||marketo.net^
 ||mathtag.com^
 ||mdadx.com^
+||mecash.ru^
 ||media.net^
 ||media6degrees.com^
 ||mentad.com^
@@ -394,6 +398,7 @@ images/ads/
 ||mookie1.com^
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
+||myclk.net^
 ||nanigans.com^
 ||naver.net^
 ||netmng.com^
@@ -405,6 +410,9 @@ images/ads/
 ||omarsys.com^
 ||omnitagjs.com^
 ||omtrdc.net^
+||onclasrv.com^
+||onclickads.net^
+||onclickads.net^$popup
 ||online-metrix.net^
 ||openx.
 ||optimahub.com^
