@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A77 
+! Version A78 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -101,6 +101,7 @@
 /count.js
 /count/*$image
 /counter.php?
+/countshare/?
 /csi?v=$image
 /customads/*
 /dashboard/px.js?ch=
@@ -205,6 +206,7 @@ images/ads/
 ||adserver.
 ||adsjudo.com^
 ||adsnative.com^
+||adspruce.com^
 ||adsupply.com^
 ||adsymptotic.com^
 ||adunit.
