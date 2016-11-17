@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A76 
+! Version A77 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -516,7 +516,6 @@ images/ads/
 ||xtendmedia.com^
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
-||yahoo.com/fe_err.php?$image
 ||yahoo.com/sdarla/
 ||yandex.ru^
 ||yavli.com^
