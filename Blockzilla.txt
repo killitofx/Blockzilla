@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A79 
+! Version A80 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -181,6 +181,7 @@ images/ads/
 ||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
+||ad.pxlad.io^
 ||adadvisor.net^
 ||adblade.com^
 ||adblockdetector.com^
@@ -427,6 +428,7 @@ images/ads/
 ||parsely.com^
 ||partnerads.
 ||partnerads1.
+||pebed.dm.gg^
 ||peer39.net^
 ||perfectaudience.com^
 ||petametrics.com^
@@ -488,6 +490,7 @@ images/ads/
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
+||telize.com^
 ||thebloggernetwork.com^
 ||trace.events^
 ||trackalyzer.com^
@@ -575,6 +578,8 @@ images/ads/
 ! Add on Domains >>>>>
 !
 /banner/*$domain=flaticon.com
+/overlay.$domain=filext.com
+/skyscraper.$domain=filext.com
 =log_$domain=vimeo.com
 _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
