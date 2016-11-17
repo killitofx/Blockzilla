@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A80 
+! Version A81 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -578,10 +578,9 @@ images/ads/
 ! Add on Domains >>>>>
 !
 /banner/*$domain=flaticon.com
-/overlay.$domain=filext.com
-/skyscraper.$domain=filext.com
 =log_$domain=vimeo.com
 _banner.$domain=youtube.com
+filext.com###overlay
 ||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 !
@@ -752,6 +751,7 @@ _banner.$domain=youtube.com
 ##.y7-advertisement
 ##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
+##A[href^="http://www.uniblue.com/"]
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
