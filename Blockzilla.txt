@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A83 
+! Version A84 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -775,22 +775,22 @@ youtube.com##.pyv-afc-ads-container
 !
 @@.demdex.net/$script,domain=foxnews.com
 @@.foxnews.com/$script,domain=foxnews.com
-@@.net/ad/$domain=foxsports.com
-@@/beacon.$domain=amazon.com|engadget.com
+@@.net/ad/$object-subrequest,domain=foxsports.com
+@@/beacon.$script,stylesheet,domain=amazon.com|engadget.com
 @@/foxnews.$script,domain=foxnews.com
 @@/foxnewsplayer-$script,domain=foxnews.com
-@@/piwik.js$domain=myuv.com
+@@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=3now.co.nz|foxnews.com
-@@/track/*$domain=bandcamp.com
-@@/tracking.$domain=gamespot.com
-@@/tracking/*$domain=ups.com
+@@/track/*$media,domain=bandcamp.com
+@@/tracking.$script,domain=gamespot.com
+@@/tracking/*$script,domain=ups.com
 @@||analytics.$script,domain=3now.co.nz
-@@||connect.facebook.net^$domain=focusfeatures.com
+@@||connect.facebook.net^$script,domain=focusfeatures.com
 @@||doubleclick.net^$script,domain=foxnews.com
 @@||gigya.com^$script,subdocument,domain=3now.co.nz|dailystar.co.uk|express.co.uk
-@@||googletagservices.com^$domain=3now.co.nz|foxnews.com
+@@||googletagservices.com^$script,domain=3now.co.nz|foxnews.com
 @@||imrworldwide.com/v60.js$domain=3now.co.nz|nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
-@@||reddit.com^$domain=scrolldit.com
+@@||reddit.com^$script,domain=scrolldit.com
 @@||use.typekit.net^$script,font
