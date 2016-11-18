@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A86 
+! Version A87 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -780,12 +780,12 @@ youtube.com##.pyv-afc-ads-container
 @@/beacon.$script,stylesheet,domain=amazon.com|engadget.com
 @@/foxnews.$script,domain=foxnews.com
 @@/foxnewsplayer-$script,domain=foxnews.com
-@@/js/analytics/*$domain=abc7chicago.com
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=3now.co.nz|foxnews.com
 @@/track/*$media,domain=bandcamp.com
 @@/tracking.$script,domain=gamespot.com
 @@/tracking/*$script,domain=ups.com
+@@||abclocal.go.com/combiner/*/js/analytics/
 @@||analytics.$script,domain=3now.co.nz
 @@||connect.facebook.net^$script,domain=focusfeatures.com
 @@||doubleclick.net^$script,domain=foxnews.com
