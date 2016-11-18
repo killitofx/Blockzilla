@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A82 
+! Version A83 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -780,18 +780,17 @@ youtube.com##.pyv-afc-ads-container
 @@/foxnews.$script,domain=foxnews.com
 @@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.js$domain=myuv.com
-@@/pubads_$script,domain=foxnews.com
+@@/pubads_$script,domain=3now.co.nz|foxnews.com
 @@/track/*$domain=bandcamp.com
 @@/tracking.$domain=gamespot.com
 @@/tracking/*$domain=ups.com
-@@/webtrends/*$domain=thewarehouse.co.nz
-@@||3now.co.nz^$document
-@@||cdn.gigya.com/JS/gigya.js?$script,domain=dailystar.co.uk|express.co.uk
+@@||analytics.$script,domain=3now.co.nz
 @@||connect.facebook.net^$domain=focusfeatures.com
 @@||doubleclick.net^$script,domain=foxnews.com
-@@||googletagservices.com^$domain=foxnews.com
-@@||imrworldwide.com/v60.js$domain=nzherald.co.nz
+@@||gigya.com^$script,subdocument,domain=3now.co.nz|dailystar.co.uk|express.co.uk
+@@||googletagservices.com^$domain=3now.co.nz|foxnews.com
+@@||imrworldwide.com/v60.js$domain=3now.co.nz|nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||reddit.com^$domain=scrolldit.com
-@@||use.typekit.net^
+@@||use.typekit.net^$script,font
