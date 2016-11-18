@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A87 
+! Version A88 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -437,6 +437,7 @@ images/ads/
 ||polarmobile.com^
 ||popads.net^
 ||postrelease.com^
+||prizma.tv/get
 ||pro-market.net^
 ||qualtrics.com^
 ||quantserve.com^
