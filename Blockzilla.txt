@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A88 
+! Version A89 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -51,12 +51,14 @@
 .ero*advertising.com/
 .eu/ads/
 .kissinsights.com/
+.me/ads/
 .net/ad/
 .net/ads/
 .netdna-*/analytics.
 .nz/ads/
 .php?bannerid=
 .php?zoneid=
+.wwwpromoter.com/
 /1pix.gif?
 /1x1transparent.gif
 /?file=ads&
@@ -83,6 +85,7 @@
 /adserve/*
 /adserver.
 /adserver/*
+/adserving.
 /adsfac.
 /advertising_
 /affiliate_
@@ -193,6 +196,7 @@ images/ads/
 ||adform.net^
 ||adglare.net^
 ||adgrx.com^
+||adk2x.com^$popup
 ||adlog.com.com^
 ||admantx.com^
 ||admeld.com^
@@ -207,11 +211,13 @@ images/ads/
 ||adsbyisocket.com^
 ||adserver.
 ||adsjudo.com^
+||adsmarket.com^$popup
 ||adsnative.com^
 ||adspruce.com^
 ||adsupply.com^
 ||adsymptotic.com^
 ||adunit.
+||advarkads.com^
 ||advertising.
 ||adzerk.net^
 ||affinity.com^
@@ -389,9 +395,13 @@ images/ads/
 ||mecash.ru^
 ||media.net^
 ||media6degrees.com^
+||mediabks.com^$popup
+||mediakee.com^$popup
+||medias.sushis.kim/adv/
 ||mentad.com^
 ||metrics.
 ||mgid.com^
+||mixadvert.com^
 ||mixpanel.com^
 ||moatads.com^
 ||monetate.net^
@@ -444,6 +454,7 @@ images/ads/
 ||qubitproducts.com^
 ||questionmarket.com^
 ||recomendedsite.com^
+||recompenses.win^$popup
 ||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
@@ -492,6 +503,7 @@ images/ads/
 ||tealium.hs.llnwd.net^
 ||telize.com^
 ||thebloggernetwork.com^
+||thefoxads.ru^
 ||trace.events^
 ||trackalyzer.com^
 ||traq.li^
@@ -561,6 +573,7 @@ images/ads/
 ||linkedin.com^$third-party
 ||mozo.com.au^$third-party
 ||neighbourly.co.nz^$third-party
+||newpromo.$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
@@ -639,6 +652,7 @@ filext.com###overlay
 ###logoBannerBox
 ###mbEnd
 ###mrktImg
+###promo_carousel_module
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
@@ -753,6 +767,7 @@ filext.com###overlay
 ##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[href^="http://www.uniblue.com/"]
+##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
