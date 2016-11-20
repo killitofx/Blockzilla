@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A93 
+! Version A94 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -258,6 +258,7 @@ images/ads/
 ||bnc.lt^
 ||bnmla.com^
 ||boomtrain.com^
+||botscanner.com^
 ||bounceexchange.com^
 ||btrll.com^
 ||bttrack.com^
@@ -769,8 +770,6 @@ images/ads/
 ##LI[id^="ad-"]
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
-i.stuff.co.nz##.iframe-carousel
-m.au.ign.com###queen
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 twitter.com##.promoted-account
