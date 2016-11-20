@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A90 
+! Version A91 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -50,6 +50,7 @@
 .com/x/collect?t=
 .ero*advertising.com/
 .eu/ads/
+.kim/adv/
 .kissinsights.com/
 .me/ads/
 .net/ad/
@@ -398,7 +399,6 @@ images/ads/
 ||media6degrees.com^
 ||mediabks.com^$popup
 ||mediakee.com^$popup
-||medias.sushis.kim/adv/
 ||mentad.com^
 ||metrics.
 ||mgid.com^
@@ -414,6 +414,7 @@ images/ads/
 ||naver.net^
 ||netmng.com^
 ||netshelter.net^
+||newpromo.
 ||newrelic.com^
 ||novately.com^
 ||odesaconflate.com^
@@ -575,7 +576,6 @@ images/ads/
 ||linkedin.com^$third-party
 ||mozo.com.au^$third-party
 ||neighbourly.co.nz^$third-party
-||newpromo.$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
