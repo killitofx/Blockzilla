@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A89 
+! Version A90 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -374,6 +374,7 @@ images/ads/
 ||jwpltx.com^
 ||keen.io^
 ||kissmetrics.com^
+||komoona.com^
 ||kontera.com^
 ||korrelate.net^
 ||krxd.net^
@@ -444,6 +445,7 @@ images/ads/
 ||picadmedia.com^
 ||pictela.net^
 ||pixel.
+||pixfuture.net^
 ||polarmobile.com^
 ||popads.net^
 ||postrelease.com^
