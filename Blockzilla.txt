@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A92 
+! Version A93 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -167,6 +167,7 @@
 /webtrends/*
 /wtid.js
 ?[AQB]&ndh=
+?action=log_
 AQB=1&ndh=
 _ad_request.
 _ads&
@@ -781,7 +782,6 @@ youtube.com##.pyv-afc-ads-container
 ! Add on Domains >>>>>
 !
 /banner/*$domain=flaticon.com
-=log_$domain=vimeo.com
 _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
