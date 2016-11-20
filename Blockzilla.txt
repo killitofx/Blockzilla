@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A91 
+! Version A92 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -574,8 +574,6 @@ images/ads/
 ||goroost.com^$third-party
 ||graph.facebook.com^$third-party
 ||linkedin.com^$third-party
-||mozo.com.au^$third-party
-||neighbourly.co.nz^$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
@@ -586,19 +584,9 @@ images/ads/
 ||snapengage.com^$image,third-party
 ||stats.$third-party
 ||syndication.twitter.com^$third-party
-||watchme.co.nz^$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
 ||zergnet.com^$third-party
-!
-! Add on Domains >>>>>
-!
-/banner/*$domain=flaticon.com
-=log_$domain=vimeo.com
-_banner.$domain=youtube.com
-filext.com###overlay
-||2mdn.net^$domain=twitch.tv
-||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 !
 ! Ad Element Hiding >>>>>
 !
@@ -789,6 +777,18 @@ twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
+!
+! Add on Domains >>>>>
+!
+/banner/*$domain=flaticon.com
+=log_$domain=vimeo.com
+_banner.$domain=youtube.com
+||2mdn.net^$domain=twitch.tv
+||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+!
+! Add on Domains (Element) >>>>>
+!
+filext.com###overlay
 !
 ! Exceptions (For Website Functionality) >>>>>
 !
