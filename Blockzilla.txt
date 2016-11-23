@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A94 
+! Version A95 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -548,7 +548,6 @@ images/ads/
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
 ||yahoo.com/sdarla/
-||yandex.ru^
 ||yavli.com^
 ||yieldmanager.
 ||yimg.com/rq/darla/
@@ -588,6 +587,7 @@ images/ads/
 ||syndication.twitter.com^$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
+||yandex.ru^$third-party
 ||zergnet.com^$third-party
 !
 ! Ad Element Hiding >>>>>
