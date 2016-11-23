@@ -11,3 +11,7 @@ Maintenance support for Blockzilla will **NOT** be provided for:
 - P2P (BitTorrent etc.) and other copyright infringing media sharing websites
  
 - Websites containing or related to illegal activity/content
+
+###### If you require supplemental coverage, you may be interested in:
+
+- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions)
