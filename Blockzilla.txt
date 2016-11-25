@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A98 
+! Version A99 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -136,6 +136,7 @@
 /jserver/site
 /log.gif?
 /maxymiser/*
+/mbads?
 /nltracker.js
 /ntpagetag.gif?
 /oascentral.
@@ -494,6 +495,7 @@ images/ads/
 ||springserve.com^
 ||spylog.ru^
 ||sq2trk2.com^$popup
+||srpx.net^
 ||stackadapt.com^
 ||statcounter.com^
 ||statsevent.com^
@@ -577,6 +579,7 @@ images/ads/
 ||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
 ||connect.facebook.net^$third-party
+||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||graph.facebook.com^$third-party
 ||linkedin.com^$third-party
@@ -658,6 +661,7 @@ images/ads/
 ###sponsoredLinks
 ###sponsoredlinks
 ###tads
+###theAd
 ###tmgAds_mpu
 ###tmglBannerAd
 ###topMPU
@@ -745,6 +749,7 @@ images/ads/
 ##.rail__mps-ad
 ##.resultad
 ##.right_col_ad
+##.search-message-container-ad
 ##.section-aside-ad2
 ##.showcaseAd
 ##.side-ad
@@ -778,6 +783,7 @@ facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
 mail.google.com##.aKB
 mail.google.com##.nH.PS
+mail.yahoo.com###slot_MB
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
