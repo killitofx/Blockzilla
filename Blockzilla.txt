@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A99 
+! Version B01 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -7,18 +7,19 @@
 ! Title: Blockzilla
 ! Homepage: https://zpacman.github.io/Blockzilla/
 !
-! Blockzilla >>>>>
+! Blockzilla by zpacman >>>>>
 !
 ! A powerful list for Adblock Plus.
 ! Block ads. Block trackers. Better web.
 !
-! Blockzilla >>>>>
+! Blockzilla by zpacman >>>>>
 !
 ! Ad and Tracker Blocking >>>>>
 !
 &ad_size=
 &adunit=
 &aff_id=
+&trackingId=
 &view=ad&
 -1x1.gif?
 -300x250.
