@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version A96 
+! Version A97 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -393,6 +393,7 @@ images/ads/
 ||logentries.com^
 ||lognormal.net^
 ||marchex.io^
+||marinsm.com^
 ||marketingsolutions.
 ||marketo.net^
 ||mathtag.com^
@@ -452,6 +453,8 @@ images/ads/
 ||pixfuture.net^
 ||polarmobile.com^
 ||popads.net^
+||popcash.net^
+||popcash.net^$popup
 ||postrelease.com^
 ||prizma.tv/get
 ||pro-market.net^
@@ -650,6 +653,7 @@ images/ads/
 ###self_serve_ads
 ###skyscraper
 ###smartBanner
+###social-promo-flyin
 ###socialFocusContainer
 ###sponsoredLinks
 ###sponsoredlinks
@@ -764,6 +768,7 @@ images/ads/
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
+##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
 ##DIV[id^="my-ads"]
