@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B01 
+! Version B02 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -27,6 +27,7 @@
 -adsystem.$subdocument
 -adsystem.*?src=
 -amazon.com/*/shazam/$image
+-skyad=
 -stat/advertising/
 -stat/analytics/
 -tracking.
@@ -80,6 +81,7 @@
 /adpopover.
 /ads/*$image
 /ads?
+/adsct?
 /adsense.
 /adsense/*
 /adsense_
@@ -306,6 +308,7 @@ images/ads/
 ||demdex.net^
 ||deployads.com^
 ||dirt.dennis.co.uk^
+||displaymarketplace.com^
 ||disqus.com/api/ping?
 ||disqus.com/get_
 ||dl-rms.com^
