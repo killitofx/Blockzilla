@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B04 
+! Version B05 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -816,6 +816,7 @@ filext.com###overlay
 @@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=3now.co.nz|foxnews.com
+@@/track.$script,domain=baur.de
 @@/track/*$media,domain=bandcamp.com
 @@/tracking.$script,domain=gamespot.com
 @@/tracking/*$script,domain=ups.com
