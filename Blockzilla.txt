@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B03 
+! Version B04 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -57,8 +57,8 @@
 .me/ads/
 .net/ad/
 .net/ads/
-.net/atrk.js
-.net/log.js
+.net/atrk.
+.net/log.
 .netdna-*/analytics.
 .nz/ads/
 .php?bannerid=
