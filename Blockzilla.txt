@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B02 
+! Version B03 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -57,10 +57,13 @@
 .me/ads/
 .net/ad/
 .net/ads/
+.net/atrk.js
+.net/log.js
 .netdna-*/analytics.
 .nz/ads/
 .php?bannerid=
 .php?zoneid=
+.vdna-*/analytics.
 .wwwpromoter.com/
 /1pix.gif?
 /1x1transparent.gif
@@ -152,6 +155,7 @@
 /productAds/*
 /ptracking?
 /research/pixel?
+/sessioncam.
 /show_afs_ads.
 /sponsors.
 /st?ad_type=
@@ -488,7 +492,6 @@ images/ads/
 ||sekindo.com^
 ||servedbyopenx.com^
 ||serving-sys.com^
-||sessioncam.com^
 ||shareasale.com^
 ||simplereach.com^
 ||sitemeter.com^
@@ -573,8 +576,6 @@ images/ads/
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/*&res=
 ||cloudfront.net/?a=
-||cloudfront.net/atrk.js
-||cloudfront.net/log.js
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 !
