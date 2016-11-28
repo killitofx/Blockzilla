@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B06 
+! Version B07 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -201,6 +201,7 @@ images/ads/
 ||adblockdetector.com^
 ||adbrn.com^
 ||adcash.com^
+||adclear.
 ||adclick.
 ||adexchangeprediction.com^$popup
 ||adf.ly^
@@ -330,6 +331,7 @@ images/ads/
 ||esearchvision.com^
 ||eventlogger.
 ||everesttech.net^
+||exclusive-gift.online^
 ||exelator.com^
 ||exponential.com^
 ||extreme-dm.com^
@@ -374,6 +376,7 @@ images/ads/
 ||indexww.com^
 ||infolinks.com^
 ||inskinad.com^
+||intelliad.
 ||intellitxt.com^
 ||intergient.com^
 ||iperceptions.com^
@@ -403,6 +406,7 @@ images/ads/
 ||lognormal.net^
 ||marchex.io^
 ||marinsm.com^
+||marketgid.com^
 ||marketingsolutions.
 ||marketo.net^
 ||mathtag.com^
@@ -422,6 +426,7 @@ images/ads/
 ||mookie1.com^
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
+||mxtads.com^
 ||myclk.net^
 ||nanigans.com^
 ||naver.net^
