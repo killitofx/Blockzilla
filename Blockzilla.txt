@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B05 
+! Version B06 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -24,8 +24,7 @@
 -1x1.gif?
 -300x250.
 -468x60.
--adsystem.$subdocument
--adsystem.*?src=
+-adsystem.
 -amazon.com/*/shazam/$image
 -skyad=
 -stat/advertising/
