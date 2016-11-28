@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B10 
+! Version B11 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -340,6 +340,7 @@ images/ads/
 ||eyeota.net^
 ||fallingfalcon.com^
 ||fastclick.net^
+||fidelity-media.com^
 ||flix360.com^
 ||fls-*.amazon.
 ||flux.com^
@@ -440,6 +441,7 @@ images/ads/
 ||novately.com^
 ||ntv.io^
 ||odesaconflate.com^
+||ohmydating.com^
 ||olisade.de^
 ||omarsys.com^
 ||omnitagjs.com^
@@ -469,6 +471,7 @@ images/ads/
 ||pictela.net^
 ||pixel.
 ||pixfuture.net^
+||playnow.guru^
 ||polarmobile.com^
 ||popads.net^
 ||popcash.net^
@@ -807,6 +810,7 @@ mail.yahoo.com###slot_MB
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
+youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
 !
