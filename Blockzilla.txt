@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B08 
+! Version B09 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -308,6 +308,7 @@ images/ads/
 ||dailymail.co.uk/s/l?t=
 ||dashbida.com^
 ||dashgreen.online^
+||decenthat.com^
 ||delivery47.com^
 ||demdex.net^
 ||deployads.com^
@@ -437,6 +438,7 @@ images/ads/
 ||newpromo.
 ||newrelic.com^
 ||novately.com^
+||ntv.io^
 ||odesaconflate.com^
 ||olisade.de^
 ||omarsys.com^
@@ -538,6 +540,7 @@ images/ads/
 ||triggit.com^
 ||tritondigital.com^
 ||trk.
+||tru.am^
 ||truoptik.com^
 ||turn.com^
 ||tynt.com^
@@ -618,6 +621,7 @@ images/ads/
 ###DartAd300x250
 ###HomepageAdSpace
 ###TOP_RIGHT_BOXAD
+###ad-north-base
 ###ad-wrap
 ###ad-wrapper
 ###ad1
@@ -759,6 +763,7 @@ images/ads/
 ##.mpu
 ##.netshelter-ad
 ##.other_adv
+##.promoThumb
 ##.rail__mps-ad
 ##.resultad
 ##.right_col_ad
