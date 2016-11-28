@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B09 
+! Version B10 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -720,6 +720,7 @@ images/ads/
 ##.admpu
 ##.adroot
 ##.ads_slots_snippet
+##.ads_wrapper
 ##.adsbygoogle
 ##.adtop
 ##.adunit_rectangle
@@ -791,6 +792,7 @@ images/ads/
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
+##DIV[id$="Ad-Proxy"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
