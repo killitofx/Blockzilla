@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B07 
+! Version B08 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -311,6 +311,7 @@ images/ads/
 ||delivery47.com^
 ||demdex.net^
 ||deployads.com^
+||deximedia.com^
 ||dirt.dennis.co.uk^
 ||displaymarketplace.com^
 ||disqus.com/api/ping?
@@ -431,6 +432,7 @@ images/ads/
 ||nanigans.com^
 ||naver.net^
 ||netmng.com^
+||netseer.com^
 ||netshelter.net^
 ||newpromo.
 ||newrelic.com^
@@ -517,6 +519,7 @@ images/ads/
 ||surveygifts.win^
 ||survicate.com^
 ||swoop.com^
+||t.cinemablend.com^
 ||t.paypal.com^
 ||taboola.com^
 ||taboolasyndication.com^
@@ -712,6 +715,7 @@ images/ads/
 ##.adfliction
 ##.admpu
 ##.adroot
+##.ads_slots_snippet
 ##.adsbygoogle
 ##.adtop
 ##.adunit_rectangle
