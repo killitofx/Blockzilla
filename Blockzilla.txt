@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B12 
+! Version B13 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -58,6 +58,7 @@
 .net/ads/
 .net/atrk.
 .net/log.
+.net/z.gif?
 .netdna-*/analytics.
 .nz/ads/
 .php?bannerid=
@@ -65,6 +66,7 @@
 .vdna-*/analytics.
 .wwwpromoter.com/
 /1pix.gif?
+/1x1image.jpg?
 /1x1transparent.gif
 /?file=ads&
 /?metric=
@@ -247,6 +249,7 @@ images/ads/
 ||arlime.com^
 ||asdorka.com^
 ||atdmt.com^
+||atticwicket.com^
 ||ayboll.com^
 ||b.collective-media.net^
 ||banner.
@@ -290,6 +293,7 @@ images/ads/
 ||clickiocdnh.com^
 ||clicksgear.com^
 ||clicktale.net^
+||clicktalecdn.
 ||cogocast.net^
 ||columnpop.com^$popup
 ||comscore.com^
@@ -334,6 +338,7 @@ images/ads/
 ||effectivemeasure.net^
 ||envy.net^
 ||esearchvision.com^
+||eum-appdynamics.com^
 ||eventlogger.
 ||everesttech.net^
 ||exclusive-gift.online^
@@ -385,6 +390,7 @@ images/ads/
 ||intelliad.
 ||intellitxt.com^
 ||intergient.com^
+||invoca.
 ||iperceptions.com^
 ||ipowow.com^$image
 ||iris.tv^
@@ -441,6 +447,7 @@ images/ads/
 ||netshelter.net^
 ||newpromo.
 ||newrelic.com^
+||nexac.com^
 ||novately.com^
 ||ntv.io^
 ||odesaconflate.com^
@@ -491,6 +498,7 @@ images/ads/
 ||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
+||researchnow.com^
 ||reson8.com^
 ||revdepo.com^
 ||revsci.net^
@@ -554,6 +562,7 @@ images/ads/
 ||umbel.com^
 ||univide.com^
 ||unrulymedia.com^
+||usabilla.com^
 ||vacwrite.com^
 ||verymuchad.com^
 ||videostat.com^
@@ -607,6 +616,7 @@ images/ads/
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
+||po.st/p?t=view&pub=$image,third-party
 ||reddit.com^$third-party
 ||scribol.com^$third-party
 ||sharethis.com^$third-party
@@ -779,6 +789,7 @@ images/ads/
 ##.showcaseAd
 ##.side-ad
 ##.sidebar-ad
+##.snarcy-ad
 ##.sponsor
 ##.sponsored_links
 ##.square-ads
@@ -796,6 +807,7 @@ images/ads/
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
+##DIV[class*="ad-wrapper"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
 ##DIV[id$="Ad-Proxy"]
