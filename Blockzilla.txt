@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B14 
+! Version B15 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -363,6 +363,7 @@ images/ads/
 ||getclicky.com^
 ||getrockerbox.com^
 ||gigya.com^
+||gk25qeyc.xyz^
 ||glanceguide.com^
 ||go-mpulse.net^
 ||google-analytics.com*/collect?
@@ -436,6 +437,7 @@ images/ads/
 ||moatads.com^
 ||monetate.net^
 ||mookie1.com^
+||mosaicolor.website^
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
 ||mxtads.com^
@@ -544,6 +546,7 @@ images/ads/
 ||telize.com^
 ||thebloggernetwork.com^
 ||thefoxads.ru^
+||topbananaad.com^
 ||trace.events^
 ||trackalyzer.com^
 ||traq.li^
