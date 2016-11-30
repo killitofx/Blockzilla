@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version B13 
+! Version B14 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -287,7 +287,7 @@ images/ads/
 ||chartbeat.
 ||chitika.net^
 ||clevergirlscollective.com^
-||click-server.herokuapp.com^
+||click-server.
 ||click.status.xbox.com^$image
 ||clickfuse.com^
 ||clickiocdnh.com^
@@ -535,8 +535,6 @@ images/ads/
 ||surveygifts.win^
 ||survicate.com^
 ||swoop.com^
-||t.cinemablend.com^
-||t.paypal.com^
 ||taboola.com^
 ||taboolasyndication.com^
 ||tags.news.com.au^
@@ -575,7 +573,7 @@ images/ads/
 ||visualwebsiteoptimizer.com^
 ||vizury.com^
 ||w55c.net^
-||webads.co.nz^
+||webads.
 ||webeatyouradblocker.com^
 ||webtrendslive.com^
 ||whatismyip.win^
@@ -835,6 +833,7 @@ youtube.com##.pyv-afc-ads-container
 _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||t.*.com/$domain=cinemablend.com|paypal.com
 !
 ! Add on Domains (Element) >>>>>
 !
