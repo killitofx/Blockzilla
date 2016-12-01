@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B18 
+! Version B19 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -123,6 +123,7 @@
 /gen_204?
 /generate_204
 /getAdverts?
+/get_geoip?
 /getads.
 /google-analyticator/*
 /google-analytics.
@@ -465,6 +466,7 @@ images/ads/
 ||pebed.dm.gg^
 ||peer39.net^
 ||perfectaudience.com^
+||perr.h-cdn.com^
 ||petametrics.com^
 ||picadmedia.com^
 ||pictela.net^
