@@ -1,5 +1,5 @@
-[Adblock Plus 2.0]
-! Version B15 
+[Adblock Plus 2.8]
+! Version B16 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -33,7 +33,6 @@
 .1d/Ads/
 .ads.*/banner?
 .advertising.com/
-.amazonaws.com/*/buzzing/$third-party
 .com/_/tr.ashx?r=*&loc=
 .com/ad/
 .com/ads-
@@ -100,7 +99,6 @@
 /afr.php?
 /api/ads/*
 /apnnz/tserver/*=PREROLL
-/banner/*$popup
 /baynote.js
 /bct?pid=
 /beacon.
@@ -206,17 +204,13 @@ images/ads/
 ||adcash.com^
 ||adclear.
 ||adclick.
-||adexchangeprediction.com^$popup
 ||adf.ly^
 ||adform.net^
 ||adglare.net^
 ||adgrx.com^
-||adk2x.com^$popup
 ||adlog.com.com^
 ||admantx.com^
 ||admeld.com^
-||adnetworkperformance.com^
-||adnetworkperformance.com^$popup
 ||adnxs.com^
 ||adpushup.com^
 ||adreadytractions.com^
@@ -226,7 +220,6 @@ images/ads/
 ||adsbyisocket.com^
 ||adserver.
 ||adsjudo.com^
-||adsmarket.com^$popup
 ||adsnative.com^
 ||adspruce.com^
 ||adsupply.com^
@@ -288,14 +281,13 @@ images/ads/
 ||chitika.net^
 ||clevergirlscollective.com^
 ||click-server.
-||click.status.xbox.com^$image
+||click.status.$image
 ||clickfuse.com^
 ||clickiocdnh.com^
 ||clicksgear.com^
 ||clicktale.net^
 ||clicktalecdn.
 ||cogocast.net^
-||columnpop.com^$popup
 ||comscore.com^
 ||connatix.com^
 ||content.ad^
@@ -328,7 +320,6 @@ images/ads/
 ||dmtracker.com^
 ||domdex.com^
 ||dotomi.com^
-||doubleclick.net^$image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,popup
 ||dpclk.com^
 ||dps-reach.com^
 ||dw.com.com^
@@ -355,7 +346,6 @@ images/ads/
 ||flx1.com^
 ||fmpub.net^
 ||fng-ads.fox.com^
-||foxsnews.net^$popup
 ||fqtag.com^
 ||game-advertising-online.com^
 ||gcw.mysavings.com^
@@ -427,8 +417,6 @@ images/ads/
 ||mecash.ru^
 ||media.net^
 ||media6degrees.com^
-||mediabks.com^$popup
-||mediakee.com^$popup
 ||mentad.com^
 ||metrics.
 ||mgid.com^
@@ -459,8 +447,6 @@ images/ads/
 ||omnitagjs.com^
 ||omtrdc.net^
 ||onclasrv.com^
-||onclickads.net^
-||onclickads.net^$popup
 ||online-metrix.net^
 ||openx.
 ||optimahub.com^
@@ -486,8 +472,6 @@ images/ads/
 ||playnow.guru^
 ||polarmobile.com^
 ||popads.net^
-||popcash.net^
-||popcash.net^$popup
 ||postrelease.com^
 ||prizma.tv/get
 ||pro-market.net^
@@ -496,7 +480,6 @@ images/ads/
 ||qubitproducts.com^
 ||questionmarket.com^
 ||recomendedsite.com^
-||recompenses.win^$popup
 ||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
@@ -525,7 +508,6 @@ images/ads/
 ||specificclick.net^
 ||springserve.com^
 ||spylog.ru^
-||sq2trk2.com^$popup
 ||srpx.net^
 ||stackadapt.com^
 ||statcounter.com^
@@ -607,6 +589,7 @@ images/ads/
 !
 ! $third-party >>>>>
 !
+.amazonaws.com/*/buzzing/$third-party
 ||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
 ||connect.facebook.net^$third-party
@@ -629,6 +612,31 @@ images/ads/
 ||ws.amazon.*/widgets/$third-party
 ||yandex.ru^$third-party
 ||zergnet.com^$third-party
+!
+! $popup >>>>>
+!
+/banner/*$popup
+||adexchangeprediction.com^$popup
+||adk2x.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||adnetworkperformance.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||adsmarket.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||columnpop.com^$popup
+||doubleclick.net^$popup,image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||foxsnews.net^$popup
+||mediabks.com^$popup
+||mediakee.com^$popup
+||onclickads.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||popcash.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||recompenses.win^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||sq2trk2.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+!
+! Add on Domains (Blocking) >>>>>
+!
+/banner/*$domain=flaticon.com
+_banner.$domain=youtube.com
+||2mdn.net^$domain=twitch.tv
+||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||t.*.com/$domain=cinemablend.com|paypal.com
 !
 ! Ad Element Hiding >>>>>
 !
@@ -829,14 +837,6 @@ wikipedia.org###centralNotice
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
-!
-! Add on Domains >>>>>
-!
-/banner/*$domain=flaticon.com
-_banner.$domain=youtube.com
-||2mdn.net^$domain=twitch.tv
-||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
-||t.*.com/$domain=cinemablend.com|paypal.com
 !
 ! Add on Domains (Element) >>>>>
 !
