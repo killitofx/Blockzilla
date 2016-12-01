@@ -12,6 +12,7 @@ Maintenance support for Blockzilla will **NOT** be provided for:
  
 - Websites containing or related to illegal activity/content
 
-###### If you require supplemental coverage, you may be interested in:
+###### Recommended Links:
 
-- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions)
+- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage if required.)
+- [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (The best way to stop Google Analytics, because completely blocking `||google-analytics.com^` causes too many issues.)
