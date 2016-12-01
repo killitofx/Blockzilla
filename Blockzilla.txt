@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B16 
+! Version B17 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -170,6 +170,7 @@
 /trans_pixel.
 /triggertag.js
 /v53nse.js
+/view-count/increment
 /webtrends.
 /webtrends/*
 /wtid.js
@@ -500,6 +501,7 @@ images/ads/
 ||servedbyopenx.com^
 ||serving-sys.com^
 ||shareasale.com^
+||silkenthreadiness.info^
 ||simplereach.com^
 ||sitemeter.com^
 ||skimlinks.com^
@@ -521,7 +523,6 @@ images/ads/
 ||swoop.com^
 ||taboola.com^
 ||taboolasyndication.com^
-||tags.news.com.au^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
@@ -560,6 +561,7 @@ images/ads/
 ||w55c.net^
 ||webads.
 ||webeatyouradblocker.com^
+||webspectator.com^
 ||webtrendslive.com^
 ||whatismyip.win^
 ||wikia-beacon.com^
@@ -637,6 +639,7 @@ _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
+||tags.$domain=news.com.au
 !
 ! Ad Element Hiding >>>>>
 !
@@ -838,11 +841,11 @@ youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
 !
-! Add on Domains (Element) >>>>>
+! Add on Domains (Element Hiding) >>>>>
 !
 filext.com###overlay
 !
-! Exceptions (For Website Functionality) >>>>>
+! Exceptions (Website Functionality) >>>>>
 !
 @@.demdex.net/$script,domain=foxnews.com
 @@.foxnews.com/$script,domain=foxnews.com
@@ -858,6 +861,7 @@ filext.com###overlay
 @@/tracking/*$script,domain=ups.com
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||analytics.$script,domain=3now.co.nz
+@@||c.amazon-adsystem.$script,domain=player.performgroup.com
 @@||connect.facebook.net^$script,domain=focusfeatures.com
 @@||doubleclick.net^$script,domain=foxnews.com
 @@||gigya.com^$script,subdocument,domain=3now.co.nz|dailystar.co.uk|express.co.uk
