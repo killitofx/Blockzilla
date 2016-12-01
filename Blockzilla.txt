@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B17 
+! Version B18 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -761,6 +761,7 @@ _banner.$domain=youtube.com
 ##.advertisingTable
 ##.advertorial-pointer
 ##.affiliate-module
+##.affiliate-mrec-iframe
 ##.article_ad
 ##.b_ad
 ##.banner-ad
