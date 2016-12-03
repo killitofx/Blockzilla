@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B21 
+! Version B22 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -870,7 +870,6 @@ filext.com###overlay
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||analytics.$script,domain=3now.co.nz
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
-@@||connect.facebook.net^$script,domain=focusfeatures.com
 @@||doubleclick.net^$script,domain=foxnews.com
 @@||gigya.com^$script,subdocument,domain=3now.co.nz|dailystar.co.uk|express.co.uk
 @@||googletagservices.com^$script,domain=3now.co.nz|foxnews.com
