@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B19 
+! Version B20 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -123,6 +123,7 @@
 /gen_204?
 /generate_204
 /getAdverts?
+/get_cdns?$xmlhttprequest,third-party
 /get_geoip?
 /getads.
 /google-analyticator/*
@@ -182,6 +183,7 @@ _300x250-
 _ad_request.
 _ads&
 _ads.html
+_ads/js/
 _opt/logging_
 _social_promos.
 _store_analytics?
@@ -364,6 +366,7 @@ images/ads/
 ||googletagservices.com^
 ||grapeshot.co.uk^
 ||gravity.com^
+||gscontxt.net^
 ||gscounters.
 ||gumgum.com^
 ||gwallet.com^
@@ -416,6 +419,7 @@ images/ads/
 ||marketo.net^
 ||mathtag.com^
 ||mdadx.com^
+||mdotlabs.com^
 ||mecash.ru^
 ||media.net^
 ||media6degrees.com^
@@ -460,6 +464,7 @@ images/ads/
 ||oztam.com.au^
 ||pagead2.*/pagead/
 ||pagefair.com^
+||pagefair.net^
 ||parsely.com^
 ||partnerads.
 ||partnerads1.
@@ -596,7 +601,6 @@ images/ads/
 .amazonaws.com/*/buzzing/$third-party
 ||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
-||connect.facebook.net^$third-party
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||graph.facebook.com^$third-party
