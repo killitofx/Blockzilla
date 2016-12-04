@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B23 
+! Version B24 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -142,6 +142,7 @@
 /js/analytics/*
 /jserver/site
 /log.gif?
+/logger-*_ip=
 /maxymiser/*
 /mbads?
 /nltracker.js
@@ -840,6 +841,7 @@ _banner.$domain=youtube.com
 ##DIV[id^="my-ads"]
 ##IFRAME[name*="ads-center"]
 ##LI[id^="ad-"]
+dailymotion.com##.hidden-sm.hidden-md
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
 mail.google.com##.aKB
@@ -854,6 +856,7 @@ youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
+dailymotion.com###top_banner
 filext.com###overlay
 !
 ! Exceptions (Website Functionality) >>>>>
