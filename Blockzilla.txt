@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B22 
+! Version B23 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -345,6 +345,7 @@ images/ads/
 ||fallingfalcon.com^
 ||fastclick.net^
 ||fidelity-media.com^
+||firstimpression.io^
 ||flix360.com^
 ||fls-*.amazon.
 ||flux.com^
@@ -377,6 +378,7 @@ images/ads/
 ||hotjar.com^
 ||ifmnwi.club^
 ||igodigital.com^
+||imedia.cz^
 ||img.tfd.com/wn/*32
 ||img.tfd.com/wn/*79
 ||impactradius.com^
@@ -387,6 +389,7 @@ images/ads/
 ||intelliad.
 ||intellitxt.com^
 ||intergient.com^
+||intgr.net^
 ||invoca.
 ||iperceptions.com^
 ||ipowow.com^$image
