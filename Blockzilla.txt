@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B24 
+! Version B25 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -47,6 +47,7 @@
 .com/pixel-
 .com/pixel.
 .com/t.gif?
+.com/tr/?id=$image
 .com/x/collect?t=
 .ero*advertising.com/
 .eu/ads/
@@ -158,6 +159,7 @@
 /ptracking?
 /research/pixel?
 /sessioncam.
+/sherlock.gif?knowledge=
 /show_afs_ads.
 /sponsors.
 /st?ad_type=
@@ -474,6 +476,7 @@ images/ads/
 ||partnerads.
 ||partnerads1.
 ||pebed.dm.gg^
+||peer39.com^
 ||peer39.net^
 ||perfectaudience.com^
 ||perr.h-cdn.com^
