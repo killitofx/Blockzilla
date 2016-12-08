@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B29 
+! Version B30 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -118,7 +118,7 @@
 /customads/*
 /dashboard/px.js?ch=
 /dcs.gif?
-/dmtracking*.
+/dmtracking2.
 /eluminate.js
 /fake-ad-
 /flashcookie/*
