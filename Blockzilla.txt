@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B26 
+! Version B27 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -477,8 +477,7 @@ images/ads/
 ||partnerads.
 ||partnerads1.
 ||pebed.dm.gg^
-||peer39.com^
-||peer39.net^
+||peer39.
 ||perfectaudience.com^
 ||perr.h-cdn.com^
 ||petametrics.com^
@@ -651,6 +650,7 @@ images/ads/
 !
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
+|blob:$domain=merriam-webster.com
 ||2mdn.net^$domain=twitch.tv
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
