@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B27 
+! Version B28 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -117,6 +117,7 @@
 /customads/*
 /dashboard/px.js?ch=
 /dcs.gif?
+/dmtracking*.
 /eluminate.js
 /fake-ad-
 /flashcookie/*
@@ -220,13 +221,15 @@ images/ads/
 ||adnxs.com^
 ||adpushup.com^
 ||adreadytractions.com^
+||adrecover.com^
 ||adroll.com^
 ||ads.
 ||ads1.
 ||adsbyisocket.com^
 ||adserver.
-||adsjudo.com^
+||adsjudo.
 ||adsnative.com^
+||adsonflags.com^
 ||adspruce.com^
 ||adsupply.com^
 ||adsymptotic.com^
@@ -279,6 +282,7 @@ images/ads/
 ||burstnet.com^
 ||buysellads.com^
 ||bzgint.com^
+||c.compete.com^
 ||casalemedia.com^
 ||castplatform.com^
 ||cedexis.com^
@@ -542,6 +546,7 @@ images/ads/
 ||teads.tv^
 ||tealium.hs.llnwd.net^
 ||telize.com^
+||thankswrite.com^
 ||thebloggernetwork.com^
 ||thefoxads.ru^
 ||topbananaad.com^
@@ -601,6 +606,7 @@ images/ads/
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/*&res=
 ||cloudfront.net/?a=
+||cloudfront.net/esf.js
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 !
