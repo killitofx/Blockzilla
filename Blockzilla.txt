@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B28 
+! Version B29 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -51,6 +51,7 @@
 .com/x/collect?t=
 .ero*advertising.com/
 .eu/ads/
+.gif?knowledge=
 .kim/adv/
 .kissinsights.com/
 .me/ads/
@@ -125,7 +126,6 @@
 /gen_204?
 /generate_204
 /getAdverts?
-/get_cdns?$xmlhttprequest,third-party
 /get_geoip?
 /getads.
 /google-analyticator/*
@@ -160,7 +160,6 @@
 /ptracking?
 /research/pixel?
 /sessioncam.
-/sherlock.gif?knowledge=
 /show_afs_ads.
 /sponsors.
 /st?ad_type=
@@ -176,7 +175,7 @@
 /trans_pixel.
 /triggertag.js
 /v53nse.js
-/view-count/increment
+/view-count/*
 /webtrends.
 /webtrends/*
 /wtid.js
@@ -613,6 +612,7 @@ images/ads/
 ! $third-party >>>>>
 !
 .amazonaws.com/*/buzzing/$third-party
+/get_cdns?$xmlhttprequest,third-party
 ||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
 ||creativecdn.com^$third-party
