@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B25 
+! Version B26 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -200,7 +200,6 @@ images/ads/
 ||4dsply.com^
 ||50greyofsha.de^
 ||69wnz64h.xyz^
-||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
 ||ad.pxlad.io^
@@ -266,6 +265,7 @@ images/ads/
 ||bidswitch.net^
 ||bizographics.com^
 ||bkrtx.com^
+||bleutrack.com^
 ||blockertools.net^
 ||bluekai.com^
 ||bluesli.de^
@@ -288,6 +288,7 @@ images/ads/
 ||chitika.net^
 ||clevergirlscollective.com^
 ||click-server.
+||click-stats23.com^
 ||click.status.$image
 ||clickfuse.com^
 ||clickiocdnh.com^
@@ -651,6 +652,7 @@ images/ads/
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
 ||2mdn.net^$domain=twitch.tv
+||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
 ||tags.$domain=news.com.au
