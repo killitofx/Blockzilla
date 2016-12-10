@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B30 
+! Version B31 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -295,7 +295,6 @@ images/ads/
 ||click.status.$image
 ||clickfuse.com^
 ||clickiocdnh.com^
-||clicksgear.com^
 ||clicktale.net^
 ||clicktalecdn.
 ||cogocast.net^
@@ -642,6 +641,7 @@ images/ads/
 ||adk2x.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adnetworkperformance.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adsmarket.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||clicksgear.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||columnpop.com^$popup
 ||doubleclick.net^$popup,image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||foxsnews.net^$popup
