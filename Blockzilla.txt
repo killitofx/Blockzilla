@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B32 
+! Version B33 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -849,7 +849,7 @@ _banner.$domain=youtube.com
 ##DIV[id$="Ad-Proxy"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
-##DIV[id^="div-gpt-ad-"]
+##DIV[id^="div-gpt-ad"]
 ##DIV[id^="my-ads"]
 ##DIV[id^="taboola-"]
 ##IFRAME[name*="ads-center"]
