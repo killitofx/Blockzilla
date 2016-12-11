@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B36 
+! Version B37 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -373,6 +373,7 @@ images/ads/
 ||go-mpulse.net^
 ||google-analytics.com*/collect?
 ||googleadservices.com^
+||googlesyndication.com/sodar/
 ||googletagmanager.com^
 ||googletagservices.com^
 ||grapeshot.co.uk^
