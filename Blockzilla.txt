@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B35 
+! Version B36 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -56,6 +56,7 @@
 .kissinsights.com/
 .me/ads/
 .net/ad/
+.net/ads-
 .net/ads/
 .net/atrk.
 .net/log.
@@ -638,6 +639,7 @@ images/ads/
 !
 ! $popup >>>>>
 !
+&popunder=$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 /banner/*$popup
 ||adexchangeprediction.com^$popup
 ||adk2x.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
