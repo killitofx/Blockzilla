@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B38 
+! Version B39 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -663,6 +663,7 @@ images/ads/
 ! Add on Domains (Blocking) >>>>>
 !
 /banner/*$domain=flaticon.com
+_970x250.js?$domain=yahoo.com
 _banner.$domain=youtube.com
 |blob:$domain=merriam-webster.com
 ||a.*.com/$domain=gsmarena.com
