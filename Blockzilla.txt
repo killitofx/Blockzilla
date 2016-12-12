@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B37 
+! Version B38 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
 ! blockzilla.list [at] gmail.com
@@ -529,6 +529,7 @@ images/ads/
 ||skimlinks.com^
 ||skimresources.com^
 ||sonobi.com^
+||spade.twitch.tv^
 ||specificclick.net^
 ||springserve.com^
 ||spylog.ru^
@@ -664,7 +665,6 @@ images/ads/
 /banner/*$domain=flaticon.com
 _banner.$domain=youtube.com
 |blob:$domain=merriam-webster.com
-||2mdn.net^$domain=twitch.tv
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
