@@ -1,8 +1,8 @@
 [Adblock Plus 2.8]
-! Version B40 
+! Version B41 
 ! Expires: 2 hours
-! Report issues, unblocked ads or trackers to:
-! blockzilla-list [at] yahoo.com
+! Report issues, unblocked ads or trackers at:
+! https://github.com/zpacman
 !
 ! Title: Blockzilla
 ! Homepage: https://zpacman.github.io/Blockzilla/
@@ -158,6 +158,7 @@
 /pixel.gif
 /playertracking/*
 /popunderlandingpage.
+/popups.min.$stylesheet
 /productAds/*
 /ptracking?
 /research/pixel?
@@ -215,6 +216,7 @@ images/ads/
 ||adclick.
 ||adf.ly^
 ||adform.net^
+||adgebra.co.in^
 ||adglare.net^
 ||adgrx.com^
 ||adlog.com.com^
