@@ -1,8 +1,8 @@
 [Adblock Plus 2.8]
-! Version B39 
+! Version B40 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers to:
-! blockzilla.list [at] gmail.com
+! blockzilla-list [at] yahoo.com
 !
 ! Title: Blockzilla
 ! Homepage: https://zpacman.github.io/Blockzilla/
