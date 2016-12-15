@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B43 
+! Version B44 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -708,7 +708,6 @@ _banner.$domain=youtube.com
 ###advertiseLink
 ###alt_ad_1
 ###amazon-affiliates
-###bannerAd_rdr
 ###bannerad
 ###billboard_ad
 ###bottomMPU
