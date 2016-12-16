@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B45 
+! Version B46 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -31,6 +31,7 @@
 -stat/analytics/
 -tracking.
 .1d/Ads/
+.adbutler-
 .ads.*/banner?
 .advertising.com/
 .com/_/tr.ashx?r=*&loc=
@@ -476,6 +477,7 @@ images/ads/
 ||optimize-stats.
 ||optimizely.com^
 ||optimost.com^
+||optnmnstr.com^
 ||oriel.io^
 ||owneriq.net^
 ||oztam.com.au^
@@ -626,6 +628,7 @@ images/ads/
 ||goroost.com^$third-party
 ||graph.facebook.com^$third-party
 ||linkedin.com^$third-party
+||lockerdome.com^$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
@@ -666,6 +669,7 @@ images/ads/
 ! Add on Domains (Blocking) >>>>>
 !
 /banner/*$domain=flaticon.com
+/banners/*$domain=thedailysheeple.com
 _970x250.js?$domain=yahoo.com
 _banner.$domain=youtube.com
 |blob:$domain=merriam-webster.com
@@ -755,6 +759,7 @@ _banner.$domain=youtube.com
 ##.ad-banner-leaderboard
 ##.ad-container
 ##.ad-div
+##.ad-embedded
 ##.ad-engage
 ##.ad-header
 ##.ad-leaderboard
@@ -836,6 +841,7 @@ _banner.$domain=youtube.com
 ##.showcaseAd
 ##.side-ad
 ##.sidebar-ad
+##.sidebar_right_ad
 ##.snarcy-ad
 ##.sponsor
 ##.sponsored_links
@@ -884,6 +890,7 @@ youtube.com##.pyv-afc-ads-container
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 filext.com###overlay
 gamefaqs.com##.promo
+thedailysheeple.com##.ads
 !
 ! Exceptions (Website Functionality) >>>>>
 !
