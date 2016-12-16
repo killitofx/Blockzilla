@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B44 
+! Version B45 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -881,8 +881,9 @@ youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
-filext.com###overlay
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
+filext.com###overlay
+gamefaqs.com##.promo
 !
 ! Exceptions (Website Functionality) >>>>>
 !
