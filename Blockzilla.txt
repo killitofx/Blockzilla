@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B47 
+! Version B48 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -207,6 +207,7 @@ images/ads/
 ||50greyofsha.de^
 ||69wnz64h.xyz^
 ||ad-apac.doubleclick.net^
+||ad.coupontime00.
 ||ad.linksynergy.com^
 ||ad.pxlad.io^
 ||adadvisor.net^
@@ -623,6 +624,7 @@ images/ads/
 !
 .amazonaws.com/*/buzzing/$third-party
 /get_cdns?$xmlhttprequest,third-party
+||a.mobify.com^$third-party
 ||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
 ||creativecdn.com^$third-party
