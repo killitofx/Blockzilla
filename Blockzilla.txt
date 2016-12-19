@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B50 
+! Version B51 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -873,6 +873,7 @@ _banner.$domain=youtube.com
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
+##DIV[id^="frbanner"]
 ##DIV[id^="my-ads"]
 ##DIV[id^="taboola-"]
 ##IFRAME[name*="ads-center"]
@@ -895,7 +896,7 @@ youtube.com##.pyv-afc-ads-container
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 filext.com###overlay
 gamefaqs.com##.promo
-thedailysheeple.com##.ads
+eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 !
 ! Exceptions (Website Functionality) >>>>>
 !
