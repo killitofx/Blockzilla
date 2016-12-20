@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B55 
+! Version B56 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -507,6 +507,7 @@ images/ads/
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
+||ramp.purch.com^
 ||recomendedsite.com^
 ||referrer.disqus.com^
 ||reinvigorate.net^
@@ -678,7 +679,7 @@ images/ads/
 /banners/*$domain=thedailysheeple.com
 _970x250.js?$domain=yahoo.com
 _banner.$domain=youtube.com
-|blob:$domain=merriam-webster.com
+|blob:$domain=laptopmag.com|merriam-webster.com
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
@@ -897,9 +898,10 @@ youtube.com##.pyv-afc-ads-container
 ! Add on Domains (Element Hiding) >>>>>
 !
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
+eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 gamefaqs.com##.promo
-eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
+laptopmag.com##.leaderBoard
 !
 ! Exceptions (Website Functionality) >>>>>
 !
