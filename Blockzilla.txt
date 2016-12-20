@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B53 
+! Version B54 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -712,6 +712,7 @@ _banner.$domain=youtube.com
 ###adcontainer1
 ###adcontainer3
 ###adholder
+###adkit_mrec1
 ###adsense
 ###adsense_honeytrap
 ###advertSection
@@ -873,7 +874,6 @@ _banner.$domain=youtube.com
 ##DIV[id$="Ad-Proxy"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
-##DIV[id^="adkit"]
 ##DIV[id^="div-gpt-ad"]
 ##DIV[id^="frbanner"]
 ##DIV[id^="my-ads"]
