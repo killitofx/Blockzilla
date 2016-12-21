@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B56 
+! Version B57 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -606,6 +606,7 @@ images/ads/
 ||yieldmanager.
 ||yimg.com/rq/darla/
 ||yldbt.com^
+||youtube.com/csi_204?*_ad_
 ||zdbb.net^
 ||zedo.com^
 ||ziccardia.com^
@@ -643,6 +644,7 @@ images/ads/
 ||snapengage.com^$image,third-party
 ||stats.$third-party
 ||syndication.twitter.com^$third-party
+||whistleout.$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
 ||yandex.ru^$third-party
