@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B57 
+! Version B58 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -160,7 +160,6 @@
 /pixel.gif
 /playertracking/*
 /popunderlandingpage.
-/popups.min.$stylesheet
 /productAds/*
 /ptracking?
 /research/pixel?
@@ -899,6 +898,7 @@ youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
+cnet.com##.sticky-leader
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
