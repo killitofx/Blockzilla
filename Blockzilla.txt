@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B66 
+! Version B67 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -76,6 +76,7 @@
 /AdvertisingModule.
 /Count.cgi?
 /NativeAdService;
+/PageMoniker?pixel
 /__utm.gif
 /ad-banner-
 /ad.html?
