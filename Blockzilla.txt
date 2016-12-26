@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B63 
+! Version B64 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -289,6 +289,7 @@ images/ads/
 ||c.compete.com^
 ||casalemedia.com^
 ||castplatform.com^
+||cbcx8t95.space^
 ||cedexis.com^
 ||chanalytics.
 ||channelintelligence.com^
@@ -413,6 +414,7 @@ images/ads/
 ||jscount.com^
 ||jsrdn.com^
 ||jwpltx.com^
+||k9anf8bc.webcam^
 ||keen.io^
 ||kissmetrics.com^
 ||komoona.com^
@@ -461,6 +463,7 @@ images/ads/
 ||newpromo.
 ||newrelic.com^
 ||nexac.com^
+||nm7xq628.click^
 ||novately.com^
 ||ntv.io^
 ||odesaconflate.com^
@@ -506,6 +509,7 @@ images/ads/
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
+||qwun46bs.review^
 ||ramp.purch.com^
 ||recomendedsite.com^
 ||referrer.disqus.com^
