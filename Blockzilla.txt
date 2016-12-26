@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B62 
+! Version B63 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -674,6 +674,8 @@ images/ads/
 ||popcash.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||predictivadnetwork.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||recompenses.win^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||repapering.xyz^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||reupd.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||spotscenered.info^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||sq2trk2.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||tracking.perfecttoolmedia.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
