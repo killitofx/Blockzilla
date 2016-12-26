@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B64 
+! Version B65 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -204,7 +204,6 @@ images/ads/
 ||3lift.com^
 ||4dsply.com^
 ||50greyofsha.de^
-||69wnz64h.xyz^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
 ||ad.pxlad.io^
@@ -289,7 +288,6 @@ images/ads/
 ||c.compete.com^
 ||casalemedia.com^
 ||castplatform.com^
-||cbcx8t95.space^
 ||cedexis.com^
 ||chanalytics.
 ||channelintelligence.com^
@@ -372,7 +370,6 @@ images/ads/
 ||getclicky.com^
 ||getrockerbox.com^
 ||gigya.com^
-||gk25qeyc.xyz^
 ||glanceguide.com^
 ||go-mpulse.net^
 ||google-analytics.com*/collect?
@@ -414,7 +411,6 @@ images/ads/
 ||jscount.com^
 ||jsrdn.com^
 ||jwpltx.com^
-||k9anf8bc.webcam^
 ||keen.io^
 ||kissmetrics.com^
 ||komoona.com^
@@ -463,7 +459,6 @@ images/ads/
 ||newpromo.
 ||newrelic.com^
 ||nexac.com^
-||nm7xq628.click^
 ||novately.com^
 ||ntv.io^
 ||odesaconflate.com^
@@ -509,7 +504,6 @@ images/ads/
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
-||qwun46bs.review^
 ||ramp.purch.com^
 ||recomendedsite.com^
 ||referrer.disqus.com^
@@ -615,6 +609,13 @@ images/ads/
 ||zedo.com^
 ||ziccardia.com^
 ||zqtk.net^
+!
+||69wnz64h.xyz^
+||cbcx8t95.space^
+||gk25qeyc.xyz^
+||k9anf8bc.webcam^
+||nm7xq628.click^
+||qwun46bs.review^
 !
 ! Cloudfront >>>>>
 !
