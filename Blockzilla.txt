@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B69 
+! Version B70 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -198,7 +198,7 @@ _ad_request.
 _ads&
 _ads.html
 _ads/js/
-_invideo?instream_ad=$script
+_invideo?instream_ad=
 _opt/logging_
 _social_promos.
 _store_analytics?
