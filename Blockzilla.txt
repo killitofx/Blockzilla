@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B71 
+! Version B72 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -17,6 +17,7 @@
 ! Ad and Tracker Blocking >>>>>
 !
 &ad_size=
+&adformat=
 &adunit=
 &aff_id=
 &trackingId=
@@ -188,9 +189,10 @@
 /webtrends.
 /webtrends/*
 /wtid.js
-/www-search-ads.js
+/www-search-ads.
 ?[AQB]&ndh=
 ?action=log_
+?instream_ad=
 AQB=1&ndh=
 _204?*_ad$image
 _300x250-
@@ -198,7 +200,6 @@ _ad_request.
 _ads&
 _ads.html
 _ads/js/
-_invideo?instream_ad=
 _opt/logging_
 _social_promos.
 _store_analytics?
