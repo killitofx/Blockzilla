@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B75 
+! Version B76 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -671,6 +671,7 @@ images/ads/
 ||adnetworkperformance.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adsafeprotected.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adsmarket.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||alibaba.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
 ||bleutrack.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||bwin.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
 ||canuckmethods.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
@@ -691,6 +692,7 @@ images/ads/
 ||popcash.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||predictivadnetwork.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||recompenses.win^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||reimageplus.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||repapering.xyz^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||reupd.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||spotscenered.info^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
