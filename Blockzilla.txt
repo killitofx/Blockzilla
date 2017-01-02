@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B74 
+! Version B75 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -934,6 +934,7 @@ eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 gamefaqs.com##.promo
 laptopmag.com##.leaderBoard
+mirror.co.uk##.top-slot
 wired.com##DIV[class*="banner"]
 !
 ! Exceptions (Website Functionality) >>>>>
