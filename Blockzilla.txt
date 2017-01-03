@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B76 
+! Version B77 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -714,6 +714,7 @@ _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|merriam-webster.com
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||stats.$domain=paypal.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
 ||tags.$domain=news.com.au
 !
@@ -931,6 +932,7 @@ youtube.com##.pyv-afc-ads-container
 ! Add on Domains (Element Hiding) >>>>>
 !
 cnet.com##.sticky-leader
+comingsoon.net###roadblock
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
