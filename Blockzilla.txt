@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B77 
+! Version B78 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -162,7 +162,6 @@
 /pagestatistics/*
 /ping.gif?u=
 /piwik.
-/pixel.gif
 /playertracking/*
 /popunderlandingpage.
 /productAds/*
