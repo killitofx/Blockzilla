@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B79 
+! Version B80 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -230,6 +230,7 @@ images/ads/
 ||admantx.com^
 ||admeld.com^
 ||adnxs.com^
+||adomik.com^
 ||adpushup.com^
 ||adreadytractions.com^
 ||adrecover.com^
@@ -849,6 +850,7 @@ _banner.$domain=youtube.com
 ##.bannerAdContainer
 ##.block-fusion-ads
 ##.display-ad
+##.earAdv
 ##.footer_ad
 ##.frame_adv
 ##.gooad
