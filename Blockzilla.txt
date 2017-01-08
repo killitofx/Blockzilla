@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B82 
+! Version B83 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -929,6 +929,7 @@ wikipedia.org###centralNotice
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
+youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
