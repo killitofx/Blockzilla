@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B83 
+! Version B84 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -962,7 +962,7 @@ wired.com##DIV[class*="banner"]
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
 @@||doubleclick.net^$script,domain=foxnews.com
 @@||gigya.com^$script,subdocument,domain=3now.co.nz|dailystar.co.uk|express.co.uk|pch.com|stuff.co.nz
-@@||googletagservices.com^$script,domain=3now.co.nz|foxnews.com
+@@||googletagservices.com^$script,domain=3now.co.nz|foxnews.com|zdnet.com
 @@||imrworldwide.com/v60.js$domain=3now.co.nz|nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
