@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B84 
+! Version B85 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -34,6 +34,7 @@
 .1d/Ads/
 .adbutler-
 .ads.*/banner?
+.ads.yahoo.com/
 .advertising.com/
 .com/_/tr.ashx?r=*&loc=
 .com/ad/
