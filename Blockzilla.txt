@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B85 
+! Version B86 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -969,3 +969,4 @@ wired.com##DIV[class*="banner"]
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||reddit.com^$script,domain=scrolldit.com
 @@||use.typekit.net^$script,font
+photographyblog.com#@#DIV[id^="taboola-"]
