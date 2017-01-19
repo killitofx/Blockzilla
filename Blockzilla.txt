@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B87 
+! Version B88 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -645,6 +645,7 @@ images/ads/
 ||graph.facebook.com^$third-party
 ||linkedin.com^$third-party
 ||lockerdome.com^$third-party
+||mmstat.com^$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||pinterest.com^$third-party
