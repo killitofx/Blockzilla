@@ -1,0 +1,11 @@
+[Adblock Plus 2.8]
+! Version 001 
+! Expires: 1 hours
+! Contact at: https://github.com/zpacman
+!
+! Title: Blockzilla Beta Testing
+! Homepage: https://zpacman.github.io/Blockzilla/
+!
+! Blockzilla Beta Testing >>>>>
+!
+||alibaba.com^$popup,image,media,object,object-subrequest,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
