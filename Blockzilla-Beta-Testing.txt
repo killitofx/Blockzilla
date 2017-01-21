@@ -8,7 +8,7 @@
 !
 ! Blockzilla Beta Testing >>>>>
 !
-! Force an update of this list in Adblock's preferences before testing. 
+! Update this list in Adblock's preferences before testing. 
 !
 ! Blockzilla Beta Testing >>>>>
 !
