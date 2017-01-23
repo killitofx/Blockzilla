@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Testing 001/2017 
+! Testing 002/2017 
 ! Expires: 1 hours
 ! Contact at: https://github.com/zpacman
 !
@@ -8,10 +8,11 @@
 !
 ! Blockzilla Beta Testing >>>>>
 !
-! Update this list in Adblock's preferences before testing. 
+! Update this list in Adblock's preferences before testing.
+! Remove this list when finished testing.
 !
 ! Blockzilla Beta Testing >>>>>
 !
 ! Testing www.alibaba.com for issues >>>>>
 !
-||alibaba.com^$popup,image,media,object,object-subrequest,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
+||alibaba.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,websocket,xmlhttprequest,third-party
