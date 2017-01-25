@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B91 
+! Version B92 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -930,6 +930,7 @@ mail.yahoo.com###slot_MB
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
+yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
