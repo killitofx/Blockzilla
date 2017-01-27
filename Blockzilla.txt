@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B94 
+! Version B95 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -668,6 +668,7 @@ images/ads/
 !
 &popunder=$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 /banner/*$popup
+/popunder.$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adexchangeprediction.com^$popup
 ||adk2x.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adnetworkperformance.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
