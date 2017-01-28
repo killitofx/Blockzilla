@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B95 
+! Version B96 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -816,7 +816,6 @@ _banner.$domain=youtube.com
 ##.ad-slot
 ##.ad-tag
 ##.ad-title
-##.ad-unit-label
 ##.ad-zone-container
 ##.ad300x250
 ##.adBox
@@ -910,6 +909,7 @@ _banner.$domain=youtube.com
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
+##DIV[class*="ad-unit"]
 ##DIV[class*="ad-wrapper"]
 ##DIV[class*="adv-box"]
 ##DIV[class^="box-ad"]
