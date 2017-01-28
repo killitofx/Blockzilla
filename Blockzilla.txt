@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B97 
+! Version B98 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -462,6 +462,7 @@ images/ads/
 ||mxtads.com^
 ||myclk.net^
 ||nanigans.com^
+||nativeads.com^
 ||naver.net^
 ||netmng.com^
 ||netseer.com^
