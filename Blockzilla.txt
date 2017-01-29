@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version B98 
+! Version B99 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -779,6 +779,7 @@ _banner.$domain=youtube.com
 ###header-ad-wrapper
 ###headerAd
 ###homead
+###insticator-container
 ###islandAdPane
 ###islandAdPane2
 ###iwad_container
