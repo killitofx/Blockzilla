@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C01 
+! Version C02 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -687,7 +687,6 @@ images/ads/
 ||doubleclick.net^$popup,image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||foxsnews.net^$popup
 ||ijquery11.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
-||mysagagame.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||newpoptab.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||offers.$popup,third-party
 ||onclickads.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
