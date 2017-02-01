@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C03 
+! Version C04 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -124,7 +124,6 @@
 /countshare/?
 /csi?v=$image
 /customads/*
-/dashboard/px.js?ch=
 /dcs.gif?
 /dmtracking2.
 /eluminate.js
