@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C02 
+! Version C03 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -720,15 +720,12 @@ _banner.$domain=youtube.com
 !
 ! Ad Element Hiding >>>>>
 !
-###A9AdsMiddleBoxTop
 ###AUI_A9AdsMiddleBoxTop
 ###Ad160x600_0_adchoice
 ###DartAd300x250
 ###HomepageAdSpace
 ###TOP_RIGHT_BOXAD
 ###ad-north-base
-###ad-wrap
-###ad-wrapper
 ###ad1
 ###ad2
 ###ad3
@@ -741,25 +738,20 @@ _banner.$domain=youtube.com
 ###adSpace0
 ###adSpace1
 ###adSpace2
-###ad_banner
-###ad_island2
 ###adcontainer1
 ###adcontainer3
 ###adholder
 ###adkit_mrec1
 ###adkit_mrec2
 ###adsense
-###adsense_honeytrap
 ###advertSection
 ###advertiseLink
-###alt_ad_1
 ###amazon-affiliates
 ###bannerad
 ###billboard_ad
 ###bottomMPU
 ###bottom_ad_wrapper
 ###bottomads
-###dc-display-right-ad-1
 ###footer-ads
 ###gallery-sponsored-links_divID
 ###googleAds
@@ -770,7 +762,6 @@ _banner.$domain=youtube.com
 ###insticator-container
 ###islandAdPane
 ###islandAdPane2
-###iwad_container
 ###layeradsense
 ###leftAd_rdr
 ###logoBannerBox
@@ -795,7 +786,6 @@ _banner.$domain=youtube.com
 ##.Ad300x250
 ##.AdUnit
 ##.AdvertisementText
-##._ap_adpushup_ad
 ##.ad
 ##.ad-article-breaker
 ##.ad-banner
@@ -876,11 +866,9 @@ _banner.$domain=youtube.com
 ##.netshelter-ad
 ##.other_adv
 ##.promoThumb
-##.rail__mps-ad
 ##.resultad
 ##.right_col_ad
 ##.search-message-container-ad
-##.section-aside-ad2
 ##.showcaseAd
 ##.side-ad
 ##.sidebar-ad
@@ -894,9 +882,7 @@ _banner.$domain=youtube.com
 ##.vertical-ads
 ##.videoads
 ##.wall_ad
-##.wall_ad_hd
 ##.widget-ad
-##.wpadvert
 ##.y7-advertisement
 ##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
