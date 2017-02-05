@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C05 
+! Version C06 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -712,6 +712,7 @@ images/ads/
 _970x250.js?$domain=yahoo.com
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|merriam-webster.com
+||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||stats.$domain=paypal.com
