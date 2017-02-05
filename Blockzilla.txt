@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C06 
+! Version C07 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -292,6 +292,7 @@ images/ads/
 ||bounceexchange.com^
 ||btrll.com^
 ||bttrack.com^
+||btttag.com^
 ||burstnet.com^
 ||buysellads.com^
 ||bzgint.com^
@@ -942,6 +943,7 @@ wired.com##DIV[class*="banner"]
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=3now.co.nz|foxnews.com
 @@/track.$script,domain=baur.de
+@@/track/*$domain=pbt.co.nz|pbt.com
 @@/track/*$media,domain=bandcamp.com
 @@/tracking.$script,domain=gamespot.com
 @@/tracking/*$script,domain=ups.com
