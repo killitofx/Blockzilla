@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C08 
+! Version C09 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -623,6 +623,9 @@ images/ads/
 ||ziccardia.com^
 ||zqtk.net^
 !
+_hp_test_beta/lima/$subdocument,third-party,domain=yahoo.com
+_hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
+!
 ||69wnz64h.xyz^
 ||6g3am6pr.website^
 ||cbcx8t95.space^
@@ -713,7 +716,6 @@ images/ads/
 !
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
-_970x250.js?$domain=yahoo.com
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|merriam-webster.com
 ||2mdn.net^$domain=foxnews.com
@@ -863,6 +865,7 @@ _banner.$domain=youtube.com
 ##.item-container-ad
 ##.js-adfliction-standard
 ##.js-sponsored-photos
+##.js-stream-ad
 ##.mapped-ad
 ##.marketing-ad
 ##.masthead-ad
