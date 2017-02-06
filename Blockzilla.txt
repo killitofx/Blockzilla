@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C07 
+! Version C08 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -171,6 +171,7 @@
 /research/pixel?
 /sessioncam.
 /show_afs_ads.
+/showad/*
 /sponsors.
 /st?ad_type=
 /swfbin/ad3-
@@ -210,6 +211,7 @@ images/ads/
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
+||360yield.com^
 ||3lift.com^
 ||4dsply.com^
 ||50greyofsha.de^
@@ -612,6 +614,7 @@ images/ads/
 ||yahoo.com/contextual-shortcuts
 ||yahoo.com/sdarla/
 ||yavli.com^
+||yieldlab.net^
 ||yieldmanager.
 ||yimg.com/rq/darla/
 ||yldbt.com^
