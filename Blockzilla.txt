@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C10 
+! Version C11 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -627,17 +627,6 @@ _hp_test_beta/lima/$subdocument,third-party,domain=yahoo.com
 _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 yahoo.com##DIV[id^="defaultdestMAST"]
 !
-||69wnz64h.xyz^
-||6g3am6pr.website^
-||cbcx8t95.space^
-||d0z4gwv7.webcam^
-||gk25qeyc.xyz^
-||j880iceh.party^
-||k9anf8bc.webcam^
-||koidt1wn.bid^
-||nm7xq628.click^
-||qwun46bs.review^
-!
 ! Cloudfront >>>>>
 !
 ||cloudfront.net/*&referrer=
@@ -719,6 +708,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 /banners/*$domain=thedailysheeple.com
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|merriam-webster.com
+|http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
