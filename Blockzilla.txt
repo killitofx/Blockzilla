@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C09 
+! Version C10 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -625,6 +625,7 @@ images/ads/
 !
 _hp_test_beta/lima/$subdocument,third-party,domain=yahoo.com
 _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
+yahoo.com##DIV[id^="defaultdestMAST"]
 !
 ||69wnz64h.xyz^
 ||6g3am6pr.website^
