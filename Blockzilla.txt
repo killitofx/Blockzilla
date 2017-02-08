@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C11 
+! Version C12 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -641,21 +641,14 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 .amazonaws.com/*/buzzing/$third-party
 /get_cdns?$xmlhttprequest,third-party
 ||a.mobify.com^$third-party
-||addthis.com^$third-party
 ||assoc-amazon.com^$third-party
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
-||graph.facebook.com^$third-party
-||linkedin.com^$third-party
 ||lockerdome.com^$third-party
 ||mmstat.com^$third-party
-||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
-||pinterest.com^$third-party
 ||po.st/p?t=view&pub=$image,third-party
-||reddit.com^$third-party
 ||scribol.com^$third-party
-||sharethis.com^$third-party
 ||siteapps.com^$third-party
 ||snapengage.com^$image,third-party
 ||stats.$third-party
