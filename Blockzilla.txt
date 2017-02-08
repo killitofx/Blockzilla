@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C12 
+! Version C13 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -947,7 +947,6 @@ wired.com##DIV[class*="banner"]
 @@||imrworldwide.com/v60.js$domain=3now.co.nz|nzherald.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
-@@||reddit.com^$script,domain=scrolldit.com
 @@||use.typekit.net^$script,font
 mobile.de#@#.ad
 photographyblog.com#@#DIV[id^="taboola-"]
