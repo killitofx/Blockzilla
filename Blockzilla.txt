@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C14 
+! Version C15 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -88,6 +88,7 @@
 /adcontrol/*
 /adimages.
 /adloader.
+/adnexus-
 /adp/adp-
 /adpopover.
 /ads/*$image
@@ -881,7 +882,6 @@ _banner.$domain=youtube.com
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
-##DIV[class*="ad-unit"]
 ##DIV[class*="adv-box"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
