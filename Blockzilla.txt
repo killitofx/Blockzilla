@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C18 
+! Version C19 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -648,6 +648,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
 ||mmstat.com^$third-party
+||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||po.st/p?t=view&pub=$image,third-party
 ||scribol.com^$third-party
