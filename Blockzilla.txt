@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C17 
+! Version C18 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -643,6 +643,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 /get_cdns?$xmlhttprequest,third-party
 ||a.mobify.com^$third-party
 ||assoc-amazon.com^$third-party
+||barilliance.net^$third-party
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
