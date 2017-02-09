@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C16 
+! Version C17 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -164,7 +164,7 @@
 /pagead/lvz?
 /pagestatistics/*
 /ping.gif?u=
-/piwik.
+/piwik.$domain=~piwik.org
 /playertracking/*
 /popunderlandingpage.
 /productAds/*
