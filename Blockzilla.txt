@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C19 
+! Version C20 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -936,7 +936,7 @@ wired.com##DIV[class*="banner"]
 @@/track/*$domain=pbt.co.nz|pbt.com
 @@/track/*$media,domain=bandcamp.com
 @@/tracking.$script,domain=gamespot.com
-@@/tracking/*$script,domain=ups.com
+@@/tracking/*$domain=dhl.com|ups.com
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||analytics.$script,domain=threenow.co.nz
