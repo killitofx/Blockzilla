@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C20 
+! Version C21 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -853,6 +853,7 @@ _banner.$domain=youtube.com
 ##.js-adfliction-standard
 ##.js-sponsored-photos
 ##.js-stream-ad
+##.left_prom_160
 ##.mapped-ad
 ##.marketing-ad
 ##.masthead-ad
@@ -887,6 +888,7 @@ _banner.$domain=youtube.com
 ##DIV[class*="adv-box"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
+##DIV[class^="top-ad-"]
 ##DIV[id$="Ad-Proxy"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
