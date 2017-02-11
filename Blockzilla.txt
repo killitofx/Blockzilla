@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C22 
+! Version C23 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -893,7 +893,6 @@ _banner.$domain=youtube.com
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
-##DIV[id^="frbanner"]
 ##DIV[id^="my-ads"]
 ##DIV[id^="taboola-"]
 ##IFRAME[name*="ads-center"]
@@ -914,13 +913,14 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
+cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
-cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 gamefaqs.com##.promo
 mirror.co.uk##.top-slot
+wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 !
 ! Exceptions (Website Functionality) >>>>>
