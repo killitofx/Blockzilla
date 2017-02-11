@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C23 
+! Version C24 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -564,7 +564,6 @@ images/ads/
 ||surveygifts.win^
 ||survicate.com^
 ||swoop.com^
-||taboola.com^
 ||taboolasyndication.com^
 ||tagsrvcs.com^
 ||teads.tv^
@@ -656,6 +655,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 ||snapengage.com^$image,third-party
 ||stats.$third-party
 ||syndication.twitter.com^$third-party
+||taboola.com^$third-party
 ||whistleout.$third-party
 ||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
