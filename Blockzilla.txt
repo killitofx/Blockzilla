@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C24 
+! Version C25 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -214,7 +214,6 @@ images/ads/
 ||247realmedia.com^
 ||360yield.com^
 ||3lift.com^
-||4dsply.com^
 ||50greyofsha.de^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
@@ -256,6 +255,7 @@ images/ads/
 ||adzerk.net^
 ||affinity.com^
 ||agilone.com^
+||agkn.com^
 ||aimatch.com^
 ||akamaihd.net/hads-
 ||alexa.com^
@@ -667,6 +667,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 &popunder=$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 /banner/*$popup
 /popunder.$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||4dsply.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adexchangeprediction.com^$popup
 ||adk2x.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adnetworkperformance.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
