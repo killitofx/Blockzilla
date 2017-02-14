@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C25 
+! Version C26 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -244,6 +244,7 @@ images/ads/
 ||adsbyisocket.com^
 ||adserver.
 ||adsjudo.
+||adskeeper.co.uk^
 ||adsnative.com^
 ||adsonflags.com^
 ||adspruce.com^
