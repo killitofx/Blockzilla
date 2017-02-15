@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C26 
+! Version C27 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -915,9 +915,10 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
+all-free-download.com##LI[id^="ad"]
+all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
-dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 gamefaqs.com##.promo
