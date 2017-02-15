@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C28 
+! Version C29 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -764,7 +764,6 @@ _banner.$domain=youtube.com
 ###logoBannerBox
 ###mbEnd
 ###mrktImg
-###promo_carousel_module
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
@@ -922,7 +921,6 @@ cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
-gamefaqs.com##.promo
 mirror.co.uk##.top-slot
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
