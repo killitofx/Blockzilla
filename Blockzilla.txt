@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C29 
+! Version C30 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -855,7 +855,6 @@ _banner.$domain=youtube.com
 ##.js-adfliction-standard
 ##.js-sponsored-photos
 ##.js-stream-ad
-##.left_prom_160
 ##.mapped-ad
 ##.marketing-ad
 ##.masthead-ad
@@ -863,7 +862,6 @@ _banner.$domain=youtube.com
 ##.mpu
 ##.netshelter-ad
 ##.other_adv
-##.promoThumb
 ##.resultad
 ##.right_col_ad
 ##.search-message-container-ad
@@ -904,26 +902,25 @@ facebook.com##.ego_unit_container
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 mail.yahoo.com###slot_MB
-twitter.com##.promoted-account
-twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
 youtube.com##.pyv-afc-ads-container
-youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
-all-free-download.com,my.yahoo.com##LI[id^="ad"]
 all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
+all-free-download.com,my.yahoo.com##LI[id^="ad"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
+macworld.co.uk,twitter.com##DIV[class^="promo"]
 mirror.co.uk##.top-slot
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
+wnd.com,youtube.com##DIV[class*="prom"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
