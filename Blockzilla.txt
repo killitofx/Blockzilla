@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C27 
+! Version C28 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -258,6 +258,7 @@ images/ads/
 ||agilone.com^
 ||agkn.com^
 ||aimatch.com^
+||airpush.com^
 ||akamaihd.net/hads-
 ||alexa.com^
 ||amgdgt.com^
@@ -502,6 +503,7 @@ images/ads/
 ||partnerads1.
 ||pebed.dm.gg^
 ||peer39.
+||perfdrive.com^
 ||perfectaudience.com^
 ||perr.h-cdn.com^
 ||petametrics.com^
@@ -626,7 +628,6 @@ images/ads/
 !
 _hp_test_beta/lima/$subdocument,third-party,domain=yahoo.com
 _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
-yahoo.com##DIV[id^="defaultdestMAST"]
 !
 ! Cloudfront >>>>>
 !
@@ -705,7 +706,7 @@ yahoo.com##DIV[id^="defaultdestMAST"]
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 _banner.$domain=youtube.com
-|blob:$domain=laptopmag.com|merriam-webster.com
+|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
@@ -915,7 +916,7 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
-all-free-download.com##LI[id^="ad"]
+all-free-download.com,my.yahoo.com##LI[id^="ad"]
 all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
