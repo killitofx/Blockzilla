@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C31 
+! Version C32 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -162,6 +162,7 @@
 /openx_
 /pagead/conversion$image
 /pagead/lvz?
+/pagead/sul?
 /pagestatistics/*
 /ping.gif?u=
 /piwik.$domain=~piwik.org
@@ -712,6 +713,7 @@ _banner.$domain=youtube.com
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
+||innovid.com^$domain=youtube.com
 ||stats.$domain=paypal.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
 ||tags.$domain=news.com.au
