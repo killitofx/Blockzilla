@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C30 
+! Version C31 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -287,6 +287,7 @@ images/ads/
 ||bidswitch.net^
 ||bizographics.com^
 ||bkrtx.com^
+||blitzen.com^
 ||blockertools.net^
 ||bluekai.com^
 ||bluesli.de^
@@ -881,6 +882,7 @@ _banner.$domain=youtube.com
 ##.widget-ad
 ##.y7-advertisement
 ##A[href^="http://ad.doubleclick.net/"]
+##A[href^="http://pubads.g.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
@@ -916,11 +918,10 @@ cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
-macworld.co.uk,twitter.com##DIV[class^="promo"]
 mirror.co.uk##.top-slot
+twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
-wnd.com,youtube.com##DIV[class*="prom"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
