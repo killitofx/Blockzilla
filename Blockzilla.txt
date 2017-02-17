@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C33 
+! Version C34 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -660,7 +660,6 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 ||syndication.twitter.com^$third-party
 ||taboola.com^$third-party
 ||whistleout.$third-party
-||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
 ||yandex.ru^$third-party
 ||zergnet.com^$third-party
