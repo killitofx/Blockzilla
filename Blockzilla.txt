@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C32 
+! Version C33 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -156,7 +156,6 @@
 /logger-*_ip=
 /maxymiser/*
 /mbads?
-/nltracker.js
 /ntpagetag.gif?
 /oascentral.
 /openx_
@@ -177,12 +176,8 @@
 /sponsors.
 /st?ad_type=
 /swfbin/ad3-
-/track.
-/track/*
 /tracker.
 /tracker/*
-/tracking.
-/tracking/*
 /trackingCode.
 /tracking_
 /trackjs.
@@ -644,6 +639,10 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 !
 .amazonaws.com/*/buzzing/$third-party
 /get_cdns?$xmlhttprequest,third-party
+/track.$third-party
+/track/*$third-party
+/tracking.$third-party
+/tracking/*$third-party
 ||a.mobify.com^$third-party
 ||assoc-amazon.com^$third-party
 ||barilliance.net^$third-party
@@ -935,11 +934,7 @@ wired.com##DIV[class*="banner"]
 @@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=foxnews.com|threenow.co.nz
-@@/track.$script,domain=baur.de
-@@/track/*$domain=pbt.co.nz|pbt.com
 @@/track/*$media,domain=bandcamp.com
-@@/tracking.$script,domain=gamespot.com
-@@/tracking/*$domain=dhl.com|ups.com
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||analytics.$script,domain=threenow.co.nz
