@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C35 
+! Version C36 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -919,8 +919,9 @@ comingsoon.net###roadblock
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 mirror.co.uk##.top-slot
+movieweb.com##DIV[class^="banner"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
-movieweb.com,wikipedia.de##DIV[id^="banner"]
+wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 !
 ! Exceptions (Website Functionality) >>>>>
