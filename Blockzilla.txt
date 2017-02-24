@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C41 
+! Version C42 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -883,7 +883,6 @@ _banner.$domain=youtube.com
 ##A[title="Advertising"]
 ##DIV[class*="-ads-"]
 ##DIV[class*="adv-box"]
-##DIV[class^="-ad-"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
 ##DIV[id$="Ad-Proxy"]
