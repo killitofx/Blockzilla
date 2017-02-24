@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C40 
+! Version C41 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -881,7 +881,6 @@ _banner.$domain=youtube.com
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
-##DIV[class*="-ad-"]
 ##DIV[class*="-ads-"]
 ##DIV[class*="adv-box"]
 ##DIV[class^="-ad-"]
