@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C37 
+! Version C38 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -751,7 +751,6 @@ _banner.$domain=youtube.com
 ###bottomMPU
 ###bottom_ad_wrapper
 ###bottomads
-###footer-ads
 ###gallery-sponsored-links_divID
 ###googleAds
 ###google_ads_frame1
@@ -835,7 +834,6 @@ _banner.$domain=youtube.com
 ##.banner-ad
 ##.bannerAd
 ##.bannerAdContainer
-##.block-fusion-ads
 ##.display-ad
 ##.earAdv
 ##.footer_ad
@@ -847,7 +845,6 @@ _banner.$domain=youtube.com
 ##.google_adwords
 ##.googleads
 ##.has-ad
-##.header-ads-1
 ##.headerAd
 ##.headerTextAd
 ##.inline-ad
@@ -872,10 +869,8 @@ _banner.$domain=youtube.com
 ##.snarcy-ad
 ##.sponsor
 ##.sponsored_links
-##.square-ads
 ##.topAd
 ##.topBannerAd
-##.vertical-ads
 ##.videoads
 ##.wall_ad
 ##.widget-ad
@@ -892,10 +887,10 @@ _banner.$domain=youtube.com
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
 ##DIV[id$="Ad-Proxy"]
+##DIV[id*="-ads"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
-##DIV[id^="my-ads"]
 ##DIV[id^="taboola-"]
 ##IFRAME[name*="ads-center"]
 dailymotion.com##.hidden-sm.hidden-md
@@ -908,12 +903,11 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
-youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
 all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
-all-free-download.com,my.yahoo.com##LI[id^="ad"]
+all-free-download.com##LI[id^="ads"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
@@ -923,6 +917,7 @@ movieweb.com##DIV[class^="banner"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
+yahoo.com##LI[id^="ad-"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
