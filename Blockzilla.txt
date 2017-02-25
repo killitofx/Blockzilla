@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C42 
+! Version C43 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -20,7 +20,6 @@
 &adformat=
 &adunit=
 &aff_id=
-&trackingId=
 &view=ad&
 -1x1.gif?
 -300x250.
@@ -440,6 +439,7 @@ images/ads/
 ||log.
 ||logentries.com^
 ||lognormal.net^
+||lytics.io^
 ||marchex.io^
 ||marinsm.com^
 ||marketgid.com^
@@ -464,6 +464,7 @@ images/ads/
 ||mucocutaneousmyrmecophaga.com^
 ||mxtads.com^
 ||myclk.net^
+||myvisualiq.net^
 ||nanigans.com^
 ||nativeads.com^
 ||naver.net^
