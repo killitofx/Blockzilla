@@ -1,11 +1,11 @@
 [Adblock Plus 2.8]
-! Version C45 
+! Version C46 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
 !
 ! Title: Blockzilla
-! 
+! Homepage: https://blockzilla.jimdo.com/ 
 !
 ! Blockzilla by zpacman >>>>>
 !
