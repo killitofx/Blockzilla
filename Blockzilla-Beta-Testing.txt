@@ -4,7 +4,7 @@
 ! Contact at: https://github.com/zpacman
 !
 ! Title: Blockzilla Beta Testing
-! Homepage: https://zpacman.github.io/Blockzilla/
+! Homepage: https://blockzilla.jimdo.com/
 !
 ! Blockzilla Beta Testing >>>>>
 !
