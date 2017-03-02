@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C48 
+! Version C49 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -313,6 +313,7 @@ images/ads/
 ||clickiocdnh.com^
 ||clicktale.net^
 ||clicktalecdn.
+||codeonclick.com^
 ||cogocast.net^
 ||comscore.com^
 ||connatix.com^
@@ -683,6 +684,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 ||coupontime.co^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||directrev.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||doubleclick.net^$popup,image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||explorads.com^$popup
 ||foxsnews.net^$popup
 ||ijquery11.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||newpoptab.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
