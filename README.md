@@ -1,4 +1,4 @@
-# Blockzilla
+![Blockzilla](https://raw.githubusercontent.com/zpacman/Blockzilla/beta-testing/Blockzilla.png "Blockzilla")
 
 - Blockzilla is an advertisement and tracker blocking filter list subscription for use with an ad blocking web browser extension such as Adblock Plus.
 
