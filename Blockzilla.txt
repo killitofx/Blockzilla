@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C53 
+! Version C54 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -41,7 +41,6 @@
 .com/ads/
 .com/advert/
 .com/advertising/
-.com/api/analytics/
 .com/b.gif?
 .com/countserv/
 .com/log/
@@ -710,6 +709,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 !
 ! Add on Domains (Blocking) >>>>>
 !
+/analytics/*$domain=gizmodo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 _banner.$domain=youtube.com
