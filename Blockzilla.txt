@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C54 
+! Version C55 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -396,7 +396,6 @@ images/ads/
 ||gumgum.com^
 ||gwallet.com^
 ||heapanalytics.com^
-||hearst.io^
 ||histats.com^
 ||hotjar.com^
 ||ifmnwi.club^
@@ -954,3 +953,4 @@ yahoo.com##LI[id^="ad-"]
 @@||use.typekit.net^$script,font
 mobile.de#@#.ad
 photographyblog.com#@#DIV[id^="taboola-"]
+sfgate.com#@#DIV[class*="-ads-"]
