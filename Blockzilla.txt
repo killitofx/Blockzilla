@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C59 
+! Version C60 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -206,6 +206,7 @@ images/ads/
 ||204st.us^
 ||247realmedia.com^
 ||360yield.com^
+||3gl.net^
 ||3lift.com^
 ||50greyofsha.de^
 ||ad-apac.doubleclick.net^
@@ -917,13 +918,14 @@ all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 cosmopolitan.com,washingtonpost.com##DIV[class^="leader"]
-digitaltrends.com,washingtonpost.com##DIV[class$="leaderboard"]
+digitaltrends.com##DIV[class*="leaderboard"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
 pixabay.com##DIV[class*="sponsored"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
+washingtonpost.com##DIV[class$="leaderboard"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 yahoo.com##LI[id^="ad-"]
