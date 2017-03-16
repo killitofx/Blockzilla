@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C57 
+! Version C58 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -431,6 +431,7 @@ images/ads/
 ||l.ooyala.com^
 ||lancheck.net^
 ||legolas-media.com^
+||liadm.com^
 ||lifestreet.com^
 ||lijit.com^
 ||livefyre.com^$xmlhttprequest
@@ -919,7 +920,7 @@ cosmopolitan.com,washingtonpost.com##DIV[class^="leader"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 mirror.co.uk##.top-slot
-movieweb.com##DIV[class^="banner"]
+movieweb.com,nerdist.com##DIV[class^="banner"]
 pixabay.com##DIV[class*="sponsored"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
