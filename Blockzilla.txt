@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C58 
+! Version C59 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -917,6 +917,7 @@ all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 cosmopolitan.com,washingtonpost.com##DIV[class^="leader"]
+digitaltrends.com,washingtonpost.com##DIV[class$="leaderboard"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 mirror.co.uk##.top-slot
