@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C60 
+! Version C61 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -914,11 +914,11 @@ youtube.com###watch-channel-brand-div
 !
 all-free-download.com##DIV[class$="banner"]
 all-free-download.com##LI[id^="ads"]
-all-free-download.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
+all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net###roadblock
 cosmopolitan.com,washingtonpost.com##DIV[class^="leader"]
-digitaltrends.com##DIV[class*="leaderboard"]
+digitaltrends.com,techradar.com##DIV[class*="leaderboard"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 filext.com###overlay
 mirror.co.uk##.top-slot
