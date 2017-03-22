@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C62 
+! Version C63 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -935,7 +935,6 @@ yahoo.com##LI[id^="ad-"]
 @@.demdex.net/$script,domain=foxnews.com
 @@.foxnews.com/$script,domain=foxnews.com
 @@.net/ad/$object-subrequest,domain=foxsports.com
-@@/beacon.$script,stylesheet,domain=amazon.com|engadget.com
 @@/foxnews.$script,domain=foxnews.com
 @@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.$script,domain=myuv.com
