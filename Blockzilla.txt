@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C63 
+! Version C64 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -714,7 +714,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 _banner.$domain=youtube.com
-|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com
+|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
