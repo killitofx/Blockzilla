@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C66 
+! Version C67 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -888,7 +888,6 @@ _banner.$domain=youtube.com
 ##A[href^="http://www.uniblue.com/"]
 ##A[href^="https://ad.doubleclick.net/"]
 ##A[title="Advertising"]
-##DIV[class*="-ads-"]
 ##DIV[class*="adv-box"]
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
@@ -909,6 +908,7 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
+youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
@@ -956,6 +956,5 @@ yahoo.com##LI[id^="ad-"]
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||use.typekit.net^$script,font
-hearst.io,myfitnesspal.com#@#DIV[class*="-ads-"]
 mobile.de#@#.ad
 photographyblog.com#@#DIV[id^="taboola-"]
