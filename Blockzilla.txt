@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C65 
+! Version C66 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -940,6 +940,7 @@ yahoo.com##LI[id^="ad-"]
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=foxnews.com|threenow.co.nz
 @@/track/*$media,domain=bandcamp.com
+@@_tracking.$script,domain=slideshare.net
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||analytics.$script,domain=threenow.co.nz
