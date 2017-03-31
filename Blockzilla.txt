@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C67 
+! Version C68 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -908,7 +908,6 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
-youtube.com##.pyv-afc-ads-container
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
@@ -929,6 +928,7 @@ washingtonpost.com##DIV[class$="leaderboard"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 yahoo.com##LI[id^="ad-"]
+youtube.com##DIV[class*="-ads-"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
