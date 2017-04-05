@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C69 
+! Version C70 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -793,7 +793,6 @@ _banner.$domain=youtube.com
 ##.ad-article-breaker
 ##.ad-banner
 ##.ad-banner-leaderboard
-##.ad-container
 ##.ad-div
 ##.ad-embedded
 ##.ad-engage
