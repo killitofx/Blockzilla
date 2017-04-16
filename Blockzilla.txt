@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C70 
+! Version C71 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -936,6 +936,7 @@ youtube.com##DIV[class*="-ads-"]
 @@/foxnewsplayer-$script,domain=foxnews.com
 @@/piwik.$script,domain=myuv.com
 @@/pubads_$script,domain=foxnews.com|threenow.co.nz
+@@/track.$domain=tnt.com
 @@/track/*$media,domain=bandcamp.com
 @@_tracking.$script,domain=slideshare.net
 @@||abclocal.go.com/combiner/*/js/analytics/
