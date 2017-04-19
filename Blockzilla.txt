@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C76 
+! Version C77 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -713,7 +713,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /analytics/*$domain=gizmodo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
-/collect?$domain=ventsmagazine.com|wikihow.com
+/collect?$domain=calameo.com|wikihow.com
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
