@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C75 
+! Version C76 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -49,7 +49,6 @@
 .com/pixel.
 .com/t.gif?
 .com/tr/?id=$image
-.com/x/collect?t=
 .ero*advertising.com/
 .eu/ads/
 .gif?knowledge=
@@ -567,6 +566,7 @@ images/ads/
 ||survicate.com^
 ||swoop.com^
 ||taboolasyndication.com^
+||tagcade.com^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
@@ -713,6 +713,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /analytics/*$domain=gizmodo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
+/collect?$domain=ventsmagazine.com|wikihow.com
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
