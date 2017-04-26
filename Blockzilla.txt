@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C77 
+! Version C78 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -958,5 +958,6 @@ youtube.com##DIV[class*="-ads-"]
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||use.typekit.net^$script,font
+cardgames.io#@#DIV[id*="-ads"]
 mobile.de#@#.ad
 photographyblog.com#@#DIV[id^="taboola-"]
