@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C79 
+! Version C80 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -340,6 +340,7 @@ images/ads/
 ||deployads.com^
 ||deximedia.com^
 ||dirt.dennis.co.uk^
+||disc.host^$image
 ||displaymarketplace.com^
 ||disqus.com/api/ping?
 ||disqus.com/get_
@@ -430,6 +431,7 @@ images/ads/
 ||krxd.net^
 ||l.ooyala.com^
 ||lancheck.net^
+||lanistaads.com^$image
 ||legolas-media.com^
 ||liadm.com^
 ||lifestreet.com^
