@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C78 
+! Version C79 
 ! Expires: 2 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -452,7 +452,6 @@ images/ads/
 ||media.net^
 ||media6degrees.com^
 ||mentad.com^
-||metrics.
 ||mgid.com^
 ||mixadvert.com^
 ||mixpanel.com^
@@ -653,6 +652,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
+||metrics.$third-party
 ||mmstat.com^$third-party
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
