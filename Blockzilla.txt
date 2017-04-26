@@ -1,6 +1,6 @@
 [Adblock Plus 2.8]
-! Version C80 
-! Expires: 2 hours
+! Version C81 
+! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
 !
