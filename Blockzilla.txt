@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C81 
+! Version C82 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -959,6 +959,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||imrworldwide.com/v60.js$domain=nzherald.co.nz|threenow.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
+@@||s.youtube.com/api/stats/playback?
 @@||use.typekit.net^$script,font
 cardgames.io#@#DIV[id*="-ads"]
 mobile.de#@#.ad
