@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C82 
+! Version C83 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -856,6 +856,7 @@ _banner.$domain=youtube.com
 ##.has-ad
 ##.headerAd
 ##.headerTextAd
+##.horizontalAdText
 ##.inline-ad
 ##.item-container-ad
 ##.js-adfliction-standard
@@ -880,6 +881,7 @@ _banner.$domain=youtube.com
 ##.sponsored_links
 ##.topAd
 ##.topBannerAd
+##.verticalAdText
 ##.videoads
 ##.wall_ad
 ##.widget-ad
