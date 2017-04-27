@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C83 
+! Version C84 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -196,6 +196,7 @@ _ads&
 _ads.html
 _ads/js/
 _opt/logging_
+_pixel.gif?number=
 _social_promos.
 _store_analytics?
 _tracker.
@@ -326,6 +327,7 @@ images/ads/
 ||cpx.to^
 ||cquotient.com/*/gretel.
 ||criteo.com^
+||criteo.net^$script
 ||crowdscience.com^
 ||crsspxl.com^
 ||crwdcntrl.net^
@@ -414,6 +416,7 @@ images/ads/
 ||intergient.com^
 ||intgr.net^
 ||invoca.
+||ioam.de/tx.io?
 ||iperceptions.com^
 ||ipowow.com^$image
 ||iris.tv^
