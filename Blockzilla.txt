@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C87 
+! Version C88 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -962,6 +962,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||s.youtube.com/api/stats/playback?
+@@||stats.$domain=wetter.info
 @@||use.typekit.net^$script,font
 cardgames.io#@#DIV[id*="-ads"]
 mobile.de#@#.ad
