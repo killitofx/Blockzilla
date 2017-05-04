@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C88 
+! Version C89 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -558,6 +558,8 @@ images/ads/
 ||srpx.net^
 ||stackadapt.com^
 ||statcounter.com^
+||stats.*.gif?
+||stats0*.gif?
 ||statsevent.com^
 ||steelhousemedia.com^
 ||stirshakead.com^
@@ -717,7 +719,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
 _banner.$domain=youtube.com
-|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com
+|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
