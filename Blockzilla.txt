@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C89 
+! Version C90 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -719,7 +719,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
 _banner.$domain=youtube.com
-|blob:$domain=laptopmag.com|livescience.com|merriam-webster.com|tomshardware.com|topix.com
+|blob:$domain=laptopmag.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
@@ -923,6 +923,7 @@ all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DI
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net,digitaltrends.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
+datpiff.com,lucianne.com##[style="cursor: pointer;"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
