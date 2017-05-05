@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C92 
+! Version C93 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -937,6 +937,7 @@ youtube.com##DIV[class*="-ads-"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
+@@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.demdex.net/$script,domain=foxnews.com
 @@.foxnews.com/$script,domain=foxnews.com
