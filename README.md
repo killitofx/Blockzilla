@@ -1,8 +1,8 @@
 ![Blockzilla](https://raw.githubusercontent.com/zpacman/Blockzilla/beta-testing/Blockzilla%20Logo.png "Blockzilla")
 
-- Blockzilla is an advertisement and tracker blocking filter list subscription for use with an ad blocking web browser extension such as Adblock Plus.
+- Blockzilla is an advertisement and tracker blocking filter list subscription for use with an ad blocking web browser extension such as Adblock Plus that will give you a **better** web browsing experience.
 
-- The benefits of having ads and trackers blocked while viewing websites eliminates annoying, distracting and inappropriate advertisements making websites load **faster** and above all makes for a **better** browsing experience.
+- The benefits of having ads and trackers blocked while viewing websites eliminates annoying, distracting and inappropriate advertisements, making websites load **faster**.
 
 - Blockzilla also makes your internet browsing **safer** and more private by blocking tracking techniques used by most websites to learn about your online behaviour.
 
