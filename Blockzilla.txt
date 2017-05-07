@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C95 
+! Version C96 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -649,6 +649,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /c.gif?$third-party
 /e.gif?$third-party
 /get_cdns?$xmlhttprequest,third-party
+/siteanalytics.$third-party
 /track.$third-party
 /track/*$third-party
 /tracking.$third-party
