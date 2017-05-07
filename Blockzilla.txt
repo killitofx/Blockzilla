@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C94 
+! Version C95 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -209,6 +209,7 @@ images/ads/
 ||3gl.net^
 ||3lift.com^
 ||50greyofsha.de^
+||a.algovid.com^
 ||ad-apac.doubleclick.net^
 ||ad.linksynergy.com^
 ||ad.pxlad.io^
@@ -259,12 +260,14 @@ images/ads/
 ||amung.us^
 ||analytics.
 ||andomedia.com^
+||angsrvr.com^
 ||anverlindo.info^
 ||apnmarketplace.co.nz^
 ||arlime.com^
 ||asdorka.com^
 ||atdmt.com^
 ||atticwicket.com^
+||awin1.com/*.gif
 ||ayboll.com^
 ||b.collective-media.net^
 ||b2c.com^
@@ -925,6 +928,7 @@ comingsoon.net,digitaltrends.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
 datpiff.com,lucianne.com##[style="cursor: pointer;"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
+horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
 pixabay.com##DIV[class*="sponsored"]
