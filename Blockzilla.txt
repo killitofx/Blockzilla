@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C96 
+! Version C97 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -638,6 +638,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 !
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/*&res=
+||cloudfront.net/*/sp.js
 ||cloudfront.net/?a=
 ||cloudfront.net/esf.js
 ||d8rk54i4mohrb.cloudfront.net^
@@ -727,6 +728,7 @@ _banner.$domain=youtube.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
+||adobedtm.com^$domain=hidemyass.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||innovid.com^$domain=youtube.com
 ||stats.$domain=paypal.com
