@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version C99 
+! Version D01 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -521,7 +521,6 @@ images/ads/
 ||prizma.tv/get
 ||pro-market.net^
 ||pubmine.com^
-||qualtrics.com^
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
@@ -668,6 +667,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||po.st/p?t=view&pub=$image,third-party
+||qualtrics.com^$third-party
 ||scribol.com^$third-party
 ||siteapps.com^$third-party
 ||snapengage.com^$image,third-party
