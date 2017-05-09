@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D01 
+! Version D02 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -360,6 +360,7 @@ images/ads/
 ||ebz.io^
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
+||eloqua.com^$image
 ||envy.net^
 ||esearchvision.com^
 ||eum-appdynamics.com^
