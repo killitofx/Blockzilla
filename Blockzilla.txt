@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D03 
+! Version D04 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -661,6 +661,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 ||a.mobify.com^$third-party
 ||assoc-amazon.com^$third-party
 ||barilliance.net^$third-party
+||counter.top.$third-party
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
@@ -723,6 +724,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 !
 ! Add on Domains (Blocking) >>>>>
 !
+.swf|$domain=jobs.ge
 /analytics/*$domain=gizmodo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
@@ -804,7 +806,6 @@ _banner.$domain=youtube.com
 ##.Ad300x250
 ##.AdUnit
 ##.AdvertisementText
-##.ad
 ##.ad-article-breaker
 ##.ad-banner
 ##.ad-banner-leaderboard
@@ -981,5 +982,4 @@ youtube.com##DIV[class*="-ads-"]
 @@||stats.$domain=wetter.info
 @@||use.typekit.net^$script,font
 cardgames.io#@#DIV[id*="-ads"]
-mobile.de#@#.ad
 photographyblog.com#@#DIV[id^="taboola-"]
