@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D05 
+! Version D06 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -928,6 +928,7 @@ youtube.com###watch-channel-brand-div
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
+acidcow.com##DIV[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 all-free-download.com##DIV[class$="banner"]
 all-free-download.com##LI[id^="ads"]
 all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
