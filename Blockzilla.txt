@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D04 
+! Version D05 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -724,11 +724,11 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 !
 ! Add on Domains (Blocking) >>>>>
 !
-.swf|$domain=jobs.ge
 /analytics/*$domain=gizmodo.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
+/img2/*$domain=jobs.ge
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
