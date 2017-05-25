@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D06 
+! Version D07 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -620,6 +620,7 @@ images/ads/
 ||wunderloop.net^
 ||xg4ken.com^
 ||xiti.com^
+||xpanama.net^
 ||xtendmedia.com^
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
@@ -730,7 +731,7 @@ _hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
 /collect?$domain=calameo.com|wikihow.com
 /img2/*$domain=jobs.ge
 _banner.$domain=youtube.com
-|blob:$domain=laptopmag.com|merriam-webster.com|tomshardware.com|topix.com
+|blob:$domain=laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com
 ||a.*.com/$domain=gsmarena.com
