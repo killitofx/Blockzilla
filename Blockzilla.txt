@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D09 
+! Version D10 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -450,6 +450,7 @@ images/ads/
 ||logentries.com^
 ||lognormal.net^
 ||lytics.io^
+||magellan.wayfair.com^
 ||marchex.io^
 ||marinsm.com^
 ||marketgid.com^
