@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D08 
+! Version D09 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -636,9 +636,6 @@ images/ads/
 ||ziccardia.com^
 ||zqtk.net^
 !
-_hp_test_beta/lima/$subdocument,third-party,domain=yahoo.com
-_hp_test_beta/lima/halfpage/$script,subdocument,domain=yahoo.com
-!
 ! Cloudfront >>>>>
 !
 ||cloudfront.net/*&referrer=
@@ -739,7 +736,7 @@ _banner.$domain=youtube.com
 ||adobedtm.com^$domain=hidemyass.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||innovid.com^$domain=youtube.com
-||stats.$domain=paypal.com
+||stats.$domain=pandora.com|paypal.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
 ||tags.$domain=news.com.au
 !
@@ -969,7 +966,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||accounts.alibaba.com^
 @@||analytics.$script,domain=threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
-@@||bcbits.com/download/track/$third-party
+@@||bcbits.com/download/track/
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
 @@||doubleclick.net/gampad/ads?gdfp%$object-subrequest,domain=cbsnews.com
 @@||doubleclick.net/gampad/ads?max%$object-subrequest,domain=cbsnews.com
