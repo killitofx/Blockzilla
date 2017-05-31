@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D12 
+! Version D13 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -643,11 +643,14 @@ images/ads/
 ||cloudfront.net/*/sp.js
 ||cloudfront.net/?a=
 ||cloudfront.net/esf.js
+||d3ezl4ajpp2zy8.cloudfront.net^
+||d3tglifpd8whs6.cloudfront.net^
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 !
 ! $third-party >>>>>
 !
+-analytics.$image,third-party
 .amazonaws.com/*/buzzing/$third-party
 /c.gif?$third-party
 /e.gif?$third-party
@@ -729,6 +732,7 @@ images/ads/
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
 /img2/*$domain=jobs.ge
+/tag.$domain=slashdot.org
 _banner.$domain=youtube.com
 |blob:$domain=laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
