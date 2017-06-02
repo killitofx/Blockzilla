@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D14 
+! Version D15 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -60,6 +60,7 @@
 .net/ads/
 .net/atrk.
 .net/log.
+.net/www/delivery/
 .net/z.gif?
 .netdna-*/analytics.
 .nz/ads/
@@ -941,7 +942,6 @@ comingsoon.net,digitaltrends.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
 datpiff.com,lucianne.com##[style="cursor: pointer;"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
-furaffinity.net##.ad
 horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
