@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D16 
+! Version D17 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -302,6 +302,7 @@ images/ads/
 ||buysellads.com^
 ||bzgint.com^
 ||c.compete.com^
+||c.newsinc.com^
 ||casalemedia.com^
 ||castplatform.com^
 ||cedexis.com^
