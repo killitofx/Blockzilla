@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D17 
+! Version D18 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -37,6 +37,7 @@
 .advertising.com/
 .com/_/tr.ashx?r=*&loc=
 .com/ad/
+.com/adlink/
 .com/ads-
 .com/ads/
 .com/advert/
