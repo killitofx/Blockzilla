@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D19 
+! Version D20 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -251,6 +251,7 @@ images/ads/
 ||adunit.
 ||advarkads.com^
 ||advertising.
+||advertserve.com^$image
 ||adzerk.net^
 ||affinity.com^
 ||agilone.com^
@@ -947,6 +948,7 @@ horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
 pixabay.com##DIV[class*="sponsored"]
+theyeshivaworld.com##DIV[class*="_ad_"]
 tomshardware.com##DIV[id$="leaderboard"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 washingtonpost.com##DIV[class$="leaderboard"]
