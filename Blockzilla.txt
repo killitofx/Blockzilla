@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D21 
+! Version D22 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -947,7 +947,7 @@ eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
-nzherald.co.nz,youtube.com##DIV[class*="-ads-"]
+nzherald.co.nz##.ad-container
 pixabay.com##DIV[class*="sponsored"]
 theyeshivaworld.com##DIV[class*="_ad_"]
 tomshardware.com##DIV[id$="leaderboard"]
@@ -956,6 +956,7 @@ washingtonpost.com##DIV[class$="leaderboard"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 yahoo.com##LI[id^="ad-"]
+youtube.com##DIV[class*="-ads-"]
 !
 ! Exceptions (Website Functionality) >>>>>
 !
