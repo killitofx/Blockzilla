@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D22 
+! Version D23 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -78,7 +78,6 @@
 /NativeAdService;
 /PageMoniker?pixel
 /__utm.gif
-/_private/browser/stats
 /ad-audit.
 /ad-banner-
 /ad.html?
