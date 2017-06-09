@@ -14,5 +14,5 @@ Maintenance support for Blockzilla will **NOT** be provided for:
 
 ###### Recommended Links:
 
-- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage if required.)
-- [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (The best way to stop Google Analytics. Completely blocking `||google-analytics.com^` causes too many issues.)
+- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage, if required.)
+- [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (Opt-out of Google Analytics)
