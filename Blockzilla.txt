@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D26 
+! Version D27 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -451,7 +451,6 @@ images/ads/
 ||liadm.com^
 ||lifestreet.com^
 ||lijit.com^
-||livefyre.com^$xmlhttprequest
 ||liveramp.
 ||log.
 ||logentries.com^
