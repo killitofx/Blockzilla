@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D29 
+! Version D30 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -44,6 +44,7 @@
 .com/advertising/
 .com/b.gif?
 .com/countserv/
+.com/display/ads/
 .com/log/
 .com/metrics/
 .com/pixel-
