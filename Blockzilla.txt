@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D32 
+! Version D33 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -981,6 +981,7 @@ youtube.com##DIV[class*="-ads-"]
 @@/pubads_$script,domain=foxnews.com|threenow.co.nz
 @@/track.$domain=tnt.com
 @@/track/*$media
+@@/tracking/*$script,domain=ctv.ca
 @@_tracking.$script,domain=slideshare.net
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
