@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D37 
+! Version D38 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -568,6 +568,7 @@ images/ads/
 ||sonobi.com^
 ||spade.twitch.tv^
 ||specificclick.net^
+||spoutable.com^
 ||springserve.com^
 ||spylog.ru^
 ||srpx.net^
