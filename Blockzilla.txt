@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D35 
+! Version D36 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -148,7 +148,6 @@
 /hserver/s
 /images/sponsors/*
 /impixu?T=$image
-/impression.php
 /javascript/ads.
 /js/ads/*
 /js/analytics/*
