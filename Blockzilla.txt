@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D39 
+! Version D40 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -35,6 +35,7 @@
 .ads.*/banner?
 .ads.yahoo.com/
 .advertising.com/
+.ca/ads/$image
 .com/_/tr.ashx?r=*&loc=
 .com/ad/
 .com/adlink/
@@ -454,6 +455,7 @@ images/ads/
 ||liadm.com^
 ||lifestreet.com^
 ||lijit.com^
+||liqwid.net^
 ||liveramp.
 ||log.
 ||logentries.com^
@@ -509,6 +511,8 @@ images/ads/
 ||optimost.com^
 ||optnmnstr.com^
 ||oriel.io^
+||owlads.io^
+||owlanalytics.io^
 ||owneriq.net^
 ||oztam.com.au^
 ||pagead2.*/pagead/
@@ -750,7 +754,7 @@ images/ads/
 _banner.$domain=youtube.com
 |blob:$domain=kissmanga.com|laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
-||2mdn.net^$domain=foxnews.com
+||2mdn.net^$domain=foxnews.com|youtube.com
 ||a.*.com/$domain=gsmarena.com
 ||adobedtm.com^$domain=hidemyass.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
@@ -951,6 +955,7 @@ advfn.com##IFRAME[id$="widget"]
 all-free-download.com##DIV[class$="banner"]
 all-free-download.com##LI[id^="ads"]
 all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
+animenewsnetwork.com##[class*="iab"]
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net,digitaltrends.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
