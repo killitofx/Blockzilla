@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D40 
+! Version D41 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -972,6 +972,7 @@ twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 washingtonpost.com##DIV[class$="leaderboard"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
+yahoo.com##DIV[id*="-upsell-"]
 yahoo.com##LI[id^="ad-"]
 youtube.com##DIV[class*="-ads-"]
 !
