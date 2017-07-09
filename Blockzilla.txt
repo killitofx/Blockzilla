@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D41 
+! Version D42 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -33,7 +33,6 @@
 .1d/Ads/
 .adbutler-
 .ads.*/banner?
-.ads.yahoo.com/
 .advertising.com/
 .ca/ads/$image
 .com/_/tr.ashx?r=*&loc=
