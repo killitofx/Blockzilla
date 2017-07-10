@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D42 
+! Version D43 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1010,5 +1010,6 @@ youtube.com##DIV[class*="-ads-"]
 @@||s.youtube.com/api/stats/playback?
 @@||stats.$domain=wetter.info
 @@||use.typekit.net^$script,font
+@@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
 cardgames.io#@#DIV[id*="-ads"]
 photographyblog.com#@#DIV[id^="taboola-"]
