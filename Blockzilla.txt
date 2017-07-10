@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D43 
+! Version D44 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -105,7 +105,6 @@
 /adsfac.
 /advertising_
 /adview?
-/affiliate_
 /afr.php?
 /analysis-logger/*
 /analyticReporting.
@@ -646,7 +645,7 @@ images/ads/
 ||yavli.com^
 ||yieldlab.net^
 ||yieldmanager.
-||yimg.com/rq/darla/
+||yimg.com/rq/darla/$subdocument,domain=yahoo.com
 ||yldbt.com^
 ||zdbb.net^
 ||zedo.com^
@@ -1010,6 +1009,5 @@ youtube.com##DIV[class*="-ads-"]
 @@||s.youtube.com/api/stats/playback?
 @@||stats.$domain=wetter.info
 @@||use.typekit.net^$script,font
-@@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
 cardgames.io#@#DIV[id*="-ads"]
 photographyblog.com#@#DIV[id^="taboola-"]
