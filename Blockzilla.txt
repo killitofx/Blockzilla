@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D45 
+! Version D46 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -37,6 +37,7 @@
 .ca/ads/$image
 .com/_/tr.ashx?r=*&loc=
 .com/ad/
+.com/ad_img/
 .com/adlink/
 .com/ads-
 .com/ads/
@@ -209,6 +210,7 @@ images/ads/
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
+||2mdn.net/*.gif
 ||360yield.com^
 ||3gl.net^
 ||3lift.com^
@@ -359,6 +361,7 @@ images/ads/
 ||dmtracker.com^
 ||domdex.com^
 ||dotomi.com^
+||doubleverify.com/*event.gif?
 ||dpclk.com^
 ||dps-reach.com^
 ||drexel-systems.co^
@@ -535,6 +538,7 @@ images/ads/
 ||postrelease.com^
 ||prizma.tv/get
 ||pro-market.net^
+||pubmatic.com/AdServer/layer?
 ||pubmine.com^
 ||quantserve.com^
 ||qubitproducts.com^
