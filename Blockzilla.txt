@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D47 
+! Version D48 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -982,7 +982,7 @@ youtube.com##DIV[class*="-ads-"]
 !
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
-@@.demdex.net/$script,domain=foxnews.com
+@@.demdex.net/$script,domain=foxnews.com|globaltv.com
 @@.foxnews.com/$script,domain=foxnews.com
 @@.net/ad/$object-subrequest,domain=foxsports.com
 @@/foxnews.$script,domain=foxnews.com
