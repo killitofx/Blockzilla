@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D49 
+! Version D50 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -669,7 +669,6 @@ images/ads/
 !
 ! $third-party >>>>>
 !
--analytics.$image,third-party
 .amazonaws.com/*/buzzing/$third-party
 /c.gif?$third-party
 /e.gif?$third-party
