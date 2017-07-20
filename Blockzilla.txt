@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D52 
+! Version D53 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -162,7 +162,7 @@
 /pagead/sul?
 /pagestatistics/*
 /ping.gif?u=
-/piwik.$domain=~piwik.org
+/piwik.
 /playertracking/*
 /popunderlandingpage.
 /productAds/*
@@ -1009,7 +1009,6 @@ youtube.com##DIV[class*="-ads-"]
 @@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
-@@||newrelic.com^$script,domain=aa.rewardsnetwork.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||s.youtube.com/api/stats/playback?
 @@||stats.$domain=wetter.info
