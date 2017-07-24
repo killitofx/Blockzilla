@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D54 
+! Version D55 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -756,7 +756,7 @@ _banner.$domain=youtube.com
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
 ||2mdn.net^$domain=foxnews.com|youtube.com
 ||a.*.com/$domain=gsmarena.com
-||adobedtm.com^$domain=hidemyass.com
+||adobedtm.com^$domain=aarp.org|hidemyass.com
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||innovid.com^$domain=youtube.com
 ||stats.$domain=pandora.com|paypal.com
@@ -997,6 +997,7 @@ youtube.com##DIV[class*="-ads-"]
 @@_tracking.$script,domain=slideshare.net
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
+@@||adobedtm.com/*/satelliteLib-$script,domain=aarp.org
 @@||analytics.$script,domain=threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
 @@||api-maps.yandex.ru^
