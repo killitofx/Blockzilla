@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D53 
+! Version D54 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -836,6 +836,7 @@ _banner.$domain=youtube.com
 ##.ad-engage
 ##.ad-header
 ##.ad-leaderboard
+##.ad-rectangle
 ##.ad-sample
 ##.ad-slot
 ##.ad-tag
@@ -991,7 +992,8 @@ youtube.com##DIV[class*="-ads-"]
 @@/pubads_$script,domain=foxnews.com|threenow.co.nz
 @@/track.$domain=tnt.com
 @@/track/*$media
-@@/tracking/*$script,domain=ctv.ca|ctvnews.ca
+@@/tracking.$script,xmlhttprequest,domain=mlb.com
+@@/tracking/*$script,xmlhttprequest,domain=ctv.ca|ctvnews.ca|mlb.com
 @@_tracking.$script,domain=slideshare.net
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
