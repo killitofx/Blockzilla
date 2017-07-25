@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D55 
+! Version D56 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -502,6 +502,7 @@ images/ads/
 ||omnitagjs.com^
 ||omtrdc.net^
 ||onclasrv.com^
+||onclkds.com^
 ||online-metrix.net^
 ||openx.
 ||optimahub.com^
