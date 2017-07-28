@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D56 
+! Version D57 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -204,6 +204,7 @@ _social_promos.
 _store_analytics?
 _tracker.
 _tracking.
+banners/*.skin_
 images/ads/
 ||112.2o7.net^
 ||204st.us^
@@ -784,6 +785,7 @@ _banner.$domain=youtube.com
 ###adSpace0
 ###adSpace1
 ###adSpace2
+###ad_top
 ###adcontainer1
 ###adcontainer3
 ###adholder
@@ -940,6 +942,7 @@ _banner.$domain=youtube.com
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
 ##DIV[id^="taboola-"]
+##DIV[style*="banners/"]
 ##IFRAME[name*="ads-center"]
 dailymotion.com##.hidden-sm.hidden-md
 facebook.com###pagelet_side_ads
