@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D57 
+! Version D58 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -102,6 +102,7 @@
 /adserver/*
 /adserving.
 /adsfac.
+/adtag/*
 /advertising_
 /adview?
 /afr.php?
