@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D59 
+! Version D60 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -255,7 +255,6 @@ images/ads/
 ||adunit.
 ||advarkads.com^
 ||advertising.
-||advertserve.com^$image
 ||adzerk.net^
 ||affinity.com^
 ||agilone.com^
@@ -415,6 +414,7 @@ images/ads/
 ||heapanalytics.com^
 ||histats.com^
 ||hotjar.com^
+||hudb.pl^
 ||ifmnwi.club^
 ||igodigital.com^
 ||imedia.cz^
@@ -719,6 +719,7 @@ images/ads/
 ||adsafeprotected.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adsjudo.$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||adsmarket.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||advertserve.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||alibaba.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
 ||billaruze.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||clicksgear.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
@@ -761,6 +762,7 @@ _banner.$domain=youtube.com
 ||2mdn.net^$domain=foxnews.com|youtube.com
 ||a.*.com/$domain=gsmarena.com
 ||adobedtm.com^$domain=aarp.org|hidemyass.com
+||adocean.pl^$domain=b92.net
 ||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||innovid.com^$domain=youtube.com
 ||stats.$domain=pandora.com|paypal.com
@@ -1019,6 +1021,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
+@@||roimedia.advertserve.com/js/
 @@||s.youtube.com/api/stats/playback?
 @@||stats.$domain=wetter.info
 @@||use.typekit.net^$script,font
