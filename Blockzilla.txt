@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D58 
+! Version D59 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -745,6 +745,7 @@ images/ads/
 ||webbads.info^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||whatsyourflower.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||wonderlandads.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||yieldtraffic.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||yx0.pw^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 !
 ! Add on Domains (Blocking) >>>>>
