@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D62 
+! Version D63 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -955,6 +955,7 @@ _banner.$domain=youtube.com
 dailymotion.com##.hidden-sm.hidden-md
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
+ign.com##.ign-pre-grid
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 mail.yahoo.com###slot_MB
@@ -978,12 +979,13 @@ datpiff.com,freewarefiles.com,lucianne.com##[style="cursor: pointer;"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
+mlive.com,theyeshivaworld.com##DIV[class*="_ad_"]
 movieweb.com,nerdist.com##DIV[class^="banner"]
 nzherald.co.nz##.ad-container
 pixabay.com##DIV[class*="sponsored"]
+reason.com,tomshardware.com##DIV[id$="leaderboard"]
+slashfilm.com##DIV[id*="300x250"]
 smh.com.au,washingtonpost.com##DIV[class$="leaderboard"]
-theyeshivaworld.com##DIV[class*="_ad_"]
-tomshardware.com##DIV[id$="leaderboard"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
