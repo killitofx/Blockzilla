@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D61 
+! Version D62 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -586,6 +586,7 @@ images/ads/
 ||statsevent.com^
 ||steelhousemedia.com^
 ||stirshakead.com^
+||summerhamster.com^
 ||sumome.com^$image
 ||supert.ag^
 ||surveygifts.win^
