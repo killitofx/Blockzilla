@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D60 
+! Version D61 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -686,6 +686,7 @@ images/ads/
 ||assoc-amazon.com^$third-party
 ||barilliance.net^$third-party
 ||counter.top.$third-party
+||cpotracker.$third-party
 ||creativecdn.com^$third-party
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
@@ -848,6 +849,7 @@ _banner.$domain=youtube.com
 ##.ad-slot
 ##.ad-tag
 ##.ad-title
+##.ad-unit
 ##.ad-zone-container
 ##.ad300x250
 ##.adBox
@@ -857,6 +859,7 @@ _banner.$domain=youtube.com
 ##.adNoOutline
 ##.adSpace
 ##.adStyle
+##.adWrapper
 ##.ad_300_250
 ##.ad_300x250
 ##.ad_728x90
@@ -977,10 +980,10 @@ mirror.co.uk##.top-slot
 movieweb.com,nerdist.com##DIV[class^="banner"]
 nzherald.co.nz##.ad-container
 pixabay.com##DIV[class*="sponsored"]
+smh.com.au,washingtonpost.com##DIV[class$="leaderboard"]
 theyeshivaworld.com##DIV[class*="_ad_"]
 tomshardware.com##DIV[id$="leaderboard"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
-washingtonpost.com##DIV[class$="leaderboard"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 yahoo.com##DIV[id*="-upsell-"]
