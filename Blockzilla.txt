@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D63 
+! Version D64 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -456,6 +456,7 @@ images/ads/
 ||liadm.com^
 ||lifestreet.com^
 ||lijit.com^
+||liondigitalserving.com/Tag.
 ||liqwid.net^
 ||liveramp.
 ||log.
@@ -652,6 +653,7 @@ images/ads/
 ||yieldmanager.
 ||yimg.com/rq/darla/$subdocument,domain=yahoo.com
 ||yldbt.com^
+||youtube.com/get_midroll_info?
 ||zdbb.net^
 ||zedo.com^
 ||ziccardia.com^
