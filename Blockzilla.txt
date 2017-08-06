@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D66 
+! Version D67 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -691,6 +691,7 @@ images/ads/
 ||counter.top.$third-party
 ||cpotracker.$third-party
 ||creativecdn.com^$third-party
+||etahub.com^$third-party
 ||goroost.com^$third-party
 ||lockerdome.com^$third-party
 ||metrics.$third-party
