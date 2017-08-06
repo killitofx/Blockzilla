@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D65 
+! Version D66 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1028,6 +1028,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
+@@||outbrain.com^$domain=wtae.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||roimedia.advertserve.com/js/
 @@||s.youtube.com/api/stats/playback?
