@@ -1,4 +1,4 @@
-## Blockzilla Maintenance Support Policy
+## Blockzilla Maintenance Support
 
 Maintenance support for Blockzilla may be provided for:
 
@@ -11,6 +11,21 @@ Maintenance support for Blockzilla will **NOT** be provided for:
 - P2P (BitTorrent etc.) and other copyright infringing, media sharing/streaming websites.
  
 - Websites containing or related to illegal activity/content.
+
+### [Report issues, unblocked ads or trackers here.](https://github.com/zpacman/Blockzilla/issues)
+
+###### Note:
+
+- You can also remedy any issues yourself instantly by simply disabling Adblock Plus for that certain website/page in your ad blocker's menu.
+
+###### Tip:
+
+- **Are you seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account. (Webmail, social media, etc.)
+
+If that is so, you can easily hide any unblocked ads that you see by using the "Element Hiding Helper for Adblock Plus".
+
+Install the add-on and look at the screenshot instructions: 
+https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/
 
 ###### Recommended Links:
 
