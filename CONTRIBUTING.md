@@ -12,17 +12,17 @@ Maintenance support for Blockzilla will **NOT** be provided for:
  
 - Websites containing or related to illegal activity/content.
 
-### [Report issues, unblocked ads or trackers here.](https://github.com/zpacman/Blockzilla/issues)
+:arrow_right: **[Report issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
 
 ###### Tip:
 
-- You can also remedy any issues yourself instantly by simply disabling Adblock Plus for that certain website/page in your ad blocker's menu.
+:bulb: You can also remedy any issues yourself instantly by simply disabling Adblock Plus for that certain website/page in your ad blocker's menu.
 
 ###### Note:
 
-- **Are you seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account (webmail, social media, etc.).
+:bulb: **Are you seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account (webmail, social media, etc.).
 
-- If that is so, you can easily hide any unblocked ads that you see by using the ["Element Hiding Helper for Adblock Plus".](https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/)
+ :bulb: If that is so, you can easily hide any unblocked ads that you see by using the ["Element Hiding Helper for Adblock Plus".](https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/)
 
 ###### Recommended Links:
 
