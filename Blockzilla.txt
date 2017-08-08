@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D67 
+! Version D68 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -537,6 +537,7 @@ images/ads/
 ||playnow.guru^
 ||polarmobile.com^
 ||popads.net^
+||posst.co^
 ||postrelease.com^
 ||prizma.tv/get
 ||pro-market.net^
@@ -612,6 +613,7 @@ images/ads/
 ||tritondigital.com^
 ||tru.am^
 ||truoptik.com^
+||tt.onthe.io^
 ||tubemogul.com^
 ||turn.com^
 ||tynt.com^
@@ -983,6 +985,7 @@ eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 horrornews.net##DIV[id*="cedato"]
 mirror.co.uk##.top-slot
 mlive.com,theyeshivaworld.com##DIV[class*="_ad_"]
+moneycontrol.com##DIV[class^="bot_"]
 movieweb.com,nerdist.com##DIV[class^="banner"]
 nzherald.co.nz##.ad-container
 pixabay.com##DIV[class*="sponsored"]
