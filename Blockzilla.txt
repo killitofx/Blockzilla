@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D70 
+! Version D71 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -175,8 +175,6 @@
 /sponsors.
 /st?ad_type=
 /swfbin/ad3-
-/tracker.
-/tracker/*
 /trackingCode.
 /tracking_
 /trackjs.
@@ -685,6 +683,8 @@ images/ads/
 /siteanalytics.$third-party
 /track.$third-party
 /track/*$third-party
+/tracker.$third-party
+/tracker/*$third-party
 /tracking.$third-party
 /tracking/*$third-party
 ||a.mobify.com^$third-party
