@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D71 
+! Version D72 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -22,7 +22,6 @@
 &aff_id=
 &view=ad&
 -1x1.gif?
--300x250.
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
@@ -674,6 +673,7 @@ images/ads/
 !
 ! $third-party >>>>>
 !
+-300x250.$third-party
 -analytics.$image,third-party
 -tracking.$third-party
 .amazonaws.com/*/buzzing/$third-party
