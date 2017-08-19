@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D73 
+! Version D74 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -956,7 +956,6 @@ _banner.$domain=youtube.com
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
 ##DIV[id^="taboola-"]
-##DIV[style*="banners/"]
 ##IFRAME[name*="ads-center"]
 dailymotion.com##.hidden-sm.hidden-md
 facebook.com###pagelet_side_ads
@@ -984,6 +983,7 @@ cosmopolitan.com##DIV[class^="leader"]
 datpiff.com,freewarefiles.com,lucianne.com##[style="cursor: pointer;"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 horrornews.net##DIV[id*="cedato"]
+mangafox.me##DIV[style*="banners/"]
 mirror.co.uk##.top-slot
 mlive.com,theyeshivaworld.com##DIV[class*="_ad_"]
 moneycontrol.com##DIV[class^="bot_"]
