@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D74 
+! Version D75 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -190,7 +190,7 @@
 ?adW=300&adH=250&
 ?instream_ad=
 AQB=1&ndh=
-_204?*_ad$image
+_204?*_ad&$image,ping
 _300x250-
 _ad_request.
 _ads&
