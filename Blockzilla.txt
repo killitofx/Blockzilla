@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D76 
+! Version D77 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -890,6 +890,7 @@ _banner.$domain=youtube.com
 ##.advertorial-pointer
 ##.affiliate-module
 ##.affiliate-mrec-iframe
+##.article-inline-ad
 ##.article_ad
 ##.b_ad
 ##.banner-ad
