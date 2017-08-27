@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D78 
+! Version D79 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1039,6 +1039,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||img-fotki.yandex.ru^
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
+@@||mixpanel.com^$domain=floorplanner.com
 @@||outbrain.com^$domain=wtae.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||roimedia.advertserve.com/js/
