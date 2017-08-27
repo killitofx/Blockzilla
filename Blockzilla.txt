@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D79 
+! Version D80 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -284,6 +284,7 @@ images/ads/
 ||bc.yahoo.com^
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
+||bet365.com/*affiliate=$popup
 ||betrad.com^
 ||beyondd.co.nz^
 ||bidswitch.net^
@@ -539,6 +540,7 @@ images/ads/
 ||prizma.tv/get
 ||pro-market.net^
 ||pubmine.com^
+||puserving.com^
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
@@ -652,7 +654,7 @@ images/ads/
 ||yieldmanager.
 ||yimg.com/rq/darla/$subdocument,domain=yahoo.com
 ||yldbt.com^
-||youtube.com/get_midroll_info?
+||youtube.com/get_midroll_
 ||zdbb.net^
 ||zedo.com^
 ||ziccardia.com^
@@ -739,6 +741,7 @@ images/ads/
 ||newpoptab.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||offers.$popup,third-party
 ||onclickads.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||onclickmax.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||onwardclick.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||perfecttoolmedia.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||pop.$popup
