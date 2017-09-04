@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D81 
+! Version D82 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1027,6 +1027,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||adobedtm.com/*/satelliteLib-$script,domain=aarp.org
 @@||analytics.$script,domain=threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
+@@||analytics.snidigital.com^
 @@||api-maps.yandex.ru^
 @@||bcbits.com/download/track/
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
