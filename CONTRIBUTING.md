@@ -1,4 +1,4 @@
-## Blockzilla Maintenance Support
+## Report Issues
 
 Blockzilla maintenance support policy:
 
@@ -10,7 +10,7 @@ Blockzilla maintenance support policy:
  
 :x: Websites containing or related to illegal activity/content.
 
-:arrow_right: **[Request maintenance support by reporting issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
+:arrow_right: **[Report issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
 
 ###### Tip:
 
