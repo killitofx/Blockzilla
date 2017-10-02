@@ -1,18 +1,16 @@
 ## Blockzilla Maintenance Support
 
-Maintenance support for Blockzilla may be provided for:
+Blockzilla maintenance support policy:
 
-- English websites only.
+:white_check_mark: English websites only.
 
-Maintenance support for Blockzilla will **NOT** be provided for:
+:x: Porn websites.
 
-- Porn websites.
-
-- P2P (BitTorrent, etc.) and other copyright infringing, media sharing/streaming websites.
+:x: P2P (BitTorrent, etc.) and other copyright infringing, media sharing/streaming websites.
  
-- Websites containing or related to illegal activity/content.
+:x: Websites containing or related to illegal activity/content.
 
-:arrow_right: **[Report issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
+:arrow_right: **[Request maintenance support by reporting issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
 
 ###### Tip:
 
@@ -26,5 +24,6 @@ Maintenance support for Blockzilla will **NOT** be provided for:
 
 ###### Recommended Links:
 
-- [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage, if required.)
-- [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (Opt-out of Google Analytics.)
+:link: [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage, if required.)
+
+:link: [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (Opt-out of Google Analytics.)
