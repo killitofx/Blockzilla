@@ -12,6 +12,6 @@
 
 - ### Subscribe to Blockzilla [from here.](https://blockzilla.jimdo.com/)
 
-- ### [Report issues](https://github.com/zpacman/Blockzilla/issues), see [support policy](./CONTRIBUTING.md).
+- ### [Report issues, unblocked ads or trackers.](./CONTRIBUTING.md)
 
 - #### Do you like Blockzilla? You can give it a :star: at the top of this page.
