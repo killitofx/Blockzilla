@@ -10,7 +10,7 @@
 
 - As is the nature with all ad blocking and privacy protection lists, false positives can occur, causing content on certain websites to be mistakenly blocked while browsing. If that is the case, you can remedy it instantly by simply disabling Adblock Plus for that certain website/page in your ad blocker's menu or you can report issues to me.
 
-- ### Subscribe to Blockzilla from the [Blockzilla website](https://blockzilla.jimdo.com/)
+- ### Subscribe from the [Blockzilla website](https://blockzilla.jimdo.com/)
 
      or with the URL `https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt`
 
