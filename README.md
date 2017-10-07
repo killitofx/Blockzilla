@@ -17,7 +17,3 @@
 - ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
 - #### Do you like Blockzilla? You can give it a :star: at the top of this page.
-
-###### Note:
-
-Blockzilla uses the Adblock Plus filter syntax and ideally should be used with Adblock Plus for the intended/optimal performance. However, Blockzilla can be used with other ad blockers that support the Adblock Plus filter syntax.
