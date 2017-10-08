@@ -1,6 +1,6 @@
 ## Report Issues
 
-Blockzilla maintenance support policy:
+**Blockzilla maintenance support policy:**
 
 :white_check_mark: English websites only.
 
@@ -20,7 +20,7 @@ Blockzilla maintenance support policy:
 
 :grey_exclamation: Blockzilla uses the Adblock Plus filter syntax and ideally should be used with Adblock Plus for the intended/optimal performance. However, Blockzilla can be used with other ad blockers that support the Adblock Plus filter syntax.
 
-:grey_exclamation: Untick the "Allow some non-intrusive advertising" checkbox in Adblock Plus:
+:grey_exclamation: **Untick the "Allow some non-intrusive advertising" checkbox in Adblock Plus:**
 
 :one: Click on the red "ABP" icon.
 
