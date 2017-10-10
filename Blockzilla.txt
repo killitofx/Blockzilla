@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D91 
+! Version D92 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -393,6 +393,7 @@ images/ads/
 ||fmpub.net^
 ||fng-ads.fox.com^
 ||fqtag.com^
+||freeskreen.com^
 ||game-advertising-online.com^
 ||gcw.mysavings.com^
 ||geo.yahoo.com^
