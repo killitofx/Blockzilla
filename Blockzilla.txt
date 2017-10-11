@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D93 
+! Version D94 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -284,6 +284,7 @@ images/ads/
 ||bats.video.yahoo.com^
 ||bazaarvoice.com/*.gif?
 ||bc.yahoo.com^
+||beaconads.com^
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
 ||bebi.com^
@@ -887,6 +888,7 @@ _banner.$domain=youtube.com
 ##.ads_slots_snippet
 ##.ads_wrapper
 ##.adsbygoogle
+##.adsense-block
 ##.adtop
 ##.adunit_rectangle
 ##.advert
@@ -989,6 +991,7 @@ all-free-download.com##LI[id^="ads"]
 all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DIV[id$="banner"]
 animefreak.tv##DIV[class*="-filter"]
 animenewsnetwork.com##[class*="iab"]
+christianitytoday.com##.overlay
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net,digitaltrends.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
@@ -1011,6 +1014,7 @@ stuff.co.nz##DIV[class*="_ad-"]
 twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
+wunderground.com##DIV[id*="banner"]
 yahoo.com##DIV[id*="-upsell-"]
 yahoo.com##LI[id^="ad-"]
 youtube.com##DIV[class*="-ads-"]
