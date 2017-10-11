@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D92 
+! Version D93 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1042,6 +1042,7 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 @@||analytics.$script,domain=threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
 @@||analytics.snidigital.com^
+@@||analytics.twitter.com/user/
 @@||api-maps.yandex.ru^
 @@||bcbits.com/download/track/
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
