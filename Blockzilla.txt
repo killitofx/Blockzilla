@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D94 
+! Version D95 
 ! Expires: 8 hours
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -589,6 +589,7 @@ images/ads/
 ||stats.*.gif?
 ||stats0*.gif?
 ||statsevent.com^
+||statsy.net^
 ||steelhousemedia.com^
 ||stirshakead.com^
 ||summerhamster.com^
@@ -738,6 +739,7 @@ images/ads/
 ||billaruze.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||clicksgear.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||coupontime.co^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||cpm20.com^$popup
 ||cpmstar.com^$popup
 ||directrev.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||doubleclick.net^$popup,image,media,object,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
