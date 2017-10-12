@@ -14,7 +14,7 @@
 
 ###### Tip:
 
-:bulb: You can also remedy any issues yourself instantly by simply disabling Adblock Plus for that certain website/page in your ad blocker's menu.
+:bulb: Remedy any issues yourself instantly, by simply disabling Adblock Plus for that certain website in your ad blocker's menu.
 
 ###### Notes:
 
@@ -30,7 +30,7 @@
 
 :bulb: **Still seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account (webmail, social media, etc.).
 
- :bulb: If that is so, you can easily hide any unblocked ads that you see by using the ["Element Hiding Helper for Adblock Plus".](https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/)
+ :bulb: Hide unblocked ads yourself by using the ["Element Hiding Helper for Adblock Plus".](https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/)
 
 ###### Recommended Links:
 
