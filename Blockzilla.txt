@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version D98 
+! Version D99 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -946,7 +946,6 @@ _banner.$domain=youtube.com
 ##.sidebar-ad
 ##.sidebar_right_ad
 ##.snarcy-ad
-##.sponsor
 ##.sponsored_links
 ##.topAd
 ##.topBannerAd
@@ -1073,5 +1072,4 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 @@||use.typekit.net^$script,font
 cardgames.io,check24.de#@#DIV[id*="-ads"]
 chess.com#@#DIV[id^="div-gpt-ad"]
-news.naver.com#@#DIV##.sponsor
 photographyblog.com#@#DIV[id^="taboola-"]
