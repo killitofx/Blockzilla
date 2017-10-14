@@ -8,10 +8,10 @@
 
 - Blockzilla is an unbloated and **slim list**, being light on system resources, yet still powerful against ads and trackers. 
 
-- ### Subscribe from the [Blockzilla website](https://blockzilla.jimdo.com/)
+- ### [Subscribe to Blockzilla](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt&title=Blockzilla)
 
-     or with the URL `https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt`
+- ###### Subscribe with URL: `https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt`
 
 - ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
-- #### Do you like Blockzilla? You can give it a :star: at the top of this page.
+- ###### Do you like Blockzilla? You can give it a :star: at the top of this page.
