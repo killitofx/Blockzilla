@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E05 
+! Version E06 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -789,6 +789,7 @@ _banner.$domain=youtube.com
 ||innovid.com^$domain=youtube.com
 ||stats.$domain=pandora.com|paypal.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
+||t7.rbxcdn.com^$image,domain=roblox.com
 ||tags.$domain=news.com.au
 !
 ! Ad Element Hiding >>>>>
@@ -1027,7 +1028,6 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Exceptions (Website Functionality) >>>>>
 !
-@@||krxd.net^$script,domain=foxnews.com
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.com/metrics/$script,domain=apple.com
@@ -1063,6 +1063,7 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 @@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
 @@||img-fotki.yandex.ru^
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
+@@||krxd.net^$script,domain=foxnews.com
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||mixpanel.com^$domain=floorplanner.com
 @@||outbrain.com^$domain=wtae.com
