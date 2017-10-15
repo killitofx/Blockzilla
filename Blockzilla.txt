@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E02 
+! Version E03 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -461,6 +461,7 @@ images/ads/
 ||liondigitalserving.com/Tag.
 ||liqwid.net^
 ||liveramp.
+||lkqd.net^
 ||log.
 ||logentries.com^
 ||lognormal.net^
@@ -628,6 +629,7 @@ images/ads/
 ||usabilla.com^
 ||userreport.com^
 ||vacwrite.com^
+||vertamedia.com^
 ||verymuchad.com^
 ||videostat.com^
 ||videotracker.
@@ -769,6 +771,7 @@ images/ads/
 !
 ! Add on Domains (Blocking) >>>>>
 !
+/ads/*$domain=herald-dispatch.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
