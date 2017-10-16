@@ -14,4 +14,4 @@
 
 - ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
-- ###### Do you like Blockzilla? You can give it a :star: at the top of this page.
+- ###### Like Blockzilla? Star it on GitHub! :star: (Desktop site)
