@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E07 
+! Version E08 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -779,7 +779,6 @@ images/ads/
 _banner.$domain=youtube.com
 |blob:$domain=kissmanga.com|laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com|watchcartoononline.io
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
-||2mdn.net^$domain=foxnews.com|youtube.com
 ||a.*.com/$domain=gsmarena.com
 ||adobedtm.com^$domain=aarp.org|webmd.com
 ||adocean.pl^$domain=b92.net
@@ -1016,7 +1015,6 @@ salon.com##DIV[class*="-ad-"]
 slashfilm.com##DIV[id*="300x250"]
 smh.com.au,venturebeat.com,washingtonpost.com##DIV[class$="leaderboard"]
 stuff.co.nz##DIV[class*="_ad-"]
-twitter.com,wnd.com,youtube.com##DIV[class*="prom"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 wunderground.com##DIV[id*="banner"]
