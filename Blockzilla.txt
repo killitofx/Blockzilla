@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E06 
+! Version E07 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -366,7 +366,6 @@ images/ads/
 ||dps-reach.com^
 ||drexel-systems.co^
 ||dw.com.com^
-||dynamicyield.com^
 ||ebz.io^
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
