@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E08 
+! Version E09 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1030,6 +1030,7 @@ youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 @@.com/metrics/$script,domain=apple.com
 @@.demdex.net/$script,domain=globaltv.com
 @@.net/ad/$object-subrequest,domain=foxsports.com
+@@/ad1.$image,domain=embed.universaluclick.com
 @@/beacon.js$domain=sciencechannel.com
 @@/beacon.min.js$domain=huffingtonpost.com
 @@/piwik.$script,domain=myuv.com
