@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E09 
+! Version E10 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -984,6 +984,7 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
+youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
 !
@@ -1021,10 +1022,10 @@ wunderground.com##DIV[id*="banner"]
 yahoo.com##DIV[id*="-upsell-"]
 yahoo.com##LI[id^="ad-"]
 youtube.com##DIV[class*="-ads-"]
-youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Exceptions (Website Functionality) >>>>>
 !
+@@.com/ad_img/$domain=twitter.com
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.com/metrics/$script,domain=apple.com
