@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E10 
+! Version E11 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -30,6 +30,7 @@
 -stat/analytics/
 .1d/Ads/
 .adbutler-
+.adrotate.
 .ads.*/banner?
 .advertising.com/
 .com/_/tr.ashx?r=*&loc=
@@ -193,6 +194,7 @@
 AQB=1&ndh=
 _204?*_ad&$image,ping
 _300x250-
+_Banner_Ad_
 _ad_request.
 _ads&
 _ads.html
@@ -206,6 +208,7 @@ _tracking.
 banners/*.skin_
 images/ads/
 ||112.2o7.net^
+||1rx.io^$xmlhttprequest
 ||204st.us^
 ||247realmedia.com^
 ||2mdn.net/*.gif
@@ -302,6 +305,7 @@ images/ads/
 ||boomtrain.com^
 ||botscanner.com^
 ||bounceexchange.com^
+||broadstreetads.com^
 ||btrll.com^
 ||bttrack.com^
 ||btttag.com^
@@ -543,8 +547,10 @@ images/ads/
 ||postrelease.com^
 ||prizma.tv/get
 ||pro-market.net^
+||prorentisol.com^
 ||pubmine.com^
 ||puserving.com^
+||px.reactrmod.com^
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
@@ -709,6 +715,7 @@ images/ads/
 ||outbrain.com^$third-party
 ||phantom.nudgespot.com^$third-party
 ||po.st/p?t=view&pub=$image,third-party
+||px.dynamicyield.com^$xmlhttprequest,third-party
 ||qualtrics.com^$third-party
 ||scribol.com^$third-party
 ||siteapps.com^$third-party
@@ -950,10 +957,12 @@ _banner.$domain=youtube.com
 ##.snarcy-ad
 ##.sponsor
 ##.sponsored_links
+##.top-ad-container
 ##.topAd
 ##.topBannerAd
 ##.verticalAdText
 ##.videoads
+##.w-ad-box
 ##.wall_ad
 ##.widget-ad
 ##.y7-advertisement
