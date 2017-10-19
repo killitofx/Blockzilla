@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E12 
+! Version E13 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -994,6 +994,7 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
+youtube.com##.promoted-videos
 youtube.com##YTD-PROMOTED-VIDEO-RENDERER
 !
 ! Add on Domains (Element Hiding) >>>>>
