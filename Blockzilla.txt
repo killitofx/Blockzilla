@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E11 
+! Version E12 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -966,6 +966,7 @@ _banner.$domain=youtube.com
 ##.wall_ad
 ##.widget-ad
 ##.y7-advertisement
+##ASIDE[class*="_adrotate_"]
 ##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://pubads.g.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
