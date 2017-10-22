@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E18 
+! Version E19 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -100,6 +100,7 @@
 /adsense_
 /adserve.
 /adserve/*
+/adserver-
 /adserver.
 /adserver/*
 /adserving.
@@ -229,7 +230,6 @@ images/ads/
 ||adcash.com^
 ||adclear.
 ||adclick.
-||adf.ly^
 ||adform.net^
 ||adgebra.co.in^
 ||adglare.net^
@@ -703,6 +703,7 @@ images/ads/
 /tracking.$third-party
 /tracking/*$third-party
 ||a.mobify.com^$third-party
+||adf.ly^$third-party
 ||assoc-amazon.com^$third-party
 ||barilliance.net^$third-party
 ||counter.top.$third-party
