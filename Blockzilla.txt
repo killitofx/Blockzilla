@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E17 
+! Version E18 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -25,6 +25,7 @@
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
+-pagead-id.
 -skyad=
 -stat/advertising/
 -stat/analytics/
