@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Testing 004/2017 
+! Testing 005/2017 
 ! Expires: 1 hours
 ! Contact at: https://github.com/zpacman
 !
@@ -13,5 +13,6 @@
 !
 ! Blockzilla Beta Testing >>>>>
 !
-! Testing [] for issues >>>>>
+! Testing [https://web.mail.comcast.net/zimbra/mail?app=mail] for issues >>>>>
 !
+/ads/*$domain=web.mail.comcast.net
