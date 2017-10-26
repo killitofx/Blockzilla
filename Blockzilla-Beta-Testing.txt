@@ -8,6 +8,8 @@
 !
 ! Blockzilla Beta Testing >>>>>
 !
+! NOTES:
+! Keep the main "Blockzilla" list enabled and active while using this list.
 ! Update this list in Adblock's preferences before testing.
 ! Remove this list when finished testing.
 !
