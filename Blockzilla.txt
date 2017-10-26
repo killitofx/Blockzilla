@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E21 
+! Version E22 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -983,7 +983,6 @@ _banner.$domain=youtube.com
 ##DIV[class^="box-ad"]
 ##DIV[class^="commercial-unit-"]
 ##DIV[id$="Ad-Proxy"]
-##DIV[id*="-ads"]
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
