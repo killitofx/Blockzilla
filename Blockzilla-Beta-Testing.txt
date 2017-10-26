@@ -1,7 +1,6 @@
 [Adblock Plus 2.8]
 ! Testing 005/2017 
 ! Expires: 1 hours
-! Contact at: https://github.com/zpacman
 !
 ! Title: Blockzilla Beta Testing
 ! Homepage: https://blockzilla.jimdo.com/
@@ -9,9 +8,11 @@
 ! Blockzilla Beta Testing >>>>>
 !
 ! NOTES:
+!
 ! Keep the main "Blockzilla" list enabled and active while testing.
-! Update this list in Adblock's preferences before testing.
+! Update this list in Adblock's settings before each testing.
 ! Remove this list when finished testing.
+! Contact at: https://github.com/zpacman
 !
 ! Blockzilla Beta Testing >>>>>
 !
