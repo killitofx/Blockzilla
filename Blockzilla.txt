@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E25 
+! Version E26 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -162,9 +162,6 @@
 /ntpagetag.gif?
 /oascentral.
 /openx_
-/pagead/conversion$image
-/pagead/lvz?
-/pagead/sul?
 /pagestatistics/*
 /ping.gif?u=
 /piwik.
@@ -641,6 +638,7 @@ images/ads/
 ||vacwrite.com^
 ||vertamedia.com^
 ||verymuchad.com^
+||video-ad-stats.
 ||videostat.com^
 ||videotracker.
 ||viglink.com^
@@ -788,10 +786,13 @@ images/ads/
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
 /img2/*$domain=jobs.ge
+/pagead/*$domain=youtube.com
+/pagead2.$domain=youtube.com
 /tag.$domain=slashdot.org
 _banner.$domain=youtube.com
 |blob:$domain=kissmanga.com|laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com|watchcartoononline.io
 |http:$xmlhttprequest,third-party,domain=clipconverter.cc
+||2mdn.net^$domain=youtube.com
 ||a.*.com/$domain=gsmarena.com
 ||adobedtm.com^$domain=aarp.org|webmd.com
 ||adocean.pl^$domain=b92.net
