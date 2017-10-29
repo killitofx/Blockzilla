@@ -16,6 +16,7 @@
 !
 ! Blockzilla Beta Testing >>>>>
 !
-! Testing [https://web.mail.comcast.net/zimbra/mail?app=mail] for issues >>>>>
+! Testing for issues >>>>>
 !
-/ads/*$domain=web.mail.comcast.net
+! []
+!
