@@ -2,7 +2,7 @@
 
 - Blockzilla is an advertisement and tracker blocking filter list subscription. Used with an ad blocking web browser extension such as Adblock Plus, Blockzilla makes you have a **better** web browsing experience.
 
-- Blockzilla eliminates annoying and inappropriate advertisements, making websites load **faster**.
+- Blockzilla eliminates annoying and inappropriate advertisements, making websites look better and load **faster**.
 
 - Blockzilla also makes your internet browsing **safer** and more private by blocking tracking techniques that are used by most websites to learn about your online behaviour.
 
