@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E30 
+! Version E31 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -176,6 +176,7 @@
 /showad/*
 /sponsors.
 /st?ad_type=
+/stats.gif?
 /swfbin/ad3-
 /trackingCode.
 /tracking_
@@ -615,6 +616,7 @@ images/ads/
 ||tealium.hs.llnwd.net^
 ||telize.com^
 ||thankswrite.com^
+||theadex.com^
 ||thebloggernetwork.com^
 ||thefoxads.ru^
 ||topbananaad.com^
