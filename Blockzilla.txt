@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E26 
+! Version E27 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -781,7 +781,7 @@ images/ads/
 !
 ! Add on Domains (Blocking) >>>>>
 !
-/ads/*$domain=herald-dispatch.com
+/ads/*$domain=herald-dispatch.com|web.mail.comcast.net
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
