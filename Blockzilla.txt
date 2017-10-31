@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E32 
+! Version E33 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1038,6 +1038,7 @@ salon.com##DIV[class*="-ad-"]
 slashfilm.com##DIV[id*="300x250"]
 smh.com.au,venturebeat.com,washingtonpost.com##DIV[class$="leaderboard"]
 stuff.co.nz##DIV[class*="_ad-"]
+tvguide.com##DIV[class*="popover"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
 wunderground.com##DIV[id*="banner"]
