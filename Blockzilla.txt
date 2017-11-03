@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E33 
+! Version E34 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1026,6 +1026,8 @@ csnchicago.com,reason.com,tomshardware.com##DIV[id$="leaderboard"]
 datpiff.com,freewarefiles.com,lucianne.com##[style="cursor: pointer;"]
 deviantart.com##DIV[class$="300x250"]
 deviantart.com,nzherald.co.nz,raiders.com##.ad-container
+distractify.com##DIV[class*="AdInArticle"]
+distractify.com##DIV[class^="RightRail"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 horrornews.net##DIV[id*="cedato"]
 mangafox.me##DIV[style*="banners/"]
