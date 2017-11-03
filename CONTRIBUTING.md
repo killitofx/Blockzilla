@@ -16,7 +16,7 @@
 
 :bulb: Remedy any issues yourself instantly, by simply disabling Adblock Plus for that certain website in your ad blocker's menu.
 
-###### Notes:
+## Notes:
 
 :grey_exclamation: Blockzilla uses the Adblock Plus filter syntax and ideally should be used with Adblock Plus for the intended/optimal performance. However, Blockzilla can be used with other ad blockers that support the Adblock Plus filter syntax.
 
