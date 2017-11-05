@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E36 
+! Version E37 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -957,6 +957,7 @@ _banner.$domain=youtube.com
 ##.netshelter-ad
 ##.other_adv
 ##.pb-f-ads-ad
+##.plistaAllOuter
 ##.resultad
 ##.right_col_ad
 ##.search-message-container-ad
@@ -1024,7 +1025,6 @@ cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 comingsoon.net,digitaltrends.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
 csnchicago.com,reason.com,tomshardware.com##DIV[id$="leaderboard"]
-dailymail.co.uk##.plista_widget_belowArticle
 datpiff.com,freewarefiles.com,lucianne.com##[style="cursor: pointer;"]
 deviantart.com##DIV[class$="300x250"]
 deviantart.com,nzherald.co.nz,raiders.com##.ad-container
