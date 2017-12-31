@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E41 
+! Version E42 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1095,6 +1095,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||list-manage.com/track/
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||mixpanel.com^$domain=floorplanner.com
+@@||moatads.com^$script,domain=digitaltrends.com
 @@||outbrain.com^$domain=wtae.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||roimedia.advertserve.com/js/
