@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E50 
+! Version E51 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1092,11 +1092,11 @@ youtube.com##DIV[class*="-ads-"]
 @@||api-maps.yandex.ru^
 @@||bcbits.com/download/track/
 @@||c.amazon-adsystem.$script,domain=player.performgroup.com
+@@||cdn.turner.com/ads/*/cnn$script,domain=cnn.com
 @@||doubleclick.net/gampad/ads?gdfp%$object-subrequest,domain=cbsnews.com
 @@||doubleclick.net/gampad/ads?max%$object-subrequest,domain=cbsnews.com
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=csnchicago.com|digitaltrends.com
 @@||googletagservices.com^$script,domain=csnchicago.com|digitaltrends.com|nytimes.com|threenow.co.nz|zdnet.com
-@@||i.cdn.turner.com/ads/*/cnn_$script,domain=cnn.com
 @@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
 @@||img-fotki.yandex.ru^
 @@||imrworldwide.com/v60.js$domain=threenow.co.nz
