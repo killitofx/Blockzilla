@@ -12,11 +12,11 @@
 
 :arrow_right: **[Report issues, unblocked ads or trackers.](https://github.com/zpacman/Blockzilla/issues)**
 
-###### Tip:
+###### Tips:
 
-:bulb: Remedy any issues yourself instantly by simply disabling Adblock Plus for the affected website:
+:bulb: Before reporting an issue, make sure that it is in fact Blockzilla that is causing the issue. Confirm this by temporarily disabling other lists that you may be subscribed to (including the built in "Tracking Protection" in some browsers).
 
-:one: Click on the ad blocker's icon, then click for it to be disabled on that specific website.
+:bulb: Remedy any issues yourself instantly by simply disabling your ad blocker for the affected website.
 
 ## Notes:
 
