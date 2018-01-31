@@ -30,7 +30,7 @@
 
 :three: Untick the "Allow Acceptable Ads" checkbox.
 
-:bulb: **Still seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account (webmail, social media, etc.).
+:grey_exclamation: **Still seeing some unblocked ads while using Blockzilla?** This is because in some cases I can't have access to certain websites to create ad blocking filters due to those websites having regional/country specific restrictions or require a login account (webmail, social media, etc.).
 
 ###### Recommended Links:
 
