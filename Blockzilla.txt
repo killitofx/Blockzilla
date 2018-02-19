@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E59 
+! Version E60 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -121,6 +121,7 @@
 /botd.gif?
 /bvstaging/*
 /cedexis/*
+/clicktrack?
 /cmdatatagutils.js
 /cookie_backup.php?
 /count.js
