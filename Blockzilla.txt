@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E58 
+! Version E59 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1114,6 +1114,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||s.youtube.com/api/stats/playback?
 @@||scorecardresearch.com^$script,domain=animalplanet.com
 @@||stats.$domain=csnchicago.com|stats.com|wetter.info
+@@||ticketm.net/*/tm_internal_tracker.js
 @@||use.typekit.net^$script,font
 cardgames.io,check24.de#@#DIV[id*="-ads"]
 cdkeys.com#@#DIV[class^="box-ad"]
