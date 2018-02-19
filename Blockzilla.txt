@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E60 
+! Version E61 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -50,7 +50,7 @@
 .com/pixel-
 .com/pixel.
 .com/t.gif?
-.com/tr/?id=$image
+.com/tr/?*=$image,xmlhttprequest
 .ero*advertising.com/
 .eu/ads/
 .gif?knowledge=
