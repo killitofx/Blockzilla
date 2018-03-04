@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E70 
+! Version E71 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1100,7 +1100,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||adobedtm.com/*/satelliteLib-$script,domain=aarp.org
-@@||analytics.$script,domain=threenow.co.nz
+@@||analytics.$script,domain=everbuying.net|threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
 @@||analytics.snidigital.com^
 @@||analytics.twitter.com/user/
