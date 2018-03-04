@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E69 
+! Version E70 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -921,6 +921,7 @@ _banner.$domain=youtube.com
 ##.ad__container
 ##.ad_top
 ##.ad_wrapper
+##.adbetween
 ##.adbox
 ##.adfliction
 ##.admpu
@@ -929,6 +930,7 @@ _banner.$domain=youtube.com
 ##.ads_wrapper
 ##.adsbygoogle
 ##.adsense-block
+##.adslot
 ##.adtop
 ##.adunit_rectangle
 ##.advert
