@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E73 
+! Version E74 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -646,6 +646,7 @@ images/ads/
 ||turn.com^
 ||tynt.com^
 ||typekit.net^
+||udimg.com^
 ||umbel.com^
 ||univide.com^
 ||unrulymedia.com^
@@ -899,6 +900,7 @@ _banner.$domain=youtube.com
 ##.ad-engage
 ##.ad-header
 ##.ad-leaderboard
+##.ad-panel
 ##.ad-rectangle
 ##.ad-sample
 ##.ad-slot
