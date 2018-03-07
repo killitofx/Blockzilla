@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E72 
+! Version E73 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1044,7 +1044,7 @@ animefreak.tv##DIV[class*="-filter"]
 animenewsnetwork.com##[class*="iab"]
 christianitytoday.com##.overlay
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
-comingsoon.net,digitaltrends.com,indiewire.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
+comingsoon.net,digitaltrends.com,indiewire.com,lifewire.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
 cosmopolitan.com##DIV[class^="leader"]
 csnchicago.com,reason.com,tomshardware.com##DIV[id$="leaderboard"]
 datpiff.com,freewarefiles.com,lucianne.com##[style="cursor: pointer;"]
