@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E80 
+! Version E81 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -744,6 +744,7 @@ images/ads/
 ||qualtrics.com^$third-party
 ||scribol.com^$third-party
 ||siteapps.com^$third-party
+||smartasset.com/embed/$third-party
 ||snapengage.com^$image,third-party
 ||stats.$third-party
 ||syndication.twitter.com^$third-party
@@ -813,7 +814,6 @@ images/ads/
 /pagead/*$domain=youtube.com
 /pagead2.$domain=youtube.com
 /tag.$domain=slashdot.org
-/widgets/*$domain=kiplinger.com
 _ads.$domain=dailymail.co.uk
 _banner.$domain=youtube.com
 |blob:$domain=kissmanga.com|laptopmag.com|mensfitness.com|merriam-webster.com|tomshardware.com|topix.com|watchcartoononline.io
