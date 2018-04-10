@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E85 
+! Version E86 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -648,6 +648,7 @@ images/ads/
 ||tribalfusion.com^
 ||triggit.com^
 ||tritondigital.com^
+||trk*.sele.co^
 ||tru.am^
 ||truoptik.com^
 ||tt.onthe.io^
@@ -1083,11 +1084,11 @@ moneycontrol.com##DIV[class^="bot_"]
 movieweb.com,nerdist.com##DIV[class^="banner"]
 pixabay.com##DIV[class*="sponsored"]
 salon.com##DIV[class*="-ad-"]
+shape.com,wunderground.com##DIV[id*="banner"]
 smh.com.au,venturebeat.com,washingtonpost.com##DIV[class$="leaderboard"]
 stuff.co.nz##DIV[class*="_ad-"]
 wikipedia.de##DIV[id^="banner"]
 wired.com##DIV[class*="banner"]
-wunderground.com##DIV[id*="banner"]
 yahoo.com##DIV[id*="-upsell-"]
 yahoo.com##LI[id^="ad-"]
 youtube.com##DIV[class*="-ads-"]
