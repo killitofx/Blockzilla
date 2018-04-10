@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E84 
+! Version E85 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -505,6 +505,7 @@ images/ads/
 ||mgid.com^
 ||mixadvert.com^
 ||mixpanel.com^
+||mms.$image
 ||moatads.com^
 ||monetate.net^
 ||mookie1.com^
@@ -570,6 +571,7 @@ images/ads/
 ||pro-market.net^
 ||prorentisol.com^
 ||pubmine.com^
+||pubnation.com^
 ||puserving.com^
 ||px.reactrmod.com^
 ||quantserve.com^
@@ -600,6 +602,7 @@ images/ads/
 ||servedbyopenx.com^
 ||serving-sys.com^
 ||shareasale.com^
+||sharethrough.com^
 ||silkenthreadiness.info^
 ||simplereach.com^
 ||sitemeter.com^
@@ -738,6 +741,7 @@ images/ads/
 ||creativecdn.com^$third-party
 ||etahub.com^$third-party
 ||goroost.com^$third-party
+||ipify.org^$third-party
 ||lockerdome.com^$third-party
 ||metrics.$third-party
 ||mmstat.com^$third-party
