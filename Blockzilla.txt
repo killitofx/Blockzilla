@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E91 
+! Version E92 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -770,7 +770,6 @@ images/ads/
 ! $popup >>>>>
 !
 &popunder=$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
-&utm_campaign=$popup,third-party
 /banner/*$popup
 /popunder.$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||4dsply.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
