@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E94 
+! Version E95 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1066,6 +1066,7 @@ all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DI
 amazon.com##DIV[id^="sponsored"]
 animefreak.tv##DIV[class*="-filter"]
 animenewsnetwork.com##[class*="iab"]
+channelnewsasia.com,kiplinger.com##[class*="advert"]
 christianitytoday.com##.overlay
 cnet.com,empireonline.com,laptopmag.com##DIV[id^="leader"]
 cnn.com##[class*="promotions"]
@@ -1080,7 +1081,6 @@ distractify.com##DIV[class^="RightRail"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
 greatist.com,slashfilm.com##DIV[id*="300x250"]
 horrornews.net##DIV[id*="cedato"]
-kiplinger.com##[class*="advert"]
 mangafox.me##DIV[style*="banners/"]
 mirror.co.uk##.top-slot
 mlive.com,theyeshivaworld.com##DIV[class*="_ad_"]
