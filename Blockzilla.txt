@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E96 
+! Version E97 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -11,6 +11,7 @@
 !
 ! A powerful filter list subscription.
 ! Block ads. Block trackers. Better web.
+! Lightweight, optimized.
 !
 ! Blockzilla by zpacman >>>>>
 !
