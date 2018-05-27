@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E97 
+! Version E98 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -65,7 +65,6 @@
 .net/ads/
 .net/atrk.
 .net/log.
-.net/record$xmlhttprequest
 .net/www/delivery/
 .net/z.gif?
 .nz/ads/
@@ -180,6 +179,7 @@
 /prebid/*
 /productAds/*
 /ptracking?
+/record_*.php?ref=$xmlhttprequest
 /research/pixel?
 /sessioncam.
 /show_afs_ads.
@@ -321,6 +321,7 @@ images/ads/
 ||bluesli.de^
 ||bnc.lt^
 ||bnmla.com^
+||bnrdom.com^
 ||boomtrain.com^
 ||botscanner.com^
 ||bounceexchange.com^
@@ -727,6 +728,8 @@ images/ads/
 -analytics.$image,third-party
 -tracking.$third-party
 .amazonaws.com/*/buzzing/$third-party
+.com/html5banner/$third-party
+.com/showbanner.php^$image,third-party
 /c.gif?$third-party
 /e.gif?$third-party
 /get_cdns?$xmlhttprequest,third-party
@@ -742,6 +745,7 @@ images/ads/
 ||alexa.com^$third-party
 ||assoc-amazon.com^$third-party
 ||barilliance.net^$third-party
+||chaturbate.com/*&campaign=$subdocument,third-party
 ||counter.top.$third-party
 ||cpotracker.$third-party
 ||creativecdn.com^$third-party
@@ -787,6 +791,7 @@ images/ads/
 ||alibaba.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest,third-party
 ||bet365.com/*affiliate=$popup
 ||billaruze.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||chaturbate.com^$popup,third-party
 ||clicksgear.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||coupontime.co^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||cpm20.com^$popup
@@ -797,6 +802,7 @@ images/ads/
 ||foxsnews.net^$popup
 ||ijquery11.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||newpoptab.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||nlkdom.com^$popup
 ||offers.$popup,third-party
 ||onclickads.net^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||onclickmax.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
@@ -871,6 +877,7 @@ _banner.$domain=youtube.com
 ###ad_top
 ###adcontainer1
 ###adcontainer3
+###adhesion-ad
 ###adholder
 ###adkit_mrec1
 ###adkit_mrec2
@@ -896,6 +903,7 @@ _banner.$domain=youtube.com
 ###masthead-ad
 ###mbEnd
 ###mrktImg
+###responsive_ad
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
@@ -912,6 +920,9 @@ _banner.$domain=youtube.com
 ##.AdUnit
 ##.AdvertisementText
 ##.ad--300x250
+##.ad-300
+##.ad-728
+##.ad-728-top
 ##.ad-article-breaker
 ##.ad-banner
 ##.ad-banner-leaderboard
