@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version E98 
+! Version E99 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -828,6 +828,7 @@ images/ads/
 !
 -adverts.$domain=dailymail.co.uk
 /ads/*$domain=herald-dispatch.com|web.mail.comcast.net
+/affiliate/*$domain=ndtv.com
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
@@ -874,6 +875,7 @@ _banner.$domain=youtube.com
 ###adSpace0
 ###adSpace1
 ###adSpace2
+###ad_300x250
 ###ad_top
 ###adcontainer1
 ###adcontainer3
@@ -941,7 +943,9 @@ _banner.$domain=youtube.com
 ##.ad-unit
 ##.ad-zone-container
 ##.ad300x250
+##.ad728_cont
 ##.adBox
+##.adCont
 ##.adContainer
 ##.adHeader
 ##.adHolder
@@ -959,6 +963,7 @@ _banner.$domain=youtube.com
 ##.adblock1
 ##.adblock2
 ##.adbox
+##.adcont
 ##.adfliction
 ##.admpu
 ##.adroot
@@ -1002,6 +1007,7 @@ _banner.$domain=youtube.com
 ##.headerTextAd
 ##.horizontalAdText
 ##.inline-ad
+##.ins_rhscont300
 ##.item-container-ad
 ##.js-adfliction-standard
 ##.js-stream-ad
