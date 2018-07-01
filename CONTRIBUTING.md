@@ -37,3 +37,5 @@
 :link: [Known Adblock Plus subscriptions](https://adblockplus.org/subscriptions) (For supplemental coverage, if required.)
 
 :link: [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (Opt-out of Google Analytics.)
+
+:link: [Google Ads Personalization Opt-out Browser Add-on](https://support.google.com/ads/answer/7395996) (Opt-out of Google Ads Personalization.)
