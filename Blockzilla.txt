@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version F03 
+! Version F04 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1170,6 +1170,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||krxd.net^$script,domain=foxnews.com
 @@||list-manage.com/track/
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
+@@||mc.yandex.ru/metrika/tag.js$domain=kaspersky.ru
 @@||mixpanel.com^$domain=floorplanner.com
 @@||moatads.com^$script,domain=digitaltrends.com
 @@||monetate.net^$script,domain=oakley.com
