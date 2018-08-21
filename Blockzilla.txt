@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version F05 
+! Version F06 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -596,7 +596,6 @@ images/ads/
 ||richmedia247.com^
 ||rkdms.com^
 ||rlcdn.com^
-||rover.ebay.com^
 ||ru4.com^
 ||rubiconproject.com^
 ||s.youtube.com^$image
