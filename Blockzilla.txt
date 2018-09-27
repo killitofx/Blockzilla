@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version F09 
+! Version F10 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1123,6 +1123,7 @@ youtube.com##DIV[class*="-ads-"]
 !
 @@-adverts.$script,domain=dailymail.co.uk
 @@.com/ad_img/$domain=twitter.com
+@@.com/ads/$subdocument,domain=kissmanga.com
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.com/metrics/$script,domain=apple.com
