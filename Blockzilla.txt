@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Version F11 
+! Version F12 
 ! Expires: 8 hours (update frequency)
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
@@ -1184,6 +1184,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||stats.$domain=csnchicago.com|stats.com|wetter.info
 @@||ticketm.net/*/tm_internal_tracker.js
 @@||use.typekit.net^$script,font
+@@||vidtech.cbsinteractive.com/*/tracking/$script
 @@||yandex.ru^$xmlhttprequest,domain=yastatic.net
 bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,facebook.com,oakley.com#@#.advert
 cardgames.io,check24.de#@#DIV[id*="-ads"]
