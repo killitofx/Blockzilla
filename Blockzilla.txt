@@ -2,7 +2,8 @@
 ! Expires: 8 hours (update frequency)
 ! Title: Blockzilla
 ! Homepage: https://blockzilla.jimdo.com/
-! Version F15
+!
+! Version F16
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
 !
