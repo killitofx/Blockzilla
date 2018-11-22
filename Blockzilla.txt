@@ -1,11 +1,10 @@
 [Adblock Plus 2.8]
 ! Expires: 8 hours (update frequency)
 ! Title: Blockzilla
-! Version F14
+! Homepage: https://blockzilla.jimdo.com/
+! Version F15
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
-!
-! Homepage: https://blockzilla.jimdo.com/ 
 !
 ! Blockzilla by zpacman >>>>>
 !
