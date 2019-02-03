@@ -3,7 +3,7 @@
 ! Title: Blockzilla
 ! Homepage: https://blockzilla.jimdo.com/
 !
-! Version F16
+! Version F17
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
 !
@@ -1170,6 +1170,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||imrworldwide.com^$domain=threenow.co.nz
 @@||krxd.net^$script,domain=foxnews.com
 @@||list-manage.com/track/
+@@||livechatinc.com/tracking.js
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||mc.yandex.ru/metrika/tag.js$domain=kaspersky.ru
 @@||mixpanel.com^$domain=floorplanner.com
